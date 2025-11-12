@@ -1,0 +1,2820 @@
+transaction_id,items,basket_size,basket_total
+0,"['tropical_fruit', 'yogurt', 'coffee']",3,27.009596401178655
+2,"['pip_fruit', 'yogurt', 'cream_cheese', 'meat_spreads']",4,30.743368153868573
+3,"['other_vegetables', 'whole_milk', 'condensed_milk', 'long_life_bakery_product']",4,42.24093419220393
+6,"['whole_milk', 'cereals']",2,16.459715566590184
+8,"['frankfurter', 'rolls/buns', 'soda']",3,21.030958524928742
+9,"['chicken', 'tropical_fruit']",2,14.080010377856883
+10,"['butter', 'sugar', 'fruit/vegetable_juice', 'newspapers']",4,28.96332819913841
+16,"['butter_milk', 'pastry']",2,15.470985294725907
+20,"['yogurt', 'beverages', 'bottled_water', 'specialty_bar']",4,25.418931859665427
+21,"['beef', 'grapes', 'detergent']",3,15.408877917754378
+22,"['pastry', 'soda']",2,15.8089339657716
+24,"['root_vegetables', 'other_vegetables', 'whole_milk', 'dessert']",4,26.20948327477529
+25,"['citrus_fruit', 'zwieback', 'newspapers']",3,29.82451103295478
+26,"['berries', 'yogurt']",2,13.454095253149205
+28,"['pastry', 'bottled_water']",2,11.863740675583134
+31,"['whole_milk', 'curd', 'yogurt', 'pastry']",4,22.99036381525145
+32,"['rolls/buns', 'pastry', 'sugar']",3,15.164160443717435
+33,"['rolls/buns', 'pastry', 'soda']",3,17.674505510142517
+35,"['curd_cheese', 'coffee']",2,26.067393584964016
+36,"['whole_milk', 'meat_spreads', 'soda']",3,23.10061247968142
+38,"['other_vegetables', 'whole_milk', 'rolls/buns', 'sugar']",4,24.098254829753365
+39,"['frozen_meals', 'coffee']",2,23.27883293880747
+41,"['root_vegetables', 'onions', 'hard_cheese', 'frozen_vegetables']",4,27.980220279166044
+43,"['coffee', 'newspapers']",2,22.79132349190127
+44,"['berries', 'yogurt']",2,13.454095253149205
+47,"['fruit/vegetable_juice', 'salty_snack', 'candles']",3,19.73667367192169
+48,"['citrus_fruit', 'butter_milk', 'yogurt', 'cream_cheese']",4,28.254435642807604
+50,"['grapes', 'photo/film']",2,6.135866570868513
+51,"['whole_milk', 'yogurt', 'brown_bread']",3,22.251182274816394
+52,"['citrus_fruit', 'tropical_fruit']",2,24.223014697953907
+53,"['soda', 'misc._beverages']",2,12.908081091925087
+54,"['frankfurter', 'rolls/buns', 'bottled_water']",3,17.08576523474028
+56,"['rolls/buns', 'fruit/vegetable_juice']",2,7.7421428957433465
+58,"['tropical_fruit', 'pip_fruit']",2,24.672032542776513
+59,"['packaged_fruit/vegetables', 'bottled_water']",2,17.260353602158254
+60,"['berries', 'whipped/sour_cream']",2,14.566410209177818
+61,"['citrus_fruit', 'berries', 'uht-milk', 'processed_cheese']",4,37.24475311016651
+62,"['tropical_fruit', 'whole_milk', 'yogurt']",3,22.381061546345492
+63,"['whole_milk', 'cream_cheese', 'soda']",3,19.16050823048635
+64,"['pastry', 'soda']",2,15.8089339657716
+68,"['frankfurter', 'dessert']",2,19.206491690015046
+70,"['berries', 'soda']",2,16.926588341311934
+71,"['tropical_fruit', 'other_vegetables', 'coffee']",3,33.826471356660164
+73,"['rolls/buns', 'instant_food_products']",2,10.561495088348156
+74,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+76,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+77,"['pasta', 'popcorn']",2,19.753358813299247
+79,"['coffee', 'shopping_bags']",2,21.632609651822385
+81,"['whole_milk', 'butter', 'dessert', 'rolls/buns']",4,23.068464283760616
+82,"['frankfurter', 'soda', 'chewing_gum']",3,19.994712040998802
+83,"['tropical_fruit', 'specialty_cheese', 'bottled_water']",3,26.01883455156353
+84,"['beverages', 'soda']",2,13.139120291547595
+85,"['whole_milk', 'pastry', 'long_life_bakery_product']",3,29.958274259676358
+88,"['whole_milk', 'cream_cheese', 'cereals', 'dog_food']",4,23.87289369399412
+89,"['whole_milk', 'salt']",2,17.588635366486617
+90,"['dessert', 'ice_cream']",2,19.87632638372963
+91,"['other_vegetables', 'ice_cream']",2,23.17960354159119
+92,"['other_vegetables', 'bottled_water']",2,13.934097685214306
+93,"['herbs', 'candy']",2,13.643519514359287
+97,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+100,"['curd', 'rolls/buns']",2,5.655757105608737
+101,"['whole_milk', 'bottled_water', 'newspapers']",3,21.485049900921638
+102,"['rolls/buns', 'chewing_gum']",2,2.694896604811895
+103,"['citrus_fruit', 'pastry']",2,21.042131405622044
+105,"['rolls/buns', 'pastry', 'soda']",3,17.674505510142517
+106,"['condensed_milk', 'sugar', 'coffee', 'shopping_bags']",4,36.6020220623357
+107,"['whole_milk', 'beverages', 'uht-milk', 'soda']",4,24.683615174940897
+109,"['beverages', 'specialty_bar']",2,18.301709129932632
+110,"['bottled_water', 'fruit/vegetable_juice']",2,9.198832615225959
+112,"['cleaner', 'female_sanitary_products']",2,15.365604133189734
+114,"['misc._beverages', 'newspapers']",2,16.93967779854644
+115,"['whole_milk', 'mustard', 'bottled_water']",3,14.633501287013095
+116,"['meat', 'other_vegetables', 'butter', 'rolls/buns']",4,32.08183790805606
+117,"['whole_milk', 'whipped/sour_cream', 'semi-finished_bread', 'margarine']",4,26.519858068080868
+118,"['citrus_fruit', 'whole_milk', 'rolls/buns']",3,21.229960914668116
+119,"['hard_cheese', 'rolls/buns', 'bottled_water', 'newspapers']",4,27.140728047920412
+120,"['cream_cheese', 'rolls/buns', 'soda', 'chocolate']",4,23.998386639622147
+121,"['whole_milk', 'beverages']",2,12.735403113910358
+122,"['rolls/buns', 'soda']",2,9.133026098412913
+124,"['pip_fruit', 'other_vegetables', 'fruit/vegetable_juice']",3,29.43807761144825
+125,"['root_vegetables', 'other_vegetables', 'yogurt']",3,15.832148100750583
+128,"['root_vegetables', 'whole_milk', 'pet_care', 'detergent']",4,10.769631948321575
+131,"['pickled_vegetables', 'coffee']",2,23.661355414941546
+134,"['turkey', 'pip_fruit', 'salad_dressing', 'pastry']",4,34.97518206170801
+136,"['citrus_fruit', 'tropical_fruit']",2,24.223014697953907
+137,"['citrus_fruit', 'sugar', 'sauces']",3,30.932181496769655
+138,"['citrus_fruit', 'packaged_fruit/vegetables', 'yogurt', 'bottled_water']",4,33.55596706192996
+139,"['uht-milk', 'coffee']",2,16.17302973822646
+142,"['beef', 'citrus_fruit', 'other_vegetables', 'yogurt']",4,38.443975559992595
+145,"['other_vegetables', 'yogurt', 'brown_bread', 'instant_coffee']",4,29.43355010930325
+146,"['bottled_water', 'cake_bar']",2,10.815661099525583
+147,"['tropical_fruit', 'soda', 'salty_snack']",3,26.320712247178886
+149,"['grapes', 'root_vegetables']",2,4.162547848489986
+150,"['domestic_eggs', 'brown_bread', 'photo/film']",3,15.59790527981102
+151,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+153,"['margarine', 'hygiene_articles']",2,22.042949808528125
+154,"['soda', 'specialty_chocolate']",2,14.665175984318035
+160,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+161,"['salt', 'salty_snack', 'cookware']",3,25.2530128178024
+163,"['other_vegetables', 'butter', 'specialty_chocolate']",3,25.040153951122537
+165,"['frankfurter', 'whole_milk', 'butter_milk']",3,25.69117568591689
+166,"['whole_milk', 'soda']",2,14.131191930446754
+169,"['whole_milk', 'hygiene_articles']",2,16.996283711151875
+171,"['citrus_fruit', 'whole_milk', 'curd', 'soft_cheese']",4,34.65310811414557
+172,"['pastry', 'fruit/vegetable_juice']",2,14.418050763102032
+174,"['other_vegetables', 'bottled_water']",2,13.934097685214306
+175,"['berries', 'white_bread']",2,19.36254942727851
+176,"['berries', 'coffee']",2,21.151406018507863
+177,"['other_vegetables', 'butter_milk', 'frozen_meals', 'bottled_water']",4,32.65016427578015
+178,"['rolls/buns', 'newspapers']",2,13.164622805034266
+179,"['whole_milk', 'frozen_dessert', 'salty_snack', 'napkins']",4,20.9857843805466
+180,"['tropical_fruit', 'butter_milk', 'rolls/buns', 'bottled_water']",4,23.83970139528222
+182,"['butter_milk', 'yogurt']",2,10.724467348875567
+185,"['hard_cheese', 'pastry', 'napkins']",3,21.406408971509688
+186,"['onions', 'whole_milk', 'beverages', 'frozen_dessert']",4,26.062216889546267
+191,"['yogurt', 'chocolate']",2,13.631005707048901
+192,"['domestic_eggs', 'rolls/buns', 'dish_cleaner', 'hygiene_articles']",4,14.76555685677923
+194,"['meat', 'other_vegetables', 'whole_milk', 'whipped/sour_cream']",4,34.95668406251205
+195,"['dish_cleaner', 'bathroom_cleaner', 'hygiene_articles', 'napkins']",4,25.100963420393377
+196,"['other_vegetables', 'whole_milk', 'rolls/buns', 'instant_food_products']",4,28.03706888611369
+197,"['tropical_fruit', 'other_vegetables']",2,22.334199125422245
+198,"['baking_powder', 'bottled_water', 'salty_snack', 'chewing_gum']",4,21.674324259331765
+201,"['frankfurter', 'yogurt']",2,15.692893892395094
+203,"['domestic_eggs', 'rolls/buns', 'specialty_bar', 'napkins']",4,17.113453428935003
+204,"['other_vegetables', 'pet_care']",2,11.957226175852233
+205,"['soda', 'chewing_gum']",2,8.096779614482973
+208,"['root_vegetables', 'pastry', 'bottled_water', 'male_cosmetics']",4,15.013533545622069
+210,"['berries', 'pet_care', 'cake_bar', 'shopping_bags']",4,28.638260798017917
+211,"['whole_milk', 'oil', 'canned_fruit', 'fruit/vegetable_juice']",4,29.432804970239935
+212,"['soda', 'misc._beverages']",2,12.908081091925087
+213,"['bottled_water', 'soda']",2,10.589715817895526
+214,"['tropical_fruit', 'other_vegetables', 'rolls/buns']",3,24.199770669793164
+217,"['citrus_fruit', 'uht-milk', 'cream_cheese', 'frozen_vegetables']",4,29.36500454622651
+218,"['dessert', 'oil', 'cat_food', 'soda']",4,34.161734006358515
+220,"['coffee', 'hygiene_articles']",2,21.624818565985038
+221,"['rolls/buns', 'brown_bread', 'bottled_water']",3,16.780316240756818
+222,"['bottled_water', 'misc._beverages', 'cling_film/bags']",3,17.571391632545115
+223,"['herbs', 'bottled_water']",2,6.569595970575673
+224,"['yogurt', 'rolls/buns']",2,5.660533010250183
+228,"['beef', 'root_vegetables']",2,12.96187589237066
+229,"['whole_milk', 'honey', 'waffles']",3,33.16091430750187
+230,"['other_vegetables', 'whole_milk', 'cream_cheese']",3,22.50489009780513
+231,"['whole_milk', 'rolls/buns', 'newspapers']",3,20.028360181439027
+232,"['frankfurter', 'margarine', 'dental_care']",3,26.871541252915694
+233,"['other_vegetables', 'salty_snack']",2,17.942731410436195
+234,"['bottled_water', 'shopping_bags']",2,13.462598684437996
+236,"['other_vegetables', 'whipped/sour_cream', 'specialty_cheese', 'domestic_eggs']",4,27.100076338306764
+238,"['whole_milk', 'cream_cheese', 'soda', 'fruit/vegetable_juice']",4,25.037079581858777
+240,"['pastry', 'bottled_water']",2,11.863740675583134
+241,"['frankfurter', 'soda']",2,19.165386980557827
+242,"['dessert', 'candy']",2,17.70474407113636
+243,"['other_vegetables', 'packaged_fruit/vegetables', 'uht-milk', 'bottled_water']",4,32.552947530507566
+244,"['beverages', 'rolls/buns', 'soda']",3,15.004691835918512
+246,"['brown_bread', 'soda', 'salty_snack', 'shopping_bags']",4,36.331170396234256
+247,"['whole_milk', 'cream_cheese', 'coffee']",3,23.385325907682272
+248,"['citrus_fruit', 'other_vegetables', 'soda']",3,30.379942969295215
+249,"['other_vegetables', 'shopping_bags']",2,20.752173841945243
+250,"['whole_milk', 'dessert', 'bottled_water']",3,17.494557903757503
+251,"['soda', 'misc._beverages']",2,12.908081091925087
+252,"['whole_milk', 'curd']",2,10.653922937642578
+253,"['white_bread', 'brown_bread']",2,21.295899072540937
+254,"['brown_bread', 'sugar', 'hygiene_articles']",3,26.482139254896403
+256,"['coffee', 'detergent', 'hygiene_articles', 'photo/film']",4,26.15864210578893
+259,"['other_vegetables', 'yogurt']",2,14.40679788724004
+260,"['yogurt', 'bottled_water', 'dishes']",3,17.039998452277686
+261,"['bottled_water', 'candy']",2,13.718446071490675
+262,"['packaged_fruit/vegetables', 'seasonal_products']",2,19.221079917130112
+263,"['other_vegetables', 'margarine']",2,22.52223989514178
+265,"['herbs', 'yogurt']",2,7.042296172601407
+266,"['citrus_fruit', 'spread_cheese', 'rolls/buns', 'soda']",4,28.057343426312578
+270,"['soda', 'female_sanitary_products']",2,15.794355863582934
+271,"['white_bread', 'bottled_water', 'soda', 'waffles']",4,34.740647593872055
+272,"['coffee', 'chewing_gum', 'chocolate_marshmallow']",3,16.67671173284193
+273,"['citrus_fruit', 'bottled_water']",2,15.82291325774597
+275,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+277,"['yogurt', 'fruit/vegetable_juice', 'newspapers']",3,20.970584077915042
+280,"['root_vegetables', 'other_vegetables']",2,12.037186634871318
+281,"['onions', 'fruit/vegetable_juice']",2,14.623318692689388
+284,"['rolls/buns', 'soda', 'snack_products', 'newspapers']",4,25.368448409260722
+285,"['butter', 'fruit/vegetable_juice', 'newspapers']",3,24.2062187115215
+288,"['fruit/vegetable_juice', 'long_life_bakery_product']",2,20.429628822914424
+289,"['pip_fruit', 'whole_milk', 'bottled_water', 'candy']",4,33.53185328661048
+293,"['cling_film/bags', 'pot_plants']",2,23.255027929541455
+294,"['chicken', 'pastry']",2,10.89912708552502
+296,"['whipped/sour_cream', 'pastry', 'specialty_bar']",3,25.878799226064515
+297,"['root_vegetables', 'brown_bread']",2,13.017833646042913
+298,"['rolls/buns', 'soda']",2,9.133026098412913
+299,"['coffee', 'long_life_bakery_product']",2,26.045329702779917
+300,"['pip_fruit', 'whole_milk', 'canned_fish']",3,21.619101196366607
+306,"['rolls/buns', 'spices']",2,3.6364953744543826
+307,"['beverages', 'pastry', 'bottled_water']",3,17.735406413088732
+308,"['beef', 'citrus_fruit', 'other_vegetables', 'rolls/buns']",4,36.51458563848425
+309,"['root_vegetables', 'whole_milk', 'detergent']",3,9.424242193830118
+310,"['yogurt', 'bottled_water']",2,7.117222729732795
+311,"['frankfurter', 'root_vegetables', 'newspapers']",3,24.62233390068972
+313,"['tropical_fruit', 'domestic_eggs', 'rolls/buns', 'pastry']",4,22.73616657155157
+315,"['coffee', 'soda']",2,18.759726785279916
+318,"['tropical_fruit', 'other_vegetables']",2,22.334199125422245
+319,"['meat', 'other_vegetables']",2,23.185670264199416
+321,"['rolls/buns', 'pastry', 'newspapers']",3,21.706102216763874
+322,"['whole_milk', 'rolls/buns', 'detergent']",3,9.864463524690493
+324,"['whole_milk', 'domestic_eggs', 'rolls/buns', 'soda']",4,16.603516386207254
+325,"['whole_milk', 'hard_cheese', 'chocolate_marshmallow']",3,21.872695796600404
+326,"['curd', 'butter_milk', 'yogurt', 'beverages']",4,20.386318647618985
+329,"['chicken', 'butter', 'newspapers']",3,20.687295033944487
+330,"['yogurt', 'pastry', 'coffee']",3,23.82871310884679
+331,"['pastry', 'coffee']",2,20.033751642967523
+332,"['chicken', 'beef', 'specialty_chocolate']",3,21.29189478293157
+333,"['whole_milk', 'frozen_meals', 'rolls/buns']",3,20.515869628345225
+335,"['rolls/buns', 'canned_fish']",2,3.6712655256177236
+338,"['curd', 'uht-milk', 'artif._sweetener', 'dental_care']",4,17.92675791172624
+339,"['beef', 'berries', 'onions', 'rolls/buns']",4,31.80797835181794
+340,"['yogurt', 'hygiene_articles', 'newspapers', 'shopping_bags']",4,35.3668964818742
+341,"['bottled_water', 'candy']",2,13.718446071490675
+342,"['frankfurter', 'beef', 'butter']",3,30.46505420486167
+343,"['rolls/buns', 'soda', 'snack_products', 'shopping_bags']",4,24.20973456918184
+344,"['whole_milk', 'pastry', 'bottled_water', 'hygiene_articles']",4,28.86002438673501
+346,"['rolls/buns', 'newspapers']",2,13.164622805034266
+347,"['yogurt', 'specialty_bar']",2,16.2250048583063
+348,"['whipped/sour_cream', 'specialty_bar']",2,17.33731981433491
+350,"['beverages', 'rolls/buns']",2,7.737237281876517
+352,"['rolls/buns', 'shopping_bags']",2,12.005908964955385
+353,"['bottled_water', 'soda']",2,10.589715817895526
+355,"['spread_cheese', 'rolls/buns', 'bottled_water', 'newspapers']",4,22.910549402895022
+356,"['tropical_fruit', 'spread_cheese', 'rolls/buns', 'soda']",4,27.279054136481605
+358,"['chicken', 'onions', 'herbs', 'hygiene_articles']",4,24.484276056581635
+359,"['beef', 'tropical_fruit', 'root_vegetables', 'yogurt']",4,28.479200062311392
+361,"['frankfurter', 'rolls/buns', 'mustard']",3,18.211006617641555
+362,"['grapes', 'soda']",2,10.004652189021439
+363,"['beverages', 'rolls/buns']",2,7.737237281876517
+364,"['ice_cream', 'sugar', 'flower_(seeds)']",3,24.94012802598788
+366,"['dessert', 'beverages', 'bottled_water']",3,16.502486264858344
+369,"['berries', 'other_vegetables', 'whole_milk', 'whipped/sour_cream']",4,32.04198400694335
+370,"['vinegar', 'oil']",2,15.712693494865976
+371,"['rolls/buns', 'soda', 'specialty_bar']",3,21.563069490839947
+373,"['rolls/buns', 'newspapers']",2,13.164622805034266
+374,"['onions', 'other_vegetables', 'flour']",3,21.256252713903475
+375,"['tropical_fruit', 'whole_milk', 'rolls/buns']",3,20.451671624837147
+377,"['meat', 'rolls/buns', 'soda', 'specialty_bar']",4,34.13690333367859
+378,"['whole_milk', 'dessert']",2,14.172296639903973
+379,"['pet_care', 'bottled_water']",2,4.667651018344987
+380,"['root_vegetables', 'other_vegetables', 'soda', 'shopping_bags']",4,29.44497860949778
+382,"['frozen_dessert', 'semi-finished_bread']",2,7.418507230306176
+383,"['root_vegetables', 'whole_milk', 'yogurt', 'rolls/buns']",4,13.949620600165485
+384,"['root_vegetables', 'whole_milk', 'butter', 'coffee']",4,26.811955920638944
+385,"['soda', 'newspapers']",2,18.566505814705344
+387,"['whole_milk', 'chewing_gum']",2,7.693062436845736
+388,"['root_vegetables', 'pot_plants']",2,16.0718743122435
+389,"['cream_cheese', 'spread_cheese', 'rolls/buns']",3,13.318553178417737
+391,"['citrus_fruit', 'tropical_fruit', 'pip_fruit']",3,37.17268453666895
+392,"['citrus_fruit', 'whole_milk']",2,19.364389370297197
+394,"['whole_milk', 'yogurt']",2,10.658698842284023
+398,"['berries', 'whole_milk', 'whipped/sour_cream', 'domestic_eggs']",4,22.03690049697216
+399,"['packaged_fruit/vegetables', 'whole_milk', 'rolls/buns', 'pastry']",4,31.208880670810007
+400,"['frankfurter', 'soda']",2,19.165386980557827
+401,"['other_vegetables', 'whipped/sour_cream']",2,15.519112843268653
+402,"['beef', 'other_vegetables']",2,22.148362100220893
+404,"['frozen_meals', 'misc._beverages']",2,17.42718724545264
+406,"['packaged_fruit/vegetables', 'pickled_vegetables']",2,26.107175522008355
+408,"['berries', 'frozen_vegetables', 'pet_care', 'instant_coffee']",4,21.593071076598168
+409,"['bottled_water', 'soda', 'chewing_gum', 'napkins']",4,13.630126459083975
+410,"['ice_cream', 'rolls/buns']",2,14.433338664601333
+411,"['frankfurter', 'citrus_fruit', 'tropical_fruit', 'rolls/buns']",4,37.98651866884065
+412,"['beef', 'root_vegetables', 'whole_milk', 'cream_cheese']",4,24.854929568815017
+414,"['sugar', 'hygiene_articles']",2,14.88965582236403
+415,"['berries', 'whipped/sour_cream']",2,14.566410209177818
+416,"['yogurt', 'beverages', 'coffee']",3,21.158899434622782
+418,"['potato_products', 'flower_(seeds)']",2,17.71304088168053
+419,"['chicken', 'other_vegetables', 'salt']",3,23.694382085238047
+420,"['fish', 'cream_cheese', 'coffee']",3,25.09855474022605
+421,"['other_vegetables', 'misc._beverages']",2,16.252462959243868
+422,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+423,"['whole_milk', 'cake_bar', 'newspapers']",3,25.656188472740162
+424,"['whole_milk', 'rolls/buns', 'chocolate']",3,18.56535316194531
+425,"['rolls/buns', 'soda']",2,9.133026098412913
+426,"['citrus_fruit', 'tropical_fruit', 'pip_fruit', 'other_vegetables']",4,47.78452095802973
+427,"['sliced_cheese', 'pastry', 'newspapers']",3,22.367587145243988
+430,"['root_vegetables', 'whipped/sour_cream']",2,6.3326266354184195
+431,"['packaged_fruit/vegetables', 'pot_plants']",2,28.58461643703769
+432,"['whole_milk', 'cream_cheese']",2,11.893053676444353
+433,"['soda', 'shopping_bags']",2,17.407791974626463
+434,"['frankfurter', 'popcorn']",2,17.122400119519032
+435,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+437,"['frozen_fish', 'newspapers']",2,23.165575292706343
+438,"['tropical_fruit', 'newspapers']",2,23.021413964724818
+439,"['specialty_chocolate', 'pot_plants']",2,22.044245529009
+440,"['citrus_fruit', 'napkins', 'shopping_bags']",3,24.852074995224378
+441,"['whole_milk', 'pastry', 'detergent', 'candles']",4,23.069578723523023
+443,"['other_vegetables', 'whole_milk', 'white_bread', 'chewing_gum']",4,28.008314498215075
+444,"['whole_milk', 'rolls/buns', 'shopping_bags']",3,18.86964634136014
+445,"['other_vegetables', 'chewing_gum']",2,11.441161481801753
+446,"['whole_milk', 'whipped/sour_cream', 'baking_powder']",3,21.962856744274475
+447,"['rolls/buns', 'coffee']",2,13.357843775608838
+449,"['ice_cream', 'newspapers']",2,23.866818380893765
+450,"['whole_milk', 'frozen_meals', 'newspapers']",3,29.949349344637653
+451,"['salt', 'dog_food', 'long_life_bakery_product']",3,27.661817288988193
+452,"['other_vegetables', 'whole_milk', 'yogurt']",3,21.2705352636448
+455,"['tropical_fruit', 'oil', 'cat_food']",3,31.308082892878776
+456,"['other_vegetables', 'butter_milk', 'frozen_fish', 'salty_snack']",4,36.738761325475494
+459,"['artif._sweetener', 'soda', 'photo/film']",3,17.05873298081209
+460,"['frankfurter', 'whole_milk', 'coffee', 'detergent']",4,31.389096638073323
+461,"['whole_milk', 'newspapers']",2,18.162788637068108
+462,"['domestic_eggs', 'hygiene_articles', 'photo/film', 'flower_soil/fertilizer']",4,20.903317258764773
+464,"['cream_cheese', 'margarine', 'tea']",3,25.729776533273693
+465,"['citrus_fruit', 'onions']",2,21.2473993352094
+466,"['other_vegetables', 'whipped/sour_cream', 'roll_products']",3,28.440019962608098
+468,"['onions', 'domestic_eggs', 'soda', 'hygiene_articles']",4,26.753501141495654
+469,"['rolls/buns', 'long_life_bakery_product']",2,16.418629015912913
+470,"['ice_cream', 'long_life_bakery_product']",2,27.12082459177241
+471,"['coffee', 'fruit/vegetable_juice', 'dishes']",3,27.291619305155237
+472,"['whole_milk', 'butter', 'pasta', 'misc._beverages']",4,34.06385113406962
+474,"['citrus_fruit', 'berries', 'butter_milk', 'yogurt']",4,32.88425313003795
+475,"['margarine', 'newspapers']",2,23.209454734444357
+476,"['butter_milk', 'yogurt']",2,10.724467348875567
+478,"['whole_milk', 'rice']",2,20.96222097354201
+480,"['whole_milk', 'white_bread']",2,16.567153016413325
+481,"['grapes', 'zwieback', 'soda', 'waffles']",4,30.476976103388395
+483,"['uht-milk', 'bottled_water']",2,8.00301877084207
+485,"['yogurt', 'margarine']",2,15.70536493966027
+488,"['frankfurter', 'other_vegetables', 'specialty_cheese', 'chewing_gum']",4,34.313304491966115
+492,"['whole_milk', 'pastry']",2,15.405216788134362
+493,"['dessert', 'bottled_water', 'soda']",3,17.89827508139474
+495,"['butter', 'rolls/buns', 'salt']",3,19.6210656339385
+497,"['soda', 'misc._beverages']",2,12.908081091925087
+498,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+504,"['bottled_water', 'soda']",2,10.589715817895526
+505,"['bottled_water', 'soda', 'chewing_gum']",3,11.419040878336503
+506,"['frankfurter', 'turkey', 'citrus_fruit']",3,30.5170209163458
+507,"['ice_cream', 'coffee', 'waffles']",3,38.5075554874363
+509,"['uht-milk', 'vinegar', 'waffles', 'chocolate']",4,32.85644042917358
+511,"['popcorn', 'candy']",2,15.620652500640347
+512,"['soda', 'candy']",2,17.663639361679138
+513,"['uht-milk', 'instant_coffee']",2,8.11502629651938
+516,"['whole_milk', 'soda', 'misc._beverages', 'shopping_bags']",4,29.91215588891431
+517,"['cat_food', 'dish_cleaner', 'shopping_bags']",3,20.06617272585485
+520,"['root_vegetables', 'skin_care']",2,10.350736739166269
+521,"['finished_products', 'other_vegetables', 'soda', 'fruit/vegetable_juice']",4,26.464387816116137
+523,"['other_vegetables', 'yogurt', 'oil', 'dental_care']",4,29.290574189677436
+525,"['other_vegetables', 'nut_snack']",2,16.141448587115914
+528,"['yogurt', 'newspapers']",2,15.094012726542614
+529,"['other_vegetables', 'sugar']",2,15.368945908977688
+533,"['dessert', 'white_bread']",2,17.01197490350778
+534,"['citrus_fruit', 'tropical_fruit', 'pip_fruit', 'long_life_bakery_product']",4,51.72574200821095
+537,"['turkey', 'whole_milk', 'uht-milk', 'fruit/vegetable_juice']",4,23.539502730703255
+538,"['grapes', 'chocolate', 'light_bulbs']",3,24.876537453806584
+540,"['bottled_water', 'pot_plants']",2,17.96878536258649
+541,"['prosecco', 'hygiene_articles', 'pot_plants']",3,31.748336429303524
+542,"['uht-milk', 'soda', 'dish_cleaner', 'napkins']",4,16.319983708049623
+544,"['tropical_fruit', 'pasta', 'bottled_water']",3,29.573515088211042
+546,"['yogurt', 'uht-milk', 'rolls/buns']",3,10.341290517238722
+547,"['rolls/buns', 'coffee']",2,13.357843775608838
+548,"['whole_milk', 'brown_bread']",2,18.45622080893713
+549,"['brown_bread', 'chocolate']",2,21.428527673702007
+551,"['other_vegetables', 'yogurt', 'cream_cheese']",3,19.436114187279635
+552,"['citrus_fruit', 'cake_bar', 'baby_cosmetics', 'shopping_bags']",4,35.880672103173126
+555,"['root_vegetables', 'whole_milk', 'yogurt', 'frozen_potato_products']",4,25.53430531496643
+556,"['domestic_eggs', 'seasonal_products', 'shopping_bags']",3,16.030077910799434
+557,"['domestic_eggs', 'specialty_bar', 'seasonal_products', 'shopping_bags']",4,28.46012130322647
+558,"['bottled_water', 'soda']",2,10.589715817895526
+561,"['tropical_fruit', 'sliced_cheese', 'domestic_eggs', 'zwieback']",4,20.880979866701075
+562,"['frozen_potato_products', 'pot_plants']",2,28.096780357904827
+563,"['frankfurter', 'other_vegetables', 'zwieback']",3,28.5345766262756
+566,"['frozen_potato_products', 'bottled_water', 'soda']",3,24.03997207706739
+567,"['tropical_fruit', 'dessert', 'sweet_spreads', 'fruit/vegetable_juice']",4,35.80240106173855
+568,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+569,"['citrus_fruit', 'tropical_fruit', 'whole_milk', 'coffee']",4,42.57902430559658
+570,"['yogurt', 'softener']",2,4.625617595809878
+571,"['soda', 'softener']",2,8.098110683972608
+573,"['oil', 'dental_care', 'newspapers']",3,26.182827563100744
+576,"['whipped/sour_cream', 'beverages', 'fruit/vegetable_juice', 'chocolate']",4,26.49155775195554
+578,"['whole_milk', 'frozen_vegetables', 'specialty_chocolate']",3,21.415737551986727
+579,"['coffee', 'shopping_bags']",2,21.632609651822385
+580,"['rolls/buns', 'waffles']",2,16.313087680338878
+581,"['citrus_fruit', 'yogurt', 'brown_bread', 'pasta']",4,42.41698801260012
+582,"['cream_cheese', 'rolls/buns']",2,6.894887844410514
+584,"['chicken', 'whipped/sour_cream', 'coffee', 'shopping_bags']",4,28.897533747525678
+586,"['grapes', 'root_vegetables']",2,4.162547848489986
+587,"['root_vegetables', 'other_vegetables', 'yogurt']",3,15.832148100750583
+588,"['oil', 'dish_cleaner', 'newspapers']",3,25.2803082767535
+591,"['onions', 'vinegar', 'pet_care', 'specialty_bar']",4,26.41430303328289
+592,"['dessert', 'dishes']",2,17.231334986044104
+593,"['chewing_gum', 'napkins', 'dishes']",3,12.963186363733339
+594,"['beverages', 'pastry', 'long_life_bakery_product', 'chocolate_marshmallow']",4,33.32131706194023
+595,"['cat_food', 'soda']",2,15.032603793040767
+596,"['whole_milk', 'beverages', 'pastry', 'soda']",4,28.54433707968196
+597,"['soda', 'fruit/vegetable_juice']",2,13.144025905414424
+599,"['beverages', 'bottled_water', 'misc._beverages']",3,14.834553539242219
+600,"['whole_milk', 'yogurt', 'chocolate']",3,20.49474308345366
+601,"['whole_milk', 'brown_bread']",2,18.45622080893713
+602,"['citrus_fruit', 'frozen_potato_products']",2,25.950908253064306
+603,"['ice_cream', 'salty_snack', 'waffles']",3,34.3461782452738
+604,"['root_vegetables', 'fruit/vegetable_juice', 'long_life_bakery_product', 'pot_plants']",4,36.501503135157925
+607,"['other_vegetables', 'chocolate']",2,20.447880662530412
+608,"['whole_milk', 'white_bread', 'pastry']",3,25.10863242814293
+609,"['zwieback', 'oil', 'mustard', 'chocolate']",4,32.12892561614198
+610,"['butter', 'yogurt', 'dog_food']",3,13.209419392729327
+611,"['chicken', 'tropical_fruit', 'candy', 'shopping_bags']",4,34.61653260607849
+612,"['other_vegetables', 'cream_cheese', 'coffee', 'dishes']",4,37.056200675183185
+614,"['chicken', 'whole_milk']",2,9.221385050200173
+615,"['yogurt', 'chocolate']",2,13.631005707048901
+616,"['frozen_meals', 'pet_care', 'soda']",3,20.399405016103
+617,"['canned_fruit', 'meat_spreads', 'bottled_water']",3,17.163607105732407
+618,"['butter', 'waffles', 'chocolate']",3,31.314156476623324
+619,"['meat', 'yogurt']",2,16.368795308717907
+620,"['root_vegetables', 'butter', 'frozen_vegetables', 'salty_snack']",4,22.941120047377616
+621,"['yogurt', 'sugar', 'instant_coffee']",3,11.986339743027017
+622,"['yogurt', 'rolls/buns', 'pastry', 'soda']",4,21.469466976021785
+624,"['dessert', 'misc._beverages']",2,12.949185801382306
+625,"['curd', 'jam', 'shopping_bags']",3,15.630107980697645
+630,"['herbs', 'pot_plants']",2,17.893858805455103
+631,"['whole_milk', 'sugar', 'pudding_powder']",3,15.991993978854127
+634,"['cream_cheese', 'dishes']",2,14.952092022584484
+635,"['frozen_fruits', 'detergent']",2,10.7742522041387
+638,"['whole_milk', 'soda']",2,14.131191930446754
+640,"['whole_milk', 'yogurt']",2,10.658698842284023
+641,"['chicken', 'whole_milk']",2,9.221385050200173
+644,"['whole_milk', 'shopping_bags']",2,17.004074796989222
+645,"['root_vegetables', 'coffee', 'detergent']",3,14.05277704866328
+647,"['oil', 'female_sanitary_products', 'cling_film/bags']",3,28.955976090167972
+649,"['uht-milk', 'coffee']",2,16.17302973822646
+650,"['butter_milk', 'shopping_bags']",2,17.069843303580768
+651,"['brown_bread', 'specialty_chocolate', 'shopping_bags']",3,29.130542283392877
+653,"['beverages', 'soda', 'chocolate']",3,22.97516453271723
+656,"['rolls/buns', 'bottled_water']",2,5.187832808224448
+657,"['hard_cheese', 'rolls/buns', 'soda', 'shopping_bags']",4,29.927207498029993
+660,"['tropical_fruit', 'frozen_vegetables']",2,18.876641449367398
+662,"['whipped/sour_cream', 'salty_snack']",2,12.238171410983298
+663,"['citrus_fruit', 'whole_milk', 'butter_milk', 'whipped/sour_cream']",4,31.201171675201376
+665,"['soda', 'fruit/vegetable_juice']",2,13.144025905414424
+666,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+668,"['dessert', 'fruit/vegetable_juice', 'newspapers']",3,24.484181875534993
+669,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+670,"['rolls/buns', 'soda']",2,9.133026098412913
+671,"['fish', 'dessert', 'yogurt', 'cling_film/bags']",4,28.28899076913551
+672,"['other_vegetables', 'oil', 'margarine', 'dishes']",4,44.2655865675052
+673,"['tropical_fruit', 'other_vegetables', 'waffles', 'napkins']",4,38.992800842137676
+675,"['citrus_fruit', 'coffee']",2,23.99292422513036
+677,"['beef', 'other_vegetables', 'margarine', 'candles']",4,40.58797290547574
+678,"['rolls/buns', 'soda', 'waffles', 'shopping_bags']",4,33.72087965496534
+679,"['whole_milk', 'beverages', 'bottled_water', 'newspapers']",4,27.35671563842724
+680,"['root_vegetables', 'brown_bread', 'pot_plants']",3,27.664357744775874
+682,"['onions', 'shopping_bags']",2,18.887084761901427
+683,"['napkins', 'dishes']",2,12.133861303292361
+686,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+687,"['frankfurter', 'whole_milk']",2,18.761669802920586
+689,"['whipped/sour_cream', 'flower_(seeds)']",2,12.52252784004843
+690,"['frozen_vegetables', 'brown_bread']",2,18.7467621778383
+691,"['onions', 'yogurt', 'oil']",3,24.36227975701476
+692,"['frankfurter', 'brown_bread', 'sugar']",3,28.24752534666511
+693,"['rolls/buns', 'canned_fish', 'soda']",3,10.938720079659719
+695,"['condensed_milk', 'coffee', 'napkins']",3,23.915660734881794
+696,"['whole_milk', 'frozen_vegetables', 'fruit/vegetable_juice', 'long_life_bakery_product']",4,34.44764494462511
+697,"['pip_fruit', 'yogurt', 'sliced_cheese']",3,19.271687777445344
+698,"['pip_fruit', 'other_vegetables']",2,23.561506260075824
+699,"['other_vegetables', 'whipped/sour_cream', 'condensed_milk', 'salt']",4,36.456313756246914
+700,"['pastry', 'long_life_bakery_product', 'shopping_bags']",3,33.23487430385607
+704,"['citrus_fruit', 'tropical_fruit', 'coffee']",3,35.71528692919183
+708,"['tropical_fruit', 'bottled_water', 'chewing_gum']",3,15.873949028355977
+712,"['herbs', 'oil', 'dog_food']",3,17.451767483905016
+713,"['yogurt', 'chocolate']",2,13.631005707048901
+714,"['frankfurter', 'frozen_meals', 'semi-finished_bread', 'shopping_bags']",4,36.66327135065707
+718,"['yogurt', 'shopping_bags']",2,13.93529888646373
+719,"['frozen_vegetables', 'coffee']",2,18.64655097654385
+720,"['pastry', 'soda']",2,15.8089339657716
+721,"['curd', 'bottled_water', 'photo/film']",3,10.51111576098042
+722,"['yogurt', 'bottled_water', 'male_cosmetics']",3,8.841665386261187
+724,"['coffee', 'chocolate']",2,21.328316472407558
+725,"['sauces', 'softener']",2,14.505076145190916
+726,"['napkins', 'dishes']",2,12.133861303292361
+727,"['other_vegetables', 'rolls/buns', 'canned_fish']",3,14.283101946978498
+728,"['chicken', 'citrus_fruit', 'onions', 'bottled_water']",4,26.927308272858344
+730,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+731,"['rolls/buns', 'margarine']",2,13.775975018151925
+732,"['tropical_fruit', 'soft_cheese', 'rolls/buns', 'chocolate']",4,34.92251167221257
+733,"['tropical_fruit', 'pip_fruit', 'brown_bread']",3,36.26451597530888
+734,"['meat', 'rolls/buns', 'specialty_chocolate']",3,21.8371268174856
+735,"['whole_milk', 'coffee', 'female_sanitary_products', 'shopping_bags']",4,37.02324833776808
+736,"['misc._beverages', 'chocolate']",2,15.476670779052728
+737,"['pastry', 'long_life_bakery_product']",2,23.0945368832716
+738,"['soda', 'fruit/vegetable_juice']",2,13.144025905414424
+740,"['domestic_eggs', 'long_life_bakery_product', 'seasonal_products']",3,20.442797961756963
+743,"['yogurt', 'uht-milk', 'domestic_eggs', 'rolls/buns']",4,10.948043428628303
+746,"['citrus_fruit', 'other_vegetables', 'whole_milk']",3,29.976225791657974
+748,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+750,"['tropical_fruit', 'newspapers']",2,23.021413964724818
+751,"['rolls/buns', 'margarine', 'newspapers']",3,25.075026278815272
+753,"['whole_milk', 'dessert']",2,14.172296639903973
+755,"['yogurt', 'rolls/buns']",2,5.660533010250183
+758,"['frankfurter', 'pip_fruit', 'other_vegetables', 'whole_milk']",4,42.32317606299641
+759,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+760,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+761,"['whole_milk', 'yogurt', 'white_bread', 'newspapers']",4,31.661165742955937
+762,"['domestic_eggs', 'rolls/buns', 'soda']",3,9.739779009802493
+763,"['soda', 'waffles']",2,21.714970690009956
+765,"['butter_milk', 'coffee']",2,18.421778114234222
+766,"['cream_cheese', 'soda']",2,12.29677085408159
+769,"['frankfurter', 'pip_fruit', 'rolls/buns', 'bottled_water']",4,30.035435073455325
+771,"['nuts/prunes', 'rolls/buns', 'soda']",3,19.77877953866878
+773,"['rolls/buns', 'soda']",2,9.133026098412913
+775,"['chocolate', 'candy']",2,20.23222904880678
+777,"['beef', 'herbs', 'whole_milk']",3,21.64759776198702
+779,"['frankfurter', 'rolls/buns', 'fruit/vegetable_juice']",3,19.64007532225918
+780,"['pip_fruit', 'whole_milk', 'whipped/sour_cream', 'baking_powder']",4,34.912526582989514
+783,"['butter', 'cleaner']",2,13.869298923134519
+784,"['fruit/vegetable_juice', 'nut_snack']",2,11.406183517127566
+785,"['meat', 'specialty_bar']",2,25.003877235265676
+786,"['pip_fruit', 'butter', 'curd', 'chocolate']",4,33.606495740608224
+787,"['other_vegetables', 'domestic_eggs']",2,11.218589332750355
+789,"['whole_milk', 'white_bread', 'salty_snack']",3,23.898048005488747
+793,"['dessert', 'frozen_dessert']",2,11.888625697818165
+795,"['soda', 'long_life_bakery_product']",2,21.82051202558399
+796,"['beef', 'other_vegetables', 'domestic_eggs', 'pastry']",4,31.29659442334008
+797,"['spread_cheese', 'pastry']",2,14.96514474573683
+798,"['citrus_fruit', 'tropical_fruit', 'other_vegetables', 'pot_plants']",4,49.481375218047646
+799,"['rolls/buns', 'soda']",2,9.133026098412913
+800,"['pip_fruit', 'roll_products', 'pot_plants']",3,40.51710105678745
+803,"['pip_fruit', 'whole_milk']",2,19.813407215119803
+804,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+806,"['citrus_fruit', 'other_vegetables', 'butter', 'candy']",4,40.539269322376086
+807,"['citrus_fruit', 'uht-milk', 'napkins']",3,19.392495081628454
+808,"['rolls/buns', 'newspapers']",2,13.164622805034266
+809,"['citrus_fruit', 'tropical_fruit', 'pip_fruit', 'other_vegetables']",4,47.78452095802973
+811,"['frozen_fish', 'hygiene_articles', 'shopping_bags']",3,32.13940778737458
+812,"['tropical_fruit', 'pastry', 'soda']",3,27.53129666983307
+813,"['beverages', 'pastry']",2,14.413145149235202
+815,"['whole_milk', 'rolls/buns', 'newspapers']",3,20.028360181439027
+816,"['pastry', 'soda']",2,15.8089339657716
+818,"['whole_milk', 'bottled_water', 'napkins']",3,12.39708422100576
+819,"['pip_fruit', 'whole_milk']",2,19.813407215119803
+820,"['yogurt', 'specialty_chocolate', 'seasonal_products']",3,16.475670474980692
+821,"['whipped/sour_cream', 'baking_powder']",2,15.099119367869715
+822,"['other_vegetables', 'cream_cheese', 'rolls/buns']",3,17.50672426577129
+825,"['beef', 'frozen_fish', 'rolls/buns', 'margarine']",4,37.17902472905504
+829,"['soda', 'house_keeping_products']",2,10.878932309925169
+832,"['butter', 'rolls/buns', 'newspapers']",3,20.19521890451999
+833,"['frozen_vegetables', 'sugar', 'coffee']",3,23.403660464160765
+834,"['root_vegetables', 'whole_milk', 'domestic_eggs']",3,8.895840501304882
+835,"['tropical_fruit', 'napkins']",2,13.933448284808941
+837,"['whipped/sour_cream', 'rice', 'popcorn']",3,24.23022771204833
+838,"['pip_fruit', 'coffee']",2,24.441942069952965
+841,"['pip_fruit', 'yogurt', 'ice_cream', 'soda']",4,36.579852978866725
+842,"['tropical_fruit', 'whole_milk', 'butter', 'brown_bread']",4,37.20917961248432
+843,"['pip_fruit', 'napkins']",2,15.160755419462518
+847,"['rolls/buns', 'fruit/vegetable_juice']",2,7.7421428957433465
+848,"['tropical_fruit', 'rolls/buns']",2,13.587934248432386
+850,"['whole_milk', 'pastry']",2,15.405216788134362
+853,"['rolls/buns', 'meat_spreads']",2,10.834992093605585
+854,"['butter', 'whipped/sour_cream', 'domestic_eggs', 'rolls/buns']",4,14.4101969771541
+856,"['rolls/buns', 'bottled_water', 'soda']",3,12.455287362266443
+857,"['whole_milk', 'brown_bread', 'newspapers']",3,29.75527206960048
+858,"['dessert', 'zwieback']",2,13.33336704189821
+859,"['frankfurter', 'domestic_eggs']",2,12.50468533790541
+860,"['whipped/sour_cream', 'soda']",2,12.174730975949872
+865,"['whole_milk', 'margarine', 'pot_plants']",3,33.42066494891873
+866,"['curd', 'yogurt', 'frozen_vegetables']",3,14.739425772423015
+871,"['citrus_fruit', 'pip_fruit', 'other_vegetables', 'canned_vegetables']",4,38.98326559262997
+874,"['beverages', 'rolls/buns', 'long_life_bakery_product', 'shopping_bags']",4,32.43063217400298
+875,"['root_vegetables', 'butter', 'pot_plants']",3,23.10247041172923
+876,"['other_vegetables', 'soda']",2,17.87929097540277
+878,"['chicken', 'other_vegetables', 'whole_milk']",3,19.833221471560947
+879,"['chicken', 'napkins']",2,4.568733254542887
+880,"['whipped/sour_cream', 'female_sanitary_products']",2,13.434177731448816
+881,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+883,"['root_vegetables', 'whole_milk', 'yogurt']",3,12.084049055794566
+884,"['rolls/buns', 'brown_bread', 'bottled_water']",3,16.780316240756818
+885,"['sweet_spreads', 'coffee', 'chocolate', 'seasonal_products']",4,37.50621179403838
+886,"['beef', 'pot_plants']",2,26.183049777593077
+887,"['frozen_vegetables', 'frozen_meals']",2,18.940839452875476
+888,"['bottled_water', 'specialty_chocolate']",2,10.71998269412957
+890,"['ice_cream', 'sugar', 'napkins', 'dishes']",4,29.458737911139693
+891,"['butter', 'margarine']",2,18.94099957326673
+892,"['whole_milk', 'bottled_water', 'fruit/vegetable_juice']",3,16.062569991630717
+893,"['hard_cheese', 'newspapers']",2,21.952895239695962
+895,"['soups', 'soda', 'shopping_bags']",3,24.423533755711397
+896,"['pastry', 'soda']",2,15.8089339657716
+897,"['onions', 'rolls/buns']",2,10.612318885687877
+898,"['ice_cream', 'soda', 'fruit/vegetable_juice']",3,25.711793025644837
+900,"['misc._beverages', 'cake_bar']",2,13.134026373555145
+902,"['cat_food', 'chocolate', 'specialty_chocolate']",3,24.998914910444448
+905,"['berries', 'other_vegetables', 'yogurt']",3,24.06593167450998
+906,"['whole_milk', 'pot_plants']",2,21.510261475137717
+907,"['root_vegetables', 'domestic_eggs']",2,2.0321031249001225
+909,"['ice_cream', 'bottled_water']",2,15.890028384083946
+910,"['ice_cream', 'soda', 'specialty_chocolate']",3,27.23294310454845
+911,"['curd', 'yogurt', 'waffles']",3,22.032663163085047
+912,"['other_vegetables', 'domestic_eggs', 'soda']",3,18.486043886792352
+913,"['other_vegetables', 'pastry']",2,19.15331583309038
+914,"['root_vegetables', 'canned_vegetables', 'soda', 'shopping_bags']",4,21.75424952679871
+915,"['pastry', 'salty_snack']",2,15.872374400805025
+916,"['other_vegetables', 'brown_bread', 'soda']",3,29.471774407935143
+917,"['other_vegetables', 'frozen_vegetables', 'pastry', 'specialty_bar']",4,38.73763797082334
+920,"['chocolate', 'pot_plants']",2,24.4825683399026
+921,"['other_vegetables', 'yogurt', 'fruit/vegetable_juice', 'shopping_bags']",4,30.423706659196935
+922,"['pip_fruit', 'vinegar', 'bottled_water', 'shopping_bags']",4,30.304391068200484
+923,"['mustard', 'soda', 'fruit/vegetable_juice']",3,17.59152855216923
+924,"['whole_milk', 'margarine', 'bottled_water']",3,22.096402114039297
+925,"['citrus_fruit', 'tropical_fruit', 'other_vegetables']",3,34.834851119314685
+929,"['beef', 'grapes', 'fruit/vegetable_juice']",3,20.150294665211987
+930,"['pip_fruit', 'sugar']",2,17.706779326331958
+933,"['pip_fruit', 'domestic_eggs']",2,13.556422750104627
+934,"['butter_milk', 'specialty_chocolate']",2,14.327227313272342
+939,"['other_vegetables', 'dessert', 'waffles', 'light_bulbs']",4,44.67120739848545
+940,"['domestic_eggs', 'cat_food', 'bottled_water']",3,11.694163414241881
+941,"['root_vegetables', 'yogurt', 'fruit/vegetable_juice']",3,11.096883030762235
+942,"['other_vegetables', 'yogurt']",2,14.40679788724004
+943,"['other_vegetables', 'whole_milk', 'yogurt', 'spices']",4,23.041459093728264
+944,"['pip_fruit', 'margarine']",2,24.860073312496052
+945,"['berries', 'chewing_gum', 'seasonal_products', 'newspapers']",4,27.070497687199655
+946,"['whole_milk', 'specialty_bar']",2,19.293780768831795
+947,"['whole_milk', 'specialty_fat', 'soda']",3,21.239948133034112
+948,"['cat_food', 'chocolate']",2,17.60119348016841
+949,"['brown_bread', 'margarine', 'long_life_bakery_product', 'flower_(seeds)']",4,45.67119579599593
+950,"['fish', 'brown_bread', 'pet_care', 'napkins']",4,23.725924976719835
+951,"['whole_milk', 'brown_bread']",2,18.45622080893713
+952,"['soda', 'chocolate', 'chocolate_marshmallow']",3,21.458613236374667
+954,"['whole_milk', 'soda']",2,14.131191930446754
+955,"['citrus_fruit', 'pip_fruit', 'whole_milk', 'bottled_water']",4,35.63632047286577
+956,"['rolls/buns', 'soda']",2,9.133026098412913
+957,"['butter_milk', 'hard_cheese']",2,17.583349862028914
+958,"['pastry', 'soda']",2,15.8089339657716
+959,"['spread_cheese', 'fruit/vegetable_juice']",2,12.300236685379652
+960,"['frankfurter', 'onions', 'candy', 'detergent']",4,32.17601917938475
+961,"['frankfurter', 'pip_fruit', 'newspapers']",3,36.14665352589422
+962,"['rolls/buns', 'white_bread', 'dish_cleaner', 'shopping_bags']",4,23.870010671235566
+963,"['other_vegetables', 'whole_milk', 'soda', 'chocolate']",4,34.57907259297717
+965,"['citrus_fruit', 'pip_fruit']",2,25.450321832607486
+966,"['flour', 'bottled_water', 'chocolate', 'specialty_chocolate']",4,22.453695886524947
+967,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+971,"['frozen_vegetables', 'rolls/buns', 'pastry']",3,17.56132970140645
+972,"['tropical_fruit', 'other_vegetables', 'whole_milk', 'frozen_meals']",4,40.98449720939655
+973,"['frankfurter', 'beef', 'other_vegetables', 'rolls/buns']",4,35.91186607110764
+974,"['sweet_spreads', 'cat_food']",2,18.660056981804207
+975,"['pip_fruit', 'soda']",2,20.217124392757043
+977,"['liver_loaf', 'whole_milk', 'yogurt']",3,24.246433592169726
+978,"['curd', 'tidbits', 'soda']",3,18.72050699432534
+981,"['bottled_water', 'fruit/vegetable_juice']",2,9.198832615225959
+984,"['onions', 'spread_cheese']",2,15.170412675324183
+988,"['rolls/buns', 'misc._beverages']",2,7.506198082254009
+989,"['tropical_fruit', 'other_vegetables']",2,22.334199125422245
+991,"['frankfurter', 'frozen_potato_products']",2,25.348188685687695
+992,"['pip_fruit', 'soda', 'cake_bar', 'specialty_chocolate']",4,35.10824565870514
+993,"['tropical_fruit', 'cream_cheese', 'chocolate']",3,26.587723245270702
+994,"['whole_milk', 'yogurt']",2,10.658698842284023
+996,"['pip_fruit', 'pastry']",2,21.49114925044465
+997,"['domestic_eggs', 'rolls/buns']",2,2.472324455760498
+998,"['citrus_fruit', 'male_cosmetics']",2,14.225094650420832
+999,"['rolls/buns', 'tea']",2,10.65562830382401
+1001,"['rolls/buns', 'newspapers']",2,13.164622805034266
+1002,"['tropical_fruit', 'zwieback', 'bottled_water']",3,21.069431746313995
+1003,"['whole_milk', 'beverages', 'frozen_meals', 'frozen_dessert']",4,29.10203025579886
+1004,"['margarine', 'napkins']",2,14.121489054528478
+1005,"['dessert', 'rolls/buns', 'bottled_water', 'specialty_bar']",4,24.9264354641507
+1006,"['beef', 'whipped/sour_cream', 'napkins']",3,18.65488768151547
+1007,"['brown_bread', 'fruit/vegetable_juice', 'newspapers', 'shopping_bags']",4,38.908443465152615
+1009,"['sweet_spreads', 'soda', 'waffles']",3,32.60987843281539
+1010,"['pastry', 'instant_coffee']",2,11.975748201260444
+1011,"['whole_milk', 'hard_cheese', 'coffee']",3,29.00985358667529
+1012,"['other_vegetables', 'whipped/sour_cream']",2,15.519112843268653
+1013,"['pip_fruit', 'onions', 'whole_milk']",3,28.560154556436764
+1015,"['pastry', 'soda']",2,15.8089339657716
+1019,"['liver_loaf', 'rolls/buns', 'soda']",3,22.720760848298617
+1020,"['frankfurter', 'chicken', 'brown_bread', 'oil']",4,37.668634482662156
+1022,"['butter', 'yogurt', 'whipped/sour_cream']",3,15.732833987272866
+1025,"['yogurt', 'rolls/buns']",2,5.660533010250183
+1028,"['soda', 'chocolate', 'specialty_chocolate']",3,24.50122022548767
+1029,"['oil', 'fruit/vegetable_juice']",2,17.697142301190965
+1030,"['onions', 'yogurt', 'frozen_vegetables']",3,19.695987552502153
+1031,"['citrus_fruit', 'pip_fruit']",2,25.450321832607486
+1032,"['yogurt', 'pastry']",2,12.336440877608869
+1034,"['dish_cleaner', 'napkins']",2,4.371771647019087
+1035,"['yogurt', 'organic_products', 'shopping_bags']",3,28.334407478464687
+1036,"['sauces', 'specialty_chocolate']",2,21.072141445536342
+1037,"['brown_bread', 'pastry', 'pasta']",3,34.66285396455802
+1038,"['cream_cheese', 'ice_cream', 'white_bread', 'specialty_chocolate']",4,34.69822049055462
+1039,"['ice_cream', 'chocolate_marshmallow']",2,16.92288156139345
+1040,"['hard_cheese', 'soda']",2,17.921298533074605
+1041,"['detergent', 'decalcifier', 'hygiene_articles']",3,24.142045501050344
+1042,"['soda', 'specialty_bar']",2,19.697497946469028
+1043,"['pip_fruit', 'other_vegetables', 'whipped/sour_cream', 'oil']",4,40.289353631802236
+1044,"['whole_milk', 'butter_milk', 'yogurt']",3,17.588204725280324
+1046,"['beverages', 'rolls/buns']",2,7.737237281876517
+1047,"['ice_cream', 'frozen_dessert', 'salty_snack']",3,24.478728543624786
+1048,"['butter', 'sliced_cheese', 'misc._beverages', 'fruit/vegetable_juice']",4,21.074850461592277
+1049,"['beverages', 'waffles']",2,20.31918187347356
+1051,"['yogurt', 'bottled_water']",2,7.117222729732795
+1055,"['uht-milk', 'hygiene_articles', 'cling_film/bags', 'newspapers']",4,34.7208589332075
+1057,"['whole_milk', 'yogurt', 'rolls/buns', 'bottled_water']",4,15.84653165050847
+1058,"['yogurt', 'rolls/buns', 'pastry', 'soda']",4,21.469466976021785
+1059,"['other_vegetables', 'yogurt', 'whipped/sour_cream', 'newspapers']",4,30.613125569811267
+1060,"['chocolate', 'specialty_bar']",2,22.26608763359667
+1061,"['citrus_fruit', 'tropical_fruit', 'fruit/vegetable_juice']",3,30.099586049326334
+1062,"['specialty_fat', 'sugar', 'cat_food']",3,19.631014929203044
+1063,"['spread_cheese', 'rolls/buns', 'brown_bread', 'soda']",4,27.149174864952506
+1064,"['whole_milk', 'pastry']",2,15.405216788134362
+1065,"['whole_milk', 'pastry']",2,15.405216788134362
+1067,"['beef', 'other_vegetables', 'whole_milk', 'rolls/buns']",4,30.87767102099657
+1068,"['pip_fruit', 'whole_milk', 'yogurt']",3,23.608368680999067
+1069,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+1070,"['rolls/buns', 'specialty_chocolate']",2,9.263292974646959
+1072,"['whole_milk', 'cat_food', 'bottled_water', 'napkins']",4,20.162233460004533
+1073,"['beverages', 'processed_cheese']",2,16.27587555952119
+1076,"['beef', 'root_vegetables', 'other_vegetables', 'whipped/sour_cream']",4,28.48098873563931
+1077,"['domestic_eggs', 'dish_cleaner', 'hygiene_articles']",3,12.899985312408313
+1078,"['processed_cheese', 'rolls/buns', 'soda']",3,19.537235920428508
+1079,"['citrus_fruit', 'curd']",2,16.29083755513026
+1081,"['pastry', 'candles']",2,15.070686743203444
+1082,"['berries', 'other_vegetables', 'whole_milk', 'whipped/sour_cream']",4,32.04198400694335
+1083,"['whole_milk', 'yogurt', 'whipped/sour_cream', 'sugar']",4,20.323084751808814
+1085,"['whole_milk', 'butter_milk', 'domestic_eggs']",3,14.39999617079064
+1087,"['rolls/buns', 'bottled_water']",2,5.187832808224448
+1089,"['frankfurter', 'rolls/buns', 'napkins']",3,15.974589551634221
+1090,"['rolls/buns', 'pastry', 'soda']",3,17.674505510142517
+1091,"['uht-milk', 'margarine', 'bottled_water', 'soda']",4,27.180876798665068
+1092,"['pip_fruit', 'yogurt']",2,16.74463130459431
+1093,"['whole_milk', 'coffee']",2,18.35600960764268
+1095,"['pasta', 'fruit/vegetable_juice']",2,20.40546247166847
+1096,"['tropical_fruit', 'butter', 'brown_bread']",3,30.345442236079563
+1097,"['whole_milk', 'bottled_water']",2,10.185998640258289
+1098,"['rolls/buns', 'soda', 'specialty_bar']",3,21.563069490839947
+1099,"['rolls/buns', 'fruit/vegetable_juice', 'long_life_bakery_product', 'newspapers']",4,33.594251627948694
+1100,"['pastry', 'fruit/vegetable_juice']",2,14.418050763102032
+1101,"['rolls/buns', 'soda']",2,9.133026098412913
+1102,"['domestic_eggs', 'soda']",2,7.874207465431575
+1105,"['onions', 'whole_milk', 'butter', 'frozen_fish']",4,34.50760484925044
+1106,"['tropical_fruit', 'rolls/buns', 'bottled_water']",3,16.910195512285917
+1108,"['root_vegetables', 'other_vegetables']",2,12.037186634871318
+1110,"['beef', 'root_vegetables']",2,12.96187589237066
+1112,"['citrus_fruit', 'shopping_bags']",2,22.640989414476905
+1113,"['snack_products', 'chocolate']",2,14.772415291354097
+1115,"['frozen_meals', 'frozen_fish', 'chocolate']",3,33.48912898078218
+1116,"['spread_cheese', 'rolls/buns']",2,8.289236878378142
+1117,"['herbs', 'whole_milk']",2,10.111072083126901
+1118,"['tropical_fruit', 'other_vegetables']",2,22.334199125422245
+1119,"['domestic_eggs', 'margarine', 'bottled_water']",3,15.839417649024117
+1120,"['frankfurter', 'domestic_eggs', 'rolls/buns']",3,14.37025688227633
+1122,"['whole_milk', 'spread_cheese']",2,13.287402710411982
+1123,"['soda', 'hygiene_articles', 'napkins']",3,19.611086469536588
+1124,"['bottled_water', 'chocolate']",2,13.158305505023167
+1126,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+1127,"['herbs', 'misc._beverages', 'shopping_bags']",3,19.0282986651897
+1128,"['meat', 'curd', 'white_bread']",3,26.06743504408503
+1129,"['yogurt', 'waffles']",2,18.242477601847227
+1130,"['whipped/sour_cream', 'candy']",2,15.303461229545022
+1134,"['butter', 'oil', 'cling_film/bags']",3,27.459670880112753
+1137,"['yogurt', 'frozen_fish', 'ice_cream']",3,28.229252618152678
+1138,"['yogurt', 'whipped/sour_cream', 'hard_cheese', 'ketchup']",4,22.329679910604604
+1139,"['other_vegetables', 'whole_milk', 'coffee']",3,28.967846029003454
+1141,"['yogurt', 'rolls/buns', 'misc._beverages']",3,11.301159548133274
+1142,"['condensed_milk', 'coffee']",2,21.70457515413432
+1143,"['root_vegetables', 'pastry']",2,9.966829625240146
+1144,"['other_vegetables', 'oil']",2,22.43240737117931
+1145,"['citrus_fruit', 'rolls/buns', 'snack_products']",3,19.30259458844782
+1146,"['frankfurter', 'photo/film']",2,15.2966013624049
+1149,"['root_vegetables', 'yogurt', 'beverages', 'flour']",4,12.989646368121146
+1152,"['meat', 'citrus_fruit', 'whole_milk', 'spread_cheese']",4,38.36188854714307
+1153,"['rolls/buns', 'zwieback', 'chocolate_marshmallow', 'dishes']",4,22.16826948647784
+1154,"['cat_food', 'coffee']",2,19.257421470236693
+1155,"['hard_cheese', 'honey', 'candy']",3,32.89968958179891
+1156,"['rolls/buns', 'soda', 'newspapers']",3,20.43207735907626
+1157,"['curd', 'napkins']",2,6.001271141985292
+1158,"['meat', 'other_vegetables']",2,23.185670264199416
+1159,"['whole_milk', 'rolls/buns', 'pastry']",3,17.27078833250528
+1161,"['whole_milk', 'domestic_eggs', 'brown_bread', 'photo/film']",4,22.46164265621578
+1162,"['whole_milk', 'newspapers']",2,18.162788637068108
+1164,"['root_vegetables', 'other_vegetables', 'frozen_vegetables']",3,19.19146538017725
+1165,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+1166,"['meat', 'root_vegetables', 'whole_milk', 'newspapers']",4,32.16197269341729
+1168,"['finished_products', 'misc._beverages']",2,8.349152027224033
+1169,"['whole_milk', 'frozen_meals', 'rolls/buns', 'margarine']",4,32.42627310212623
+1170,"['curd', 'yogurt']",2,7.585147027117085
+1171,"['coffee', 'fruit/vegetable_juice']",2,17.36884358261035
+1173,"['whole_milk', 'curd', 'brown_bread']",3,22.24640637017495
+1175,"['yogurt', 'rolls/buns', 'meat_spreads', 'soda']",4,21.897408113526843
+1176,"['beef', 'citrus_fruit', 'whole_milk']",3,30.900915049157312
+1177,"['yogurt', 'uht-milk', 'rolls/buns', 'candles']",4,16.87049784871256
+1180,"['finished_products', 'soda', 'specialty_chocolate']",3,17.373701473658976
+1182,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+1183,"['chicken', 'sugar', 'photo/film']",3,10.513426097301398
+1185,"['hard_cheese', 'white_bread', 'brown_bread']",3,31.94974305157355
+1189,"['tropical_fruit', 'rolls/buns', 'pastry']",3,22.12941366016199
+1191,"['other_vegetables', 'pastry', 'candy', 'napkins']",4,31.760586221475
+1192,"['domestic_eggs', 'rolls/buns']",2,2.472324455760498
+1193,"['pastry', 'soda']",2,15.8089339657716
+1195,"['dessert', 'rolls/buns', 'sugar', 'bottled_water']",4,17.253501559340574
+1196,"['pip_fruit', 'whole_milk', 'domestic_eggs']",3,20.420160126509384
+1197,"['root_vegetables', 'whole_milk', 'rolls/buns', 'specialty_chocolate']",4,17.55238056456226
+1198,"['root_vegetables', 'yogurt', 'pastry']",3,13.761791091119411
+1199,"['other_vegetables', 'rolls/buns', 'soda']",3,19.74486251977369
+1201,"['butter_milk', 'canned_fish']",2,8.735199864243107
+1202,"['butter_milk', 'soft_cheese', 'rolls/buns']",3,20.29361060997777
+1203,"['onions', 'other_vegetables', 'specialty_cheese']",3,30.332794346326267
+1205,"['whole_milk', 'curd', 'dessert', 'shopping_bags']",4,28.10281962172626
+1207,"['rolls/buns', 'soda', 'waffles', 'chewing_gum']",4,24.409867294821847
+1208,"['rolls/buns', 'brown_bread', 'fruit/vegetable_juice', 'newspapers']",4,30.633677588939065
+1209,"['mayonnaise', 'rolls/buns']",2,10.764255294028409
+1211,"['citrus_fruit', 'other_vegetables', 'whole_milk', 'flour']",4,31.873894742883714
+1214,"['soda', 'chewing_gum', 'newspapers', 'photo/film']",4,22.794499811035394
+1215,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+1216,"['tropical_fruit', 'candy']",2,22.118547511698615
+1218,"['frankfurter', 'white_bread', 'margarine', 'shopping_bags']",4,43.65208896088986
+1220,"['whole_milk', 'fruit/vegetable_juice']",2,12.740308727777187
+1221,"['pastry', 'newspapers']",2,19.84053067239295
+1222,"['condensed_milk', 'coffee']",2,21.70457515413432
+1224,"['pastry', 'soda']",2,15.8089339657716
+1225,"['soda', 'fruit/vegetable_juice', 'specialty_bar']",3,25.574069297841458
+1226,"['yogurt', 'cream_cheese', 'rolls/buns', 'chocolate']",4,20.52589355145942
+1227,"['whipped/sour_cream', 'domestic_eggs', 'margarine']",3,17.424432807078464
+1228,"['root_vegetables', 'other_vegetables', 'photo/film']",3,15.435855570760388
+1229,"['pastry', 'soda']",2,15.8089339657716
+1231,"['yogurt', 'rolls/buns']",2,5.660533010250183
+1232,"['frankfurter', 'rolls/buns', 'brown_bread', 'shopping_bags']",4,35.49632482400359
+1234,"['specialty_cheese', 'hygiene_articles', 'newspapers', 'shopping_bags']",4,42.54614559964346
+1235,"['rolls/buns', 'pastry']",2,10.407050956100523
+1236,"['dental_care', 'male_cosmetics']",2,4.787648009147252
+1237,"['rolls/buns', 'soda']",2,9.133026098412913
+1238,"['whole_milk', 'pastry', 'soda']",3,22.672671342176358
+1239,"['beef', 'tropical_fruit', 'root_vegetables', 'whole_milk']",4,31.547975972836888
+1240,"['dessert', 'beverages', 'ice_cream', 'soda']",4,33.015446675277225
+1241,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+1242,"['whole_milk', 'curd', 'margarine']",3,22.564326411423586
+1244,"['rolls/buns', 'canned_fruit']",2,6.737496837015128
+1245,"['beverages', 'waffles']",2,20.31918187347356
+1246,"['whole_milk', 'brown_bread', 'pastry']",3,26.997700220666733
+1247,"['whole_milk', 'frozen_dessert', 'margarine', 'snack_products']",4,28.290578334689176
+1250,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+1252,"['bottled_water', 'long_life_bakery_product']",2,17.875318735395524
+1253,"['other_vegetables', 'white_bread', 'newspapers']",3,31.61430332203269
+1256,"['rolls/buns', 'soda']",2,9.133026098412913
+1257,"['berries', 'cookware', 'flower_(seeds)']",3,24.47160504405561
+1258,"['photo/film', 'shopping_bags']",2,13.539006356473536
+1261,"['other_vegetables', 'specialty_cheese']",2,21.586047005009306
+1262,"['ice_cream', 'chewing_gum']",2,13.397092180671393
+1263,"['frozen_meals', 'pastry', 'pasta']",3,34.8569312395952
+1264,"['frankfurter', 'root_vegetables']",2,13.323282640026372
+1265,"['frozen_meals', 'soda', 'shopping_bags']",3,29.19435268219601
+1269,"['pastry', 'soda']",2,15.8089339657716
+1271,"['cat_food', 'waffles']",2,22.212665374966733
+1272,"['bottled_water', 'soda']",2,10.589715817895526
+1273,"['soda', 'chocolate']",2,17.10349879521163
+1277,"['pastry', 'soda']",2,15.8089339657716
+1279,"['brown_bread', 'bottled_water']",2,14.9147446963859
+1281,"['long_life_bakery_product', 'pot_plants']",2,29.199581570274958
+1282,"['butter', 'napkins']",2,9.241681680233196
+1283,"['whole_milk', 'seasonal_products', 'shopping_bags']",3,22.28706237581461
+1287,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+1288,"['dessert', 'soft_cheese', 'rolls/buns']",3,20.672663990480682
+1291,"['whole_milk', 'canned_fish', 'newspapers']",3,19.968482618314916
+1292,"['whole_milk', 'newspapers']",2,18.162788637068108
+1293,"['citrus_fruit', 'whole_milk']",2,19.364389370297197
+1295,"['chocolate', 'napkins']",2,12.047129821917109
+1297,"['rolls/buns', 'white_bread', 'waffles']",3,26.016503320347447
+1298,"['root_vegetables', 'whole_milk', 'rolls/buns']",3,10.15465913428622
+1300,"['tropical_fruit', 'domestic_eggs', 'newspapers']",3,23.6281668761144
+1304,"['whipped/sour_cream', 'candy']",2,15.303461229545022
+1307,"['other_vegetables', 'soda', 'specialty_bar']",3,30.309334367829806
+1308,"['fish', 'rolls/buns', 'pot_plants']",3,25.089061852052414
+1311,"['pip_fruit', 'yogurt']",2,16.74463130459431
+1312,"['yogurt', 'frozen_vegetables', 'decalcifier']",3,23.823584773573604
+1314,"['whole_milk', 'frozen_meals', 'pasta', 'candy']",4,43.5753740119075
+1317,"['whole_milk', 'cereals']",2,16.459715566590184
+1318,"['bottled_water', 'soda']",2,10.589715817895526
+1319,"['whole_milk', 'napkins']",2,9.07482295715223
+1321,"['whole_milk', 'specialty_bar']",2,19.293780768831795
+1323,"['dessert', 'frozen_potato_products', 'specialty_chocolate']",3,28.15653695294712
+1325,"['onions', 'other_vegetables', 'spread_cheese', 'misc._beverages']",4,31.42287563456805
+1327,"['frankfurter', 'curd', 'semi-finished_bread']",3,18.526558783740875
+1328,"['other_vegetables', 'whole_milk']",2,17.475573797765534
+1329,"['root_vegetables', 'whole_milk', 'hard_cheese', 'candy']",4,29.339116376585057
+1330,"['finished_products', 'pip_fruit', 'frozen_potato_products', 'soda']",4,36.37590614126985
+1331,"['soda', 'shopping_bags']",2,17.407791974626463
+1339,"['fruit/vegetable_juice', 'salty_snack']",2,13.20746634044785
+1341,"['yogurt', 'misc._beverages']",2,9.435588003762355
+1342,"['cream_cheese', 'rolls/buns', 'candy', 'shopping_bags']",4,27.431410072632126
+1345,"['whole_milk', 'beverages']",2,12.735403113910358
+1347,"['roll_products', 'misc._beverages']",2,18.561533657222537
+1352,"['butter_milk', 'pastry']",2,15.470985294725907
+1353,"['misc._beverages', 'salty_snack']",2,12.971521526958512
+1356,"['butter', 'ice_cream', 'margarine', 'soda']",4,38.77622124753914
+1358,"['yogurt', 'frozen_vegetables']",2,10.949240211185195
+1359,"['root_vegetables', 'whole_milk', 'rolls/buns']",3,10.15465913428622
+1361,"['uht-milk', 'bottled_water', 'soda']",3,15.270473324884065
+1362,"['whole_milk', 'dessert', 'butter_milk']",3,21.101802522900275
+1363,"['salty_snack', 'female_sanitary_products']",2,15.85779629861636
+1364,"['soda', 'skin_care']",2,16.192841079697722
+1366,"['citrus_fruit', 'tropical_fruit', 'ice_cream']",3,36.79078181818432
+1368,"['citrus_fruit', 'tropical_fruit', 'brown_bread', 'napkins']",4,38.02658371123375
+1369,"['bottled_water', 'soda', 'waffles']",3,25.037231953863486
+1371,"['curd', 'cake_bar']",2,11.283585396909873
+1373,"['specialty_cheese', 'chewing_gum']",2,11.803535644089507
+1374,"['other_vegetables', 'white_bread']",2,20.315252061369343
+1375,"['whole_milk', 'cream_cheese', 'salty_snack', 'candy']",4,29.62013347315692
+1380,"['root_vegetables', 'whole_milk', 'roll_products']",3,21.209994709254744
+1382,"['pasta', 'soda', 'snack_products', 'cake_bar']",4,34.226116560194555
+1385,"['whole_milk', 'frozen_vegetables', 'coffee']",3,25.510288352948606
+1386,"['beef', 'other_vegetables']",2,22.148362100220893
+1392,"['frankfurter', 'rolls/buns', 'margarine', 'soda']",4,32.94136199870975
+1393,"['beef', 'other_vegetables', 'margarine', 'soda']",4,41.32622012804389
+1394,"['whole_milk', 'frozen_meals', 'specialty_chocolate']",3,26.048019514250345
+1395,"['other_vegetables', 'pot_plants']",2,25.25836052009374
+1396,"['onions', 'roll_products']",2,21.667654460656404
+1397,"['zwieback', 'long_life_bakery_product', 'dental_care']",3,23.64107060255985
+1398,"['frankfurter', 'curd_cheese']",2,26.473053780241926
+1399,"['onions', 'yogurt', 'ice_cream']",3,25.10947592742664
+1402,"['curd', 'cat_food', 'soda']",3,18.822789354278584
+1404,"['other_vegetables', 'processed_cheese', 'tea']",3,29.80610300282946
+1406,"['whipped/sour_cream', 'domestic_eggs', 'bottled_water', 'soda']",4,16.10374515119298
+1407,"['root_vegetables', 'semi-finished_bread', 'specialty_bar']",3,16.693834401924804
+1408,"['pip_fruit', 'soft_cheese', 'tidbits']",3,32.11106990037112
+1411,"['soda', 'specialty_bar']",2,19.697497946469028
+1413,"['cereals', 'specialty_chocolate', 'pot_plants']",3,31.640223719194427
+1414,"['frankfurter', 'soda', 'shopping_bags']",3,29.305724401142292
+1415,"['uht-milk', 'cream_cheese', 'spread_cheese', 'rolls/buns']",4,17.99931068540628
+1416,"['misc._beverages', 'specialty_chocolate']",2,13.03834796815913
+1418,"['bottled_water', 'soda']",2,10.589715817895526
+1419,"['meat_spreads', 'specialty_bar']",2,21.3994639416617
+1420,"['brown_bread', 'bottled_water', 'specialty_bar']",3,27.344788088812933
+1424,"['citrus_fruit', 'herbs', 'other_vegetables', 'curd']",4,30.15000868321318
+1427,"['beef', 'chocolate']",2,21.372569920029754
+1428,"['mayonnaise', 'white_bread', 'soda']",3,25.869553943708055
+1429,"['fruit/vegetable_juice', 'chewing_gum']",2,6.705896411813406
+1430,"['dog_food', 'cling_film/bags']",2,10.992365658172835
+1433,"['meat', 'other_vegetables', 'white_bread', 'newspapers']",4,44.18813716487133
+1434,"['whole_milk', 'rolls/buns', 'specialty_chocolate', 'candy']",4,26.52321515868886
+1435,"['tropical_fruit', 'whole_milk', 'margarine', 'sugar']",4,35.25361304186414
+1437,"['other_vegetables', 'whole_milk', 'waffles']",3,31.923089933733493
+1438,"['frozen_vegetables', 'domestic_eggs', 'pastry']",3,16.30251106842511
+1441,"['meat', 'newspapers']",2,23.872885103501993
+1442,"['beef', 'whole_milk', 'margarine', 'salty_snack']",4,37.64156151812131
+1443,"['other_vegetables', 'frozen_fish', 'vinegar']",3,26.370482998451216
+1444,"['whole_milk', 'domestic_eggs', 'cling_film/bags']",3,16.078994118602836
+1447,"['root_vegetables', 'uht-milk', 'soda']",3,13.373562274541078
+1448,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+1451,"['whole_milk', 'pastry']",2,15.405216788134362
+1452,"['frozen_chicken', 'salty_snack']",2,14.163297132944676
+1454,"['coffee', 'soda']",2,18.759726785279916
+1455,"['citrus_fruit', 'soft_cheese', 'rolls/buns', 'pastry']",4,34.40623613260351
+1456,"['other_vegetables', 'salty_snack', 'dishes', 'house_keeping_products']",4,31.47698488886426
+1457,"['beef', 'root_vegetables']",2,12.96187589237066
+1464,"['butter_milk', 'rolls/buns', 'long_life_bakery_product']",3,23.348134898909215
+1467,"['whole_milk', 'pastry']",2,15.405216788134362
+1469,"['uht-milk', 'bottled_water', 'specialty_chocolate']",3,15.40074020111811
+1473,"['specialty_chocolate', 'specialty_bar']",2,19.827764822703074
+1474,"['frozen_meals', 'soda']",2,19.054015261611543
+1475,"['pet_care', 'instant_coffee', 'soda', 'specialty_chocolate']",4,19.44483452834033
+1477,"['other_vegetables', 'specialty_bar']",2,23.04187981378781
+1478,"['herbs', 'bottled_water', 'napkins']",3,8.780681551323145
+1482,"['frankfurter', 'citrus_fruit', 'canned_vegetables', 'coffee']",4,38.811963990307895
+1483,"['soda', 'specialty_chocolate', 'newspapers']",3,25.964227244981384
+1484,"['whole_milk', 'uht-milk', 'domestic_eggs', 'newspapers']",4,23.45029905544623
+1486,"['other_vegetables', 'margarine']",2,22.52223989514178
+1488,"['pip_fruit', 'berries']",2,22.608803625984986
+1490,"['bottled_water', 'soda', 'dishes']",3,20.512491540440415
+1491,"['pastry', 'syrup']",2,17.562325708306428
+1493,"['other_vegetables', 'pet_care']",2,11.957226175852233
+1496,"['whole_milk', 'pastry', 'vinegar']",3,19.297339333181803
+1498,"['domestic_eggs', 'misc._beverages']",2,6.247379449272671
+1507,"['citrus_fruit', 'specialty_bar']",2,24.930695386319474
+1508,"['tropical_fruit', 'whole_milk', 'ice_cream']",3,31.153867200696645
+1509,"['coffee', 'napkins']",2,13.703357811985393
+1512,"['dessert', 'fruit/vegetable_juice', 'nut_snack', 'specialty_bar']",4,31.144786173053813
+1513,"['pip_fruit', 'sweet_spreads']",2,23.844577581520483
+1514,"['tropical_fruit', 'other_vegetables', 'whipped/sour_cream', 'white_bread']",4,36.94489118733869
+1516,"['spread_cheese', 'soda']",2,13.691119888049219
+1517,"['tropical_fruit', 'yogurt', 'whipped/sour_cream']",3,20.42460059184861
+1519,"['soda', 'salty_snack', 'specialty_bar', 'candy']",4,37.4245777431816
+1520,"['uht-milk', 'pastry', 'waffles']",3,27.669753054686105
+1521,"['soda', 'fruit/vegetable_juice']",2,13.144025905414424
+1522,"['margarine', 'misc._beverages']",2,17.551030011664096
+1523,"['other_vegetables', 'coffee', 'bottled_water', 'salty_snack']",4,32.75726490552765
+1524,"['pastry', 'chocolate', 'candles']",3,24.906730984373084
+1525,"['processed_cheese', 'ketchup', 'seasonal_products']",3,18.660795444625826
+1526,"['rolls/buns', 'pot_plants']",2,16.51209564310388
+1527,"['berries', 'soda', 'long_life_bakery_product', 'specialty_chocolate']",4,38.87736724312997
+1528,"['whole_milk', 'yogurt']",2,10.658698842284023
+1530,"['soda', 'fruit/vegetable_juice', 'waffles']",3,27.591542041382382
+1533,"['whole_milk', 'bottled_water']",2,10.185998640258289
+1535,"['bottled_water', 'fruit/vegetable_juice']",2,9.198832615225959
+1537,"['citrus_fruit', 'pastry']",2,21.042131405622044
+1538,"['meat', 'root_vegetables', 'whole_milk']",3,20.862921432753943
+1539,"['chicken', 'citrus_fruit', 'rolls/buns', 'bottled_water']",4,20.046132475912305
+1540,"['rolls/buns', 'oil']",2,13.686142494189454
+1541,"['citrus_fruit', 'other_vegetables', 'butter', 'rolls/buns']",4,32.00865605910986
+1542,"['beef', 'other_vegetables', 'canned_fish']",3,23.954056081467698
+1543,"['yogurt', 'brown_bread', 'margarine', 'napkins']",4,29.50893395294011
+1544,"['meat', 'whole_milk', 'specialty_cheese', 'domestic_eggs']",4,31.01853471428151
+1547,"['waffles', 'specialty_chocolate']",2,21.845237566244002
+1548,"['tropical_fruit', 'other_vegetables', 'skin_care']",3,31.25958565107797
+1549,"['meat', 'rolls/buns', 'soda']",3,21.706859941251558
+1552,"['soda', 'specialty_chocolate']",2,14.665175984318035
+1553,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+1554,"['whole_milk', 'fruit/vegetable_juice']",2,12.740308727777187
+1555,"['pastry', 'specialty_chocolate']",2,15.939200842005643
+1557,"['beverages', 'long_life_bakery_product']",2,20.424723209047595
+1563,"['other_vegetables', 'newspapers']",2,21.910887682024125
+1564,"['newspapers', 'photo/film']",2,14.69772019655242
+1567,"['chicken', 'brown_bread', 'bottled_water', 'newspapers']",4,28.571443630844662
+1568,"['fruit/vegetable_juice', 'cake_bar']",2,13.36997118704448
+1572,"['condensed_milk', 'soda']",2,17.479757476938396
+1573,"['frozen_meals', 'soda']",2,19.054015261611543
+1575,"['pip_fruit', 'brown_bread', 'misc._beverages', 'chewing_gum']",4,31.01210486957148
+1577,"['whole_milk', 'sugar']",2,11.62084686402167
+1578,"['pip_fruit', 'fruit/vegetable_juice']",2,18.826241190087472
+1579,"['pip_fruit', 'whole_milk', 'whipped/sour_cream']",3,24.72068363702768
+1580,"['cereals', 'detergent']",2,10.731132794100244
+1583,"['soda', 'chocolate']",2,17.10349879521163
+1584,"['root_vegetables', 'shopping_bags']",2,11.565687634095008
+1585,"['yogurt', 'brown_bread']",2,15.387444898411635
+1586,"['white_bread', 'chocolate', 'shopping_bags']",3,29.67979730176267
+1587,"['pip_fruit', 'other_vegetables', 'frozen_vegetables', 'canned_vegetables']",4,33.63689234404346
+1590,"['curd', 'meat_spreads']",2,12.759606110472486
+1591,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+1592,"['brown_bread', 'margarine']",2,23.50288690631338
+1594,"['chocolate', 'dishes']",2,19.758819963714526
+1595,"['soda', 'specialty_chocolate']",2,14.665175984318035
+1597,"['butter', 'candy']",2,17.42678090712287
+1599,"['citrus_fruit', 'whole_milk', 'waffles']",3,33.811905506265155
+1601,"['rolls/buns', 'bottled_water', 'shopping_bags']",3,15.328170228808913
+1603,"['other_vegetables', 'white_bread', 'newspapers']",3,31.61430332203269
+1606,"['root_vegetables', 'whole_milk']",2,8.289087589915301
+1607,"['tidbits', 'rolls/buns', 'coffee', 'salty_snack']",4,28.351605643729787
+1608,"['whole_milk', 'frozen_vegetables', 'coffee']",3,25.510288352948606
+1609,"['citrus_fruit', 'root_vegetables', 'whole_milk', 'coffee']",4,32.282011815045664
+1614,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+1615,"['other_vegetables', 'whole_milk', 'frozen_potato_products']",3,30.9258300569374
+1616,"['chocolate', 'candy']",2,20.23222904880678
+1617,"['finished_products', 'seasonal_products']",2,7.991513068166329
+1618,"['whole_milk', 'pastry']",2,15.405216788134362
+1620,"['whole_milk', 'zwieback', 'salty_snack']",3,20.219440143879176
+1623,"['uht-milk', 'artif._sweetener', 'bottled_water']",3,14.395628261723093
+1624,"['tropical_fruit', 'ice_cream', 'frozen_dessert', 'candy']",4,39.26638106624798
+1629,"['frozen_meals', 'ice_cream']",2,24.354327827799963
+1633,"['frankfurter', 'dessert']",2,19.206491690015046
+1634,"['instant_food_products', 'canned_vegetables', 'salty_snack']",3,18.947925871714364
+1635,"['frozen_vegetables', 'margarine', 'cleaner']",3,25.90338504273573
+1637,"['citrus_fruit', 'whole_milk', 'semi-finished_bread']",3,22.20283016628442
+1642,"['citrus_fruit', 'yogurt', 'fruit/vegetable_juice', 'napkins']",4,24.383270391891607
+1644,"['rolls/buns', 'prosecco', 'salty_snack']",3,16.165732529269786
+1645,"['other_vegetables', 'whole_milk', 'butter_milk', 'specialty_cheese']",4,35.379290264410365
+1647,"['oil', 'fruit/vegetable_juice', 'dishes']",3,27.619918023735856
+1648,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+1649,"['tropical_fruit', 'yogurt', 'coffee', 'newspapers']",4,38.308647661842
+1650,"['soda', 'chocolate_marshmallow']",2,11.622568995205029
+1656,"['bottled_water', 'soda', 'salty_snack']",3,17.92061080697095
+1659,"['yogurt', 'artif._sweetener']",2,10.187570956760286
+1660,"['rolls/buns', 'soda']",2,9.133026098412913
+1662,"['frozen_meals', 'rolls/buns', 'brown_bread']",3,25.244615684472834
+1663,"['other_vegetables', 'rolls/buns', 'bottled_water', 'skin_care']",4,24.725055755240952
+1665,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+1667,"['coffee', 'soda']",2,18.759726785279916
+1669,"['frankfurter', 'chicken', 'ice_cream', 'rolls/buns']",4,28.688918764912582
+1670,"['yogurt', 'uht-milk', 'rolls/buns', 'brown_bread']",4,21.933773949771094
+1671,"['frozen_fish', 'rolls/buns', 'pastry']",3,22.27357498814352
+1672,"['frankfurter', 'soft_cheese', 'rolls/buns']",3,25.262037153497296
+1673,"['frankfurter', 'rolls/buns', 'chewing_gum']",3,14.592829031327726
+1675,"['whole_milk', 'whipped/sour_cream', 'pastry', 'bottled_water']",4,23.63475447389577
+1676,"['herbs', 'other_vegetables']",2,13.859171128082918
+1677,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+1678,"['other_vegetables', 'frozen_fish', 'newspapers']",3,33.77741171406712
+1679,"['bottled_water', 'misc._beverages']",2,8.96288780173662
+1681,"['bottled_water', 'misc._beverages', 'cooking_chocolate']",3,10.066293322734062
+1684,"['root_vegetables', 'rolls/buns', 'pastry']",3,11.832401169611064
+1687,"['misc._beverages', 'fruit/vegetable_juice']",2,11.51719788925552
+1688,"['beverages', 'long_life_bakery_product']",2,20.424723209047595
+1689,"['chicken', 'root_vegetables', 'yogurt']",3,7.577959353185222
+1693,"['yogurt', 'salty_snack', 'napkins']",3,13.336942035702158
+1694,"['whole_milk', 'frozen_fish', 'pastry']",3,27.271740820177357
+1699,"['pip_fruit', 'whole_milk', 'soda']",3,27.0808617691618
+1700,"['fish', 'citrus_fruit']",2,21.077618202840974
+1703,"['whole_milk', 'butter', 'yogurt', 'rolls/buns']",4,19.554866486140664
+1706,"['ice_cream', 'newspapers']",2,23.866818380893765
+1707,"['pet_care', 'bottled_water']",2,4.667651018344987
+1708,"['rolls/buns', 'white_bread']",2,11.568987184379484
+1711,"['yogurt', 'beverages']",2,9.666627203384863
+1712,"['liver_loaf', 'whole_milk', 'mustard', 'shopping_bags']",4,35.03931219362973
+1713,"['tropical_fruit', 'rolls/buns', 'mustard']",3,18.035436895187193
+1714,"['margarine', 'fruit/vegetable_juice']",2,17.786974825153436
+1715,"['whole_milk', 'rolls/buns', 'coffee', 'fruit/vegetable_juice']",4,26.098152503386025
+1717,"['butter', 'mayonnaise', 'instant_coffee']",3,19.363548638674054
+1720,"['grapes', 'salty_snack', 'specialty_bar', 'candy']",4,32.89432082411905
+1721,"['other_vegetables', 'sweet_spreads']",2,21.506744164166214
+1724,"['semi-finished_bread', 'bottled_water']",2,6.160702059840755
+1725,"['coffee', 'flower_(seeds)']",2,19.107523649378475
+1726,"['rolls/buns', 'pastry', 'napkins', 'newspapers']",4,23.917187797511346
+1728,"['other_vegetables', 'white_bread', 'pastry', 'shopping_bags']",4,38.99706889368341
+1729,"['chicken', 'butter', 'white_bread']",3,19.091659413289705
+1732,"['root_vegetables', 'whole_milk']",2,8.289087589915301
+1735,"['citrus_fruit', 'other_vegetables', 'frozen_vegetables', 'sugar']",4,35.023876648176056
+1736,"['uht-milk', 'brown_bread']",2,16.27324093952091
+1739,"['frankfurter', 'white_bread', 'margarine']",3,33.5117515403054
+1740,"['frozen_meals', 'cleaner']",2,18.625263531218344
+1741,"['beef', 'other_vegetables']",2,22.148362100220893
+1742,"['dessert', 'nut_snack', 'specialty_chocolate']",3,20.23589285953039
+1743,"['root_vegetables', 'other_vegetables']",2,12.037186634871318
+1746,"['whole_milk', 'soft_cheese', 'rolls/buns', 'brown_bread']",4,31.8203255359186
+1748,"['tropical_fruit', 'pip_fruit']",2,24.672032542776513
+1749,"['other_vegetables', 'yogurt', 'chocolate']",3,24.242842128409677
+1750,"['meat', 'rolls/buns', 'pastry']",3,22.980884798939165
+1751,"['root_vegetables', 'other_vegetables', 'canned_vegetables', 'shopping_bags']",4,25.09863139411749
+1752,"['rolls/buns', 'coffee']",2,13.357843775608838
+1753,"['rolls/buns', 'coffee', 'bottled_water']",3,16.68010503946237
+1754,"['uht-milk', 'baking_powder']",2,14.872600452950378
+1755,"['whole_milk', 'butter_milk', 'specialty_bar']",3,26.223286651828094
+1756,"['citrus_fruit', 'root_vegetables', 'onions', 'other_vegetables']",4,33.28458597008072
+1758,"['popcorn', 'specialty_bar', 'candy']",3,28.05069589306738
+1761,"['whole_milk', 'dessert', 'oil']",3,25.992867589722508
+1763,"['butter', 'yogurt', 'rolls/buns', 'soda']",4,19.9585836637779
+1764,"['rolls/buns', 'long_life_bakery_product', 'candy', 'shopping_bags']",4,36.95515124413453
+1765,"['rolls/buns', 'soda', 'fruit/vegetable_juice']",3,15.00959744978534
+1766,"['citrus_fruit', 'dessert', 'newspapers']",3,31.108262518055007
+1769,"['frozen_meals', 'soda']",2,19.054015261611543
+1772,"['root_vegetables', 'other_vegetables', 'whole_milk']",3,18.900924011276075
+1774,"['whole_milk', 'curd', 'yogurt', 'margarine']",4,26.359287877302847
+1775,"['whole_milk', 'domestic_eggs', 'newspapers']",3,18.76954154845769
+1776,"['baking_powder', 'coffee', 'photo/film']",3,25.082784113088827
+1777,"['yogurt', 'fruit/vegetable_juice', 'dishes']",3,19.594308539796582
+1778,"['root_vegetables', 'onions', 'whole_milk', 'bottled_water']",4,20.35809619508579
+1779,"['other_vegetables', 'yogurt']",2,14.40679788724004
+1780,"['other_vegetables', 'whipped/sour_cream']",2,15.519112843268653
+1781,"['frozen_vegetables', 'margarine', 'pickled_vegetables']",3,31.233765402790564
+1784,"['coffee', 'pot_plants']",2,26.13879632997088
+1785,"['pip_fruit', 'root_vegetables', 'other_vegetables', 'whole_milk']",4,31.85059384999112
+1787,"['yogurt', 'rolls/buns']",2,5.660533010250183
+1788,"['beverages', 'soda']",2,13.139120291547595
+1789,"['pastry', 'soda']",2,15.8089339657716
+1790,"['pip_fruit', 'other_vegetables', 'whole_milk']",3,30.42524363648058
+1791,"['whole_milk', 'whipped/sour_cream', 'rolls/buns', 'pot_plants']",4,28.283109441416514
+1793,"['other_vegetables', 'whole_milk', 'yogurt', 'bottled_water']",4,24.59279652749833
+1794,"['oil', 'bottled_water', 'long_life_bakery_product']",3,29.695889685214063
+1796,"['frankfurter', 'meat']",2,24.47176626935447
+1798,"['whole_milk', 'rolls/buns', 'semi-finished_bread']",3,11.5677497167629
+1799,"['whole_milk', 'rolls/buns', 'coffee']",3,20.2215811520136
+1800,"['pip_fruit', 'pasta', 'oil', 'shopping_bags']",4,49.43946932941409
+1801,"['coffee', 'soda']",2,18.759726785279916
+1802,"['nuts/prunes', 'rolls/buns']",2,12.511324984626786
+1804,"['whole_milk', 'bottled_water']",2,10.185998640258289
+1805,"['abrasive_cleaner', 'napkins']",2,4.2104286127244706
+1807,"['other_vegetables', 'spices', 'coffee']",3,23.875032482682162
+1810,"['whole_milk', 'rolls/buns', 'spices', 'bottled_water']",4,13.822494014712671
+1811,"['citrus_fruit', 'candy']",2,22.896836801529584
+1814,"['butter', 'soups']",2,14.04633788057066
+1815,"['root_vegetables', 'butter', 'margarine']",3,20.36634978677727
+1821,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+1823,"['whole_milk', 'flour', 'margarine', 'sugar']",4,25.428919289028418
+1824,"['other_vegetables', 'chewing_gum']",2,11.441161481801753
+1825,"['whole_milk', 'curd_cheese']",2,21.438858730130853
+1829,"['rolls/buns', 'baking_powder', 'soda']",3,19.32486904437475
+1830,"['specialty_chocolate', 'light_bulbs']",2,19.701017007933544
+1831,"['frankfurter', 'soda']",2,19.165386980557827
+1832,"['whole_milk', 'waffles', 'napkins']",3,23.52233909312019
+1833,"['pip_fruit', 'chewing_gum']",2,13.778994899156023
+1834,"['tropical_fruit', 'shopping_bags']",2,21.862700124645933
+1835,"['other_vegetables', 'rolls/buns', 'brown_bread']",3,24.069891398264062
+1837,"['rolls/buns', 'chewing_gum']",2,2.694896604811895
+1838,"['margarine', 'soda']",2,19.177858027823
+1840,"['whole_milk', 'butter', 'newspapers']",3,25.19338473655383
+1842,"['white_bread', 'long_life_bakery_product', 'shopping_bags']",3,34.39681053213503
+1843,"['sliced_cheese', 'hard_cheese']",2,13.180900451883645
+1844,"['yogurt', 'popcorn', 'cleaner', 'newspapers']",4,27.15718324319461
+1847,"['butter_milk', 'pastry']",2,15.470985294725907
+1849,"['citrus_fruit', 'domestic_eggs']",2,13.10740490528202
+1853,"['yogurt', 'coffee']",2,15.287233697117186
+1856,"['coffee', 'soda', 'waffles']",3,33.207242921247875
+1857,"['whole_milk', 'white_bread', 'long_life_bakery_product']",3,31.12021048795532
+1858,"['whole_milk', 'semi-finished_bread']",2,9.702178172391985
+1860,"['specialty_cheese', 'frozen_meals', 'soda', 'shopping_bags']",4,40.16856326584454
+1861,"['whole_milk', 'long_life_bakery_product', 'chocolate']",3,31.252839089116392
+1862,"['pastry', 'pot_plants']",2,23.188003510462565
+1863,"['frozen_dessert', 'bottled_water']",2,7.9023276981724795
+1864,"['whole_milk', 'curd', 'rolls/buns']",3,12.519494482013496
+1865,"['finished_products', 'bottled_water', 'specialty_bar', 'newspapers']",4,29.759881406284855
+1868,"['whole_milk', 'fruit/vegetable_juice', 'newspapers']",3,24.039359988440538
+1869,"['whole_milk', 'cream_cheese', 'salty_snack']",3,19.223948665519774
+1870,"['tropical_fruit', 'other_vegetables']",2,22.334199125422245
+1872,"['beef', 'root_vegetables', 'jam', 'toilet_cleaner']",4,22.71121072708332
+1873,"['uht-milk', 'newspapers']",2,15.979808767651889
+1875,"['domestic_eggs', 'rolls/buns']",2,2.472324455760498
+1876,"['beef', 'citrus_fruit', 'butter', 'fruit/vegetable_juice']",4,36.94434512361071
+1882,"['bottled_water', 'misc._beverages']",2,8.96288780173662
+1883,"['soda', 'candy']",2,17.663639361679138
+1884,"['chicken', 'pip_fruit', 'frozen_vegetables']",3,22.461596257816392
+1885,"['beverages', 'cream_cheese', 'rolls/buns', 'candy']",4,23.162738389553258
+1888,"['root_vegetables', 'other_vegetables', 'whole_milk', 'margarine']",4,30.81132748505708
+1890,"['seasonal_products', 'shopping_bags']",2,15.423324999409854
+1891,"['pet_care', 'waffles']",2,15.792905890459418
+1895,"['tropical_fruit', 'rolls/buns']",2,13.587934248432386
+1897,"['beef', 'salty_snack']",2,18.86742066793554
+1899,"['curd', 'yogurt', 'whipped/sour_cream', 'ice_cream']",4,25.060190569255376
+1901,"['curd_cheese', 'rolls/buns', 'cake_bar']",3,23.93409273376907
+1904,"['onions', 'whole_milk']",2,15.610484717721718
+1906,"['soda', 'specialty_bar']",2,19.697497946469028
+1908,"['tropical_fruit', 'chewing_gum', 'specialty_chocolate', 'chocolate_marshmallow']",4,24.30452363594152
+1909,"['beverages', 'frozen_meals', 'specialty_bar', 'candy']",4,40.48445464513932
+1910,"['other_vegetables', 'canned_fish', 'soda', 'shopping_bags']",4,29.825322377234045
+1911,"['yogurt', 'bottled_water']",2,7.117222729732795
+1914,"['other_vegetables', 'whole_milk', 'fruit/vegetable_juice', 'chocolate']",4,33.1881893903076
+1917,"['rolls/buns', 'candy']",2,12.261756352008064
+1920,"['whole_milk', 'pastry', 'newspapers']",3,26.70426804879771
+1921,"['whole_milk', 'whipped/sour_cream', 'rolls/buns', 'shopping_bags']",4,23.77692276326802
+1922,"['whole_milk', 'dessert', 'brown_bread', 'specialty_bar']",4,38.194823464863376
+1923,"['finished_products', 'frozen_meals', 'chocolate', 'shopping_bags']",4,34.47146785866459
+1924,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+1926,"['bottled_water', 'soda']",2,10.589715817895526
+1928,"['frozen_meals', 'specialty_bar']",2,24.21660409999658
+1929,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+1931,"['berries', 'whipped/sour_cream', 'cake_bar']",3,22.059810044849872
+1933,"['berries', 'fruit/vegetable_juice', 'waffles', 'specialty_bar']",4,42.41326466703737
+1935,"['whole_milk', 'yogurt', 'bottled_water']",3,13.980960106137553
+1936,"['other_vegetables', 'whole_milk', 'brown_bread']",3,29.068057230297903
+1937,"['pastry', 'bottled_water', 'newspapers']",3,23.162791936246485
+1939,"['beef', 'onions', 'whole_milk', 'napkins']",4,29.358095977329306
+1941,"['other_vegetables', 'butter_milk']",2,17.541342304357077
+1942,"['whole_milk', 'cocoa_drinks']",2,15.932012002885301
+1943,"['root_vegetables', 'other_vegetables', 'rolls/buns', 'light_bulbs']",4,26.206053756899742
+1944,"['newspapers', 'flower_soil/fertilizer']",2,18.064400337402354
+1946,"['root_vegetables', 'other_vegetables']",2,12.037186634871318
+1948,"['frankfurter', 'soda', 'newspapers']",3,30.464438241221174
+1950,"['citrus_fruit', 'whole_milk']",2,19.364389370297197
+1951,"['whole_milk', 'curd', 'baking_powder']",3,20.845765883604415
+1955,"['other_vegetables', 'curd']",2,14.402021982598596
+1957,"['tropical_fruit', 'grapes']",2,14.459560339040912
+1958,"['rolls/buns', 'white_bread', 'coffee']",3,23.061259415617407
+1959,"['whole_milk', 'butter', 'soft_cheese']",3,25.392866658501028
+1960,"['root_vegetables', 'onions', 'other_vegetables']",3,20.78393397618828
+1961,"['rolls/buns', 'brown_bread', 'soda']",3,20.72550953094528
+1964,"['cat_food', 'newspapers', 'shopping_bags']",3,29.204537920246587
+1965,"['soda', 'cling_film/bags', 'house_keeping_products']",3,19.487436140733664
+1966,"['other_vegetables', 'salt', 'sweet_spreads']",3,32.23164215424807
+1967,"['hygiene_articles', 'house_keeping_products']",2,13.744024090630292
+1968,"['uht-milk', 'rolls/buns']",2,6.546329051359458
+1969,"['frankfurter', 'rolls/buns', 'dishes', 'shopping_bags']",4,33.8266171140161
+1971,"['pickled_vegetables', 'bottled_water', 'fruit/vegetable_juice', 'newspapers']",4,32.666967059592935
+1972,"['dessert', 'cat_food', 'newspapers']",3,26.372759763161334
+1974,"['citrus_fruit', 'baking_powder', 'sweet_spreads', 'nut_snack']",4,39.117014848414854
+1975,"['rolls/buns', 'pastry']",2,10.407050956100523
+1976,"['cream_cheese', 'fruit/vegetable_juice']",2,10.905887651412023
+1978,"['beef', 'citrus_fruit', 'root_vegetables', 'specialty_chocolate']",4,32.86024931653914
+1979,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+1980,"['bottled_water', 'soda']",2,10.589715817895526
+1984,"['citrus_fruit', 'curd', 'semi-finished_bread', 'mustard']",4,23.57678099787229
+1985,"['fruit/vegetable_juice', 'seasonal_products']",2,11.159558930197814
+1986,"['whole_milk', 'domestic_eggs', 'oil']",3,19.291061237612873
+1987,"['long_life_bakery_product', 'candy']",2,24.94924227917914
+1988,"['soda', 'chocolate']",2,17.10349879521163
+1989,"['frankfurter', 'whipped/sour_cream', 'coffee']",3,28.29748107966163
+1990,"['hard_cheese', 'pastry']",2,19.195323390762216
+1992,"['pip_fruit', 'coffee']",2,24.441942069952965
+1993,"['tropical_fruit', 'pip_fruit', 'grapes', 'whole_milk']",4,34.272967554160715
+1994,"['finished_products', 'cat_food', 'shopping_bags']",3,20.61401214892418
+1997,"['tropical_fruit', 'root_vegetables', 'rolls/buns', 'newspapers']",4,26.312335722606278
+1998,"['whole_milk', 'curd', 'whipped/sour_cream']",3,15.561199359550455
+1999,"['citrus_fruit', 'tropical_fruit']",2,24.223014697953907
+2004,"['herbs', 'whole_milk', 'pastry']",3,18.652551494856503
+2005,"['frankfurter', 'chocolate']",2,21.733976667685468
+2007,"['white_bread', 'brown_bread']",2,21.295899072540937
+2009,"['yogurt', 'canned_vegetables', 'pot_plants']",3,21.36259290327393
+2011,"['whole_milk', 'sugar', 'cling_film/bags']",3,20.229350694830167
+2012,"['salt', 'candy']",2,21.121082797719005
+2013,"['other_vegetables', 'yogurt', 'whipped/sour_cream', 'newspapers']",4,30.613125569811267
+2016,"['whole_milk', 'hard_cheese', 'sugar']",3,22.274690843054284
+2018,"['soda', 'detergent']",2,8.402609157956812
+2019,"['yogurt', 'margarine', 'newspapers']",3,27.004416200323618
+2020,"['butter', 'curd']",2,10.820781660723544
+2022,"['salty_snack', 'dental_care']",2,10.394100341694282
+2023,"['whole_milk', 'instant_coffee', 'soda']",3,17.565460719977594
+2024,"['mayonnaise', 'candy', 'newspapers']",3,30.593919817957982
+2025,"['whipped/sour_cream', 'domestic_eggs', 'candles']",3,12.043236664771296
+2027,"['beverages', 'misc._beverages']",2,11.51229227538869
+2028,"['yogurt', 'bottled_water']",2,7.117222729732795
+2030,"['salty_snack', 'candy']",2,17.727079796712566
+2032,"['citrus_fruit', 'other_vegetables']",2,23.112488415253218
+2033,"['tropical_fruit', 'fruit/vegetable_juice', 'candy']",3,27.995118863071042
+2035,"['whole_milk', 'whipped/sour_cream', 'pudding_powder']",3,16.14216091314509
+2037,"['tropical_fruit', 'ice_cream', 'frozen_dessert']",3,28.870196258610836
+2038,"['tropical_fruit', 'packaged_fruit/vegetables']",2,25.660455042366195
+2040,"['other_vegetables', 'uht-milk', 'cream']",3,29.206835644812877
+2042,"['yogurt', 'cream_cheese', 'rolls/buns', 'chocolate']",4,20.52589355145942
+2044,"['tropical_fruit', 'butter_milk', 'baking_powder']",3,28.843711533019608
+2045,"['yogurt', 'pastry']",2,12.336440877608869
+2046,"['tropical_fruit', 'yogurt', 'cream_cheese']",3,20.54664046998033
+2047,"['uht-milk', 'brown_bread', 'newspapers']",3,27.572292200184258
+2049,"['pastry', 'soda']",2,15.8089339657716
+2052,"['whipped/sour_cream', 'rolls/buns']",2,6.772847966278795
+2053,"['soda', 'long_life_bakery_product']",2,21.82051202558399
+2054,"['whole_milk', 'beverages', 'bottled_water', 'newspapers']",4,27.35671563842724
+2055,"['yogurt', 'soda', 'waffles']",3,25.50993215588922
+2056,"['yogurt', 'processed_cheese', 'frozen_vegetables', 'rolls/buns']",4,23.219021577571706
+2058,"['condensed_milk', 'rolls/buns', 'sugar', 'coffee']",4,28.32725618612215
+2061,"['whole_milk', 'photo/film']",2,10.262406312293828
+2062,"['rolls/buns', 'soda']",2,9.133026098412913
+2063,"['pip_fruit', 'rolls/buns']",2,14.815241383085965
+2064,"['tropical_fruit', 'brown_bread']",2,23.31484613659384
+2065,"['citrus_fruit', 'dessert', 'photo/film']",3,23.207880193280726
+2066,"['citrus_fruit', 'pip_fruit', 'whole_milk', 'margarine']",4,44.224462682793245
+2067,"['seasonal_products', 'photo/film']",2,8.681656514714458
+2070,"['rolls/buns', 'bottled_water', 'soda']",3,12.455287362266443
+2071,"['whole_milk', 'yogurt']",2,10.658698842284023
+2072,"['pip_fruit', 'beverages', 'pastry', 'hygiene_articles']",4,37.49536132269736
+2073,"['yogurt', 'bottled_water']",2,7.117222729732795
+2074,"['yogurt', 'cream_cheese', 'rolls/buns']",3,10.68984931028978
+2075,"['citrus_fruit', 'yogurt', 'hygiene_articles']",3,26.428159794518823
+2076,"['uht-milk', 'condensed_milk', 'coffee', 'cling_film/bags']",4,34.993836491931354
+2077,"['pip_fruit', 'cream_cheese', 'cookware']",3,25.17620597739976
+2080,"['root_vegetables', 'whipped/sour_cream', 'oil', 'pet_care']",4,19.49858733972841
+2082,"['other_vegetables', 'cake_bar']",2,18.10523625703283
+2083,"['whole_milk', 'shopping_bags']",2,17.004074796989222
+2084,"['bottled_water', 'soda']",2,10.589715817895526
+2085,"['frozen_meals', 'canned_fruit']",2,16.658486000213756
+2088,"['pip_fruit', 'yogurt']",2,16.74463130459431
+2089,"['rolls/buns', 'shopping_bags']",2,12.005908964955385
+2091,"['whipped/sour_cream', 'pastry', 'bottled_water']",3,16.77101709749101
+2092,"['long_life_bakery_product', 'house_keeping_products']",2,18.16453522742517
+2093,"['tropical_fruit', 'brown_bread', 'pastry']",3,31.856325548323444
+2094,"['whole_milk', 'coffee']",2,18.35600960764268
+2097,"['beverages', 'sauces', 'sweet_spreads', 'pot_plants']",4,45.0875175943043
+2098,"['cream_cheese', 'rolls/buns']",2,6.894887844410514
+2099,"['frozen_vegetables', 'frozen_meals']",2,18.940839452875476
+2100,"['root_vegetables', 'other_vegetables', 'yogurt', 'flower_(seeds)']",4,23.447399518891135
+2104,"['citrus_fruit', 'curd', 'uht-milk']",3,20.9715950621188
+2105,"['rolls/buns', 'instant_food_products']",2,10.561495088348156
+2106,"['frozen_vegetables', 'bottled_water']",2,10.476540009159459
+2107,"['whole_milk', 'fruit/vegetable_juice']",2,12.740308727777187
+2108,"['other_vegetables', 'soft_cheese']",2,22.11036960397132
+2110,"['whole_milk', 'rolls/buns', 'chewing_gum']",3,9.558633981216653
+2111,"['beverages', 'chocolate']",2,15.707709978675236
+2113,"['finished_products', 'candy']",2,13.104710296978087
+2114,"['specialty_chocolate', 'photo/film']",2,10.79639036616511
+2115,"['skin_care', 'napkins']",2,11.136472106403199
+2116,"['condensed_milk', 'rolls/buns']",2,12.077874467267318
+2117,"['hard_cheese', 'instant_food_products']",2,19.34976752300985
+2119,"['whole_milk', 'butter', 'cat_food']",3,21.659482714889254
+2120,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+2121,"['yogurt', 'fruit/vegetable_juice']",2,9.671532817251693
+2122,"['soda', 'long_life_bakery_product']",2,21.82051202558399
+2123,"['pip_fruit', 'butter_milk', 'soda']",3,27.146630275753346
+2124,"['pip_fruit', 'soda', 'chewing_gum']",3,21.04644945319802
+2125,"['dessert', 'waffles']",2,21.756075399467175
+2126,"['whole_milk', 'rolls/buns', 'pastry', 'newspapers']",4,28.56983959316863
+2127,"['frankfurter', 'whole_milk', 'rolls/buns', 'salt']",4,31.352139337373366
+2129,"['whole_milk', 'pastry']",2,15.405216788134362
+2130,"['rolls/buns', 'dishes']",2,11.788347266915807
+2132,"['soups', 'canned_vegetables', 'chocolate']",3,19.772893360916278
+2133,"['rolls/buns', 'pastry', 'sugar']",3,15.164160443717435
+2134,"['curd', 'soda', 'cake_bar']",3,18.551039950951868
+2135,"['rolls/buns', 'coffee']",2,13.357843775608838
+2136,"['frankfurter', 'whole_milk', 'butter', 'dessert']",4,33.100825165905526
+2139,"['meat', 'frozen_meals', 'fruit/vegetable_juice']",3,30.236965901780614
+2140,"['turkey', 'tropical_fruit', 'yogurt', 'rolls/buns']",4,23.50133221024918
+2142,"['citrus_fruit', 'specialty_fat']",2,19.6094081964798
+2145,"['whipped/sour_cream', 'frozen_vegetables', 'frozen_meals']",3,23.848115874783353
+2146,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+2147,"['spread_cheese', 'white_bread', 'newspapers']",3,27.426132234679137
+2148,"['root_vegetables', 'soft_cheese']",2,12.92388339612109
+2149,"['frankfurter', 'butter', 'brown_bread']",3,30.521011958533926
+2151,"['curd', 'yogurt']",2,7.585147027117085
+2152,"['pip_fruit', 'soda']",2,20.217124392757043
+2153,"['instant_coffee', 'photo/film']",2,6.83293772541991
+2155,"['curd', 'uht-milk', 'bottled_water']",3,11.79320433207989
+2156,"['rolls/buns', 'soda', 'chewing_gum']",3,9.96235115885389
+2157,"['tropical_fruit', 'pip_fruit', 'whole_milk', 'pastry']",4,40.077249330910874
+2159,"['tropical_fruit', 'brown_bread', 'specialty_bar']",3,35.744889529020874
+2160,"['dessert', 'brown_bread']",2,18.901042696031585
+2162,"['citrus_fruit', 'misc._beverages']",2,18.14127853177553
+2165,"['whole_milk', 'rolls/buns', 'syrup']",3,17.7501552173525
+2169,"['whole_milk', 'processed_cheese', 'spread_cheese', 'rolls/buns']",4,25.557184076798496
+2170,"['frozen_meals', 'white_bread', 'fruit/vegetable_juice']",3,27.36654769895054
+2171,"['dessert', 'yogurt', 'cat_food', 'napkins']",4,21.079755549124723
+2172,"['rolls/buns', 'sugar', 'coffee', 'soda']",4,25.382407817267747
+2173,"['butter', 'napkins']",2,9.241681680233196
+2174,"['chicken', 'fruit/vegetable_juice', 'long_life_bakery_product']",3,22.787276496709836
+2176,"['rolls/buns', 'soda', 'snack_products']",3,14.069397148597375
+2177,"['rolls/buns', 'pastry', 'coffee']",3,21.899323187338446
+2178,"['pasta', 'sauces']",2,28.203311135556348
+2179,"['waffles', 'chocolate', 'specialty_chocolate']",3,31.681281807413637
+2180,"['pasta', 'specialty_chocolate', 'dishes']",3,31.849388273116972
+2184,"['yogurt', 'frozen_dessert']",2,8.375027900198216
+2185,"['whole_milk', 'coffee', 'cooking_chocolate', 'newspapers']",4,30.75846638930347
+2186,"['tropical_fruit', 'yogurt', 'beverages']",3,21.388989907446334
+2187,"['yogurt', 'sugar', 'shopping_bags']",3,18.692408374080642
+2188,"['meat', 'whole_milk', 'rolls/buns']",3,21.30314276361432
+2189,"['soda', 'bathroom_cleaner']",2,17.864099992669168
+2190,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+2192,"['specialty_bar', 'house_keeping_products']",2,16.041521148310206
+2193,"['berries', 'yogurt', 'whipped/sour_cream']",3,18.361371675057082
+2194,"['dessert', 'soda']",2,14.57601381754121
+2196,"['whole_milk', 'dessert', 'coffee', 'bottled_water']",4,28.986830134995426
+2197,"['other_vegetables', 'rolls/buns', 'hair_spray']",3,15.003818978066686
+2200,"['misc._beverages', 'napkins']",2,7.851712118630563
+2202,"['whipped/sour_cream', 'margarine', 'long_life_bakery_product']",3,31.37073736723088
+2203,"['tropical_fruit', 'whipped/sour_cream', 'jam']",3,18.329224124844707
+2204,"['citrus_fruit', 'pip_fruit']",2,25.450321832607486
+2205,"['waffles', 'specialty_bar']",2,26.877559528394997
+2208,"['pip_fruit', 'whipped/sour_cream']",2,17.856946260622923
+2210,"['margarine', 'candy']",2,22.30658828141815
+2211,"['whole_milk', 'rolls/buns', 'salt']",3,19.454206910857536
+2213,"['whole_milk', 'soft_cheese', 'sliced_cheese']",3,20.88932703186634
+2214,"['rolls/buns', 'meat_spreads']",2,10.834992093605585
+2217,"['meat', 'other_vegetables']",2,23.185670264199416
+2219,"['pastry', 'long_life_bakery_product']",2,23.0945368832716
+2221,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+2222,"['frankfurter', 'whole_milk', 'rolls/buns', 'newspapers']",4,31.926292607954856
+2223,"['frozen_fruits', 'soda', 'specialty_bar']",3,29.336595546692912
+2224,"['hard_cheese', 'pasta', 'soda', 'waffles']",4,46.89770578933861
+2225,"['dessert', 'yogurt']",2,11.10352072937848
+2227,"['other_vegetables', 'condensed_milk', 'soda']",3,28.091593898299173
+2228,"['yogurt', 'rolls/buns']",2,5.660533010250183
+2229,"['packaged_fruit/vegetables', 'pastry']",2,22.47957175003433
+2231,"['cat_food', 'misc._beverages', 'female_sanitary_products']",3,21.9326770864228
+2232,"['root_vegetables', 'herbs', 'other_vegetables']",3,15.28452134159346
+2233,"['tropical_fruit', 'rolls/buns', 'misc._beverages']",3,19.228560786315477
+2234,"['whole_milk', 'white_bread']",2,16.567153016413325
+2236,"['whole_milk', 'butter', 'sugar']",3,18.651442963507392
+2237,"['whole_milk', 'bottled_water', 'soda', 'chewing_gum']",4,18.28277825474126
+2240,"['root_vegetables', 'dog_food', 'bottled_water']",3,7.131473304728411
+2241,"['tropical_fruit', 'seasonal_products']",2,17.005350282886855
+2244,"['whole_milk', 'butter', 'soda', 'chocolate']",4,30.997832271102112
+2245,"['soda', 'waffles']",2,21.714970690009956
+2247,"['beverages', 'photo/film']",2,9.27033467339467
+2248,"['hygiene_articles', 'photo/film']",2,13.531215270636189
+2250,"['pastry', 'bottled_water', 'specialty_chocolate']",3,19.261462105859174
+2251,"['rolls/buns', 'pickled_vegetables']",2,14.034654728074546
+2253,"['instant_coffee', 'long_life_bakery_product']",2,17.987326261072834
+2254,"['liver_loaf', 'tropical_fruit', 'other_vegetables']",3,35.92193387530795
+2258,"['root_vegetables', 'whole_milk', 'hard_cheese', 'specialty_cheese']",4,29.91714215259644
+2259,"['waffles', 'specialty_chocolate']",2,21.845237566244002
+2261,"['soda', 'specialty_bar']",2,19.697497946469028
+2263,"['whole_milk', 'margarine', 'soda']",3,26.041595404227763
+2264,"['whole_milk', 'domestic_eggs', 'rolls/buns', 'fruit/vegetable_juice']",4,15.212633183537685
+2265,"['whole_milk', 'brown_bread']",2,18.45622080893713
+2270,"['whole_milk', 'frozen_meals', 'bottled_water']",3,21.972559347827836
+2273,"['citrus_fruit', 'root_vegetables', 'frozen_vegetables', 'chewing_gum']",4,21.909606013149887
+2274,"['dish_cleaner', 'shopping_bags']",2,12.301023486856081
+2276,"['rolls/buns', 'soda']",2,9.133026098412913
+2277,"['beverages', 'rolls/buns', 'soda', 'seasonal_products']",4,20.2876794147439
+2279,"['whole_milk', 'newspapers']",2,18.162788637068108
+2281,"['meat', 'curd', 'whipped/sour_cream', 'roll_products']",4,34.192202945323785
+2283,"['soda', 'chewing_gum']",2,8.096779614482973
+2285,"['chicken', 'candy']",2,12.75383248143256
+2286,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+2289,"['ice_cream', 'rolls/buns', 'chocolate']",3,24.269382905770968
+2292,"['fish', 'specialty_chocolate']",2,15.974687639224575
+2293,"['tropical_fruit', 'whole_milk', 'butter', 'syrup']",4,34.63754247652878
+2294,"['uht-milk', 'canned_fish']",2,6.486451488235345
+2296,"['frozen_meals', 'soda', 'specialty_chocolate']",3,26.451736691887582
+2297,"['berries', 'brown_bread']",2,21.251617219802313
+2298,"['yogurt', 'beverages', 'soda', 'shopping_bags']",4,27.074419178011325
+2300,"['brown_bread', 'seasonal_products']",2,16.875471011357757
+2301,"['domestic_eggs', 'waffles', 'napkins']",3,17.265354628105012
+2302,"['rolls/buns', 'white_bread']",2,11.568987184379484
+2303,"['pip_fruit', 'bottled_water']",2,16.271931102568576
+2305,"['whole_milk', 'fruit/vegetable_juice', 'chewing_gum', 'shopping_bags']",4,23.709971208802628
+2306,"['onions', 'whole_milk']",2,15.610484717721718
+2307,"['other_vegetables', 'whole_milk']",2,17.475573797765534
+2308,"['other_vegetables', 'cream_cheese']",2,15.64115272140037
+2309,"['fruit/vegetable_juice', 'long_life_bakery_product', 'newspapers']",3,31.72868008357777
+2311,"['other_vegetables', 'whole_milk', 'dessert', 'chewing_gum']",4,25.613458121705726
+2312,"['chocolate', 'specialty_chocolate']",2,17.233765671445674
+2313,"['frankfurter', 'whole_milk', 'white_bread', 'brown_bread']",4,40.05756887546152
+2316,"['root_vegetables', 'herbs']",2,4.672684920232685
+2319,"['citrus_fruit', 'tropical_fruit', 'pip_fruit', 'chewing_gum']",4,38.00200959710993
+2320,"['tropical_fruit', 'whole_milk', 'newspapers', 'shopping_bags']",4,40.025488761714044
+2324,"['other_vegetables', 'semi-finished_bread']",2,13.450277217348003
+2325,"['meat', 'other_vegetables', 'salty_snack']",3,30.516565253274837
+2327,"['whole_milk', 'brown_bread']",2,18.45622080893713
+2328,"['coffee', 'instant_coffee']",2,14.926541020768761
+2329,"['rolls/buns', 'pastry']",2,10.407050956100523
+2330,"['ice_cream', 'semi-finished_bread']",2,15.406207916217642
+2331,"['liver_loaf', 'whole_milk', 'rolls/buns', 'soda']",4,29.584498224703374
+2332,"['chewing_gum', 'seasonal_products']",2,6.112312639266364
+2333,"['soda', 'salty_snack', 'cake_bar', 'candy']",4,32.487934186426614
+2334,"['chicken', 'tropical_fruit', 'pip_fruit', 'other_vegetables']",4,37.6415166379327
+2337,"['soft_cheese', 'ice_cream']",2,24.066300302840965
+2338,"['whole_milk', 'white_bread', 'newspapers']",3,27.866204277076676
+2341,"['pastry', 'instant_coffee']",2,11.975748201260444
+2342,"['citrus_fruit', 'yogurt', 'whipped/sour_cream', 'shopping_bags']",4,31.343227302264047
+2347,"['ice_cream', 'soda']",2,19.83522167427241
+2348,"['root_vegetables', 'other_vegetables', 'white_bread', 'baking_powder']",4,31.93244522084172
+2349,"['other_vegetables', 'fruit/vegetable_juice', 'salty_snack', 'napkins']",4,26.030388342556098
+2350,"['coffee', 'tea']",2,20.282328990691013
+2354,"['other_vegetables', 'coffee', 'soda', 'dental_care']",4,32.43476855925955
+2355,"['misc._beverages', 'dishes']",2,15.563402260427981
+2356,"['whole_milk', 'meat_spreads', 'fruit/vegetable_juice']",3,21.709729277011853
+2357,"['chicken', 'yogurt', 'whipped/sour_cream']",3,11.059885561582558
+2358,"['dessert', 'specialty_chocolate']",2,14.706280693775255
+2359,"['pastry', 'margarine', 'coffee']",3,31.944155116748533
+2360,"['onions', 'frozen_meals']",2,20.533308048886507
+2364,"['pastry', 'soda']",2,15.8089339657716
+2365,"['whole_milk', 'hard_cheese', 'rolls/buns', 'bottled_water']",4,22.70541416366182
+2367,"['pip_fruit', 'whole_milk']",2,19.813407215119803
+2368,"['instant_food_products', 'soda']",2,15.963378098019232
+2372,"['meat', 'whole_milk', 'yogurt']",3,23.232532685122667
+2373,"['whipped/sour_cream', 'frozen_vegetables']",2,12.061555167213807
+2374,"['tropical_fruit', 'whipped/sour_cream', 'hygiene_articles']",3,26.762185460716466
+2376,"['bottled_water', 'waffles', 'chocolate']",3,27.605821640991124
+2377,"['beef', 'specialty_chocolate']",2,18.93424710913616
+2379,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+2380,"['uht-milk', 'mustard']",2,9.128260153743346
+2381,"['whole_milk', 'brown_bread']",2,18.45622080893713
+2382,"['butter_milk', 'brown_bread']",2,18.52198931552867
+2384,"['chicken', 'rolls/buns', 'bottled_water']",3,7.5454804820198635
+2385,"['whole_milk', 'cat_food']",2,14.62888661540353
+2387,"['sliced_cheese', 'rolls/buns']",2,4.392628017221951
+2388,"['butter_milk', 'yogurt']",2,10.724467348875567
+2389,"['butter', 'yogurt']",2,10.825557565364988
+2391,"['tropical_fruit', 'whole_milk', 'newspapers']",3,29.88515134112958
+2392,"['softener', 'newspapers']",2,12.129707390593962
+2393,"['rolls/buns', 'pastry', 'semi-finished_bread']",3,13.245491752087748
+2394,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+2397,"['other_vegetables', 'whole_milk', 'specialty_cheese']",3,28.449784381414062
+2399,"['margarine', 'misc._beverages']",2,17.551030011664096
+2401,"['salt', 'salty_snack']",2,18.05579297915728
+2404,"['other_vegetables', 'whole_milk', 'salty_snack']",3,24.806468786840956
+2406,"['frankfurter', 'processed_cheese', 'soda']",3,29.569596802573415
+2408,"['frankfurter', 'beef', 'whole_milk']",3,30.298195481780702
+2409,"['fish', 'uht-milk', 'cream_cheese', 'ice_cream']",4,30.854807136207086
+2410,"['chewing_gum', 'specialty_bar']",2,13.259368452868012
+2411,"['uht-milk', 'soda', 'detergent']",3,13.083366664945352
+2414,"['meat', 'rolls/buns', 'misc._beverages']",3,20.08003192509265
+2415,"['pip_fruit', 'rolls/buns', 'snack_products']",3,19.751612433270427
+2416,"['other_vegetables', 'whole_milk', 'butter_milk', 'margarine']",4,36.31548315454285
+2417,"['whole_milk', 'butter_milk', 'cream_cheese', 'coffee']",4,30.314831790678575
+2418,"['yogurt', 'rolls/buns']",2,5.660533010250183
+2419,"['pip_fruit', 'soda']",2,20.217124392757043
+2420,"['whole_milk', 'domestic_eggs']",2,7.470490287794338
+2422,"['bottled_water', 'newspapers']",2,14.62131252451688
+2426,"['bottled_water', 'soda']",2,10.589715817895526
+2428,"['citrus_fruit', 'curd', 'yogurt', 'newspapers']",4,31.384850281672875
+2429,"['whole_milk', 'curd', 'oil', 'margarine']",4,34.384897361242125
+2430,"['fruit/vegetable_juice', 'pot_plants']",2,20.523095450105387
+2432,"['other_vegetables', 'cream_cheese']",2,15.64115272140037
+2434,"['pip_fruit', 'pastry']",2,21.49114925044465
+2436,"['whole_milk', 'sugar', 'cat_food']",3,19.385996103020442
+2437,"['beef', 'rolls/buns']",2,13.402097223231035
+2438,"['pastry', 'coffee', 'chewing_gum']",3,20.8630767034085
+2439,"['tropical_fruit', 'bottled_water']",2,15.044623967915
+2441,"['root_vegetables', 'other_vegetables', 'cream_cheese', 'chocolate']",4,26.902547176080553
+2443,"['whole_milk', 'yogurt']",2,10.658698842284023
+2444,"['whole_milk', 'rolls/buns', 'bottled_water']",3,12.051570184629206
+2446,"['detergent', 'photo/film']",2,4.533823539803888
+2447,"['other_vegetables', 'whole_milk']",2,17.475573797765534
+2448,"['fruit/vegetable_juice', 'waffles']",2,20.32408748734039
+2450,"['pip_fruit', 'pastry', 'margarine']",3,33.40155272422565
+2451,"['zwieback', 'cat_food', 'dish_cleaner']",3,15.950643083669384
+2452,"['root_vegetables', 'rolls/buns']",2,3.2909217578814607
+2454,"['whole_milk', 'rolls/buns', 'baking_powder', 'chocolate']",4,28.75719610790715
+2455,"['pip_fruit', 'whole_milk', 'frozen_vegetables', 'bottled_water']",4,30.289947224279263
+2456,"['meat', 'whole_milk', 'rolls/buns']",3,21.30314276361432
+2459,"['root_vegetables', 'white_bread', 'brown_bread']",3,22.72124928605148
+2461,"['grapes', 'other_vegetables', 'whole_milk', 'sugar']",4,24.96988092036189
+2464,"['citrus_fruit', 'other_vegetables']",2,23.112488415253218
+2465,"['chicken', 'beef', 'other_vegetables']",3,24.506009774016306
+2466,"['other_vegetables', 'hard_cheese', 'newspapers']",3,32.56473166105673
+2468,"['frozen_potato_products', 'rolls/buns', 'brown_bread']",3,26.908311236075157
+2470,"['other_vegetables', 'whole_milk', 'margarine']",3,29.38597727154654
+2471,"['pip_fruit', 'other_vegetables', 'fruit/vegetable_juice']",3,29.43807761144825
+2472,"['frozen_meals', 'ice_cream', 'frozen_potato_products']",3,37.80458408697183
+2474,"['whole_milk', 'frozen_fish', 'rolls/buns', 'pickled_vegetables']",4,32.7649161365223
+2476,"['mayonnaise', 'rolls/buns', 'soda', 'specialty_chocolate']",4,25.429431278346446
+2477,"['rolls/buns', 'fruit/vegetable_juice']",2,7.7421428957433465
+2478,"['hard_cheese', 'candles']",2,17.18305131050645
+2479,"['bottled_water', 'newspapers']",2,14.62131252451688
+2481,"['citrus_fruit', 'domestic_eggs', 'jam']",3,14.80698990415738
+2482,"['domestic_eggs', 'specialty_chocolate']",2,8.00447434166562
+2483,"['frankfurter', 'citrus_fruit', 'rolls/buns', 'soda']",4,33.53161051882118
+2484,"['white_bread', 'misc._beverages', 'long_life_bakery_product']",3,29.897099649433656
+2486,"['frankfurter', 'rolls/buns', 'bottled_water']",3,17.08576523474028
+2490,"['beverages', 'newspapers']",2,17.17071699816895
+2491,"['butter', 'brown_bread', 'seasonal_products']",3,23.906067110843484
+2492,"['salt', 'cling_film/bags']",2,19.333401820890355
+2493,"['beef', 'root_vegetables', 'whole_milk', 'margarine']",4,31.736016742556426
+2495,"['curd', 'semi-finished_bread', 'baking_powder']",3,16.820469303186883
+2496,"['fruit/vegetable_juice', 'chewing_gum']",2,6.705896411813406
+2497,"['frankfurter', 'whole_milk', 'cream_cheese', 'specialty_chocolate']",4,31.188707533236222
+2498,"['citrus_fruit', 'root_vegetables', 'other_vegetables']",3,24.537838628763758
+2499,"['tropical_fruit', 'curd']",2,15.512548265299289
+2500,"['citrus_fruit', 'root_vegetables', 'other_vegetables', 'whole_milk']",4,31.401576005168515
+2501,"['beef', 'other_vegetables', 'whipped/sour_cream', 'newspapers']",4,38.35468978279212
+2502,"['whole_milk', 'butter', 'rolls/buns']",3,15.7599050202614
+2504,"['whole_milk', 'bottled_water']",2,10.185998640258289
+2506,"['chicken', 'frozen_vegetables', 'frozen_meals', 'frozen_dessert']",4,25.878553560989843
+2507,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+2510,"['whole_milk', 'butter_milk']",2,13.79324325940106
+2511,"['citrus_fruit', 'other_vegetables', 'yogurt']",3,26.907449881132482
+2512,"['other_vegetables', 'whole_milk', 'yogurt', 'rolls/buns']",4,23.136106808015718
+2514,"['rolls/buns', 'fruit/vegetable_juice']",2,7.7421428957433465
+2515,"['frozen_vegetables', 'rolls/buns']",2,9.019850289676848
+2516,"['other_vegetables', 'curd', 'margarine']",3,26.3124254563796
+2520,"['other_vegetables', 'whole_milk', 'bottled_water']",3,20.797835061619065
+2524,"['ice_cream', 'brown_bread']",2,24.160250552762786
+2525,"['pastry', 'soda']",2,15.8089339657716
+2526,"['onions', 'other_vegetables', 'soda', 'fruit/vegetable_juice']",4,32.502609668092155
+2529,"['other_vegetables', 'whole_milk', 'yogurt']",3,21.2705352636448
+2532,"['yogurt', 'rolls/buns']",2,5.660533010250183
+2535,"['whole_milk', 'curd', 'pastry']",3,19.19540234937218
+2536,"['frankfurter', 'pip_fruit', 'whole_milk', 'soda']",4,38.97879419567763
+2538,"['whole_milk', 'mayonnaise', 'soda', 'newspapers']",4,34.328926940767595
+2539,"['condensed_milk', 'soda']",2,17.479757476938396
+2540,"['margarine', 'long_life_bakery_product', 'candles']",3,32.99266827679684
+2541,"['whole_milk', 'pet_care']",2,8.209127130896215
+2542,"['processed_cheese', 'rolls/buns', 'soda', 'flower_(seeds)']",4,27.15248733856906
+2544,"['whole_milk', 'rolls/buns', 'newspapers']",3,20.028360181439027
+2545,"['turkey', 'beef', 'semi-finished_bread']",3,20.49340297078487
+2546,"['other_vegetables', 'napkins']",2,12.822922002108248
+2548,"['hard_cheese', 'salt', 'canned_vegetables']",3,24.299849307776178
+2549,"['other_vegetables', 'curd_cheese']",2,25.186957775086874
+2550,"['chicken', 'flower_(seeds)']",2,9.972899091935968
+2551,"['other_vegetables', 'newspapers']",2,21.910887682024125
+2552,"['chicken', 'other_vegetables', 'dessert', 'soda']",4,27.5454979126974
+2554,"['bottled_water', 'soda']",2,10.589715817895526
+2555,"['soda', 'candy']",2,17.663639361679138
+2556,"['whipped/sour_cream', 'long_life_bakery_product', 'napkins', 'pot_plants']",4,36.317943572930304
+2557,"['onions', 'other_vegetables']",2,19.358583762677736
+2558,"['frozen_vegetables', 'soda']",2,14.421733299347924
+2559,"['pip_fruit', 'frozen_meals', 'ice_cream', 'fruit/vegetable_juice']",4,43.180569017887436
+2560,"['tropical_fruit', 'root_vegetables', 'domestic_eggs']",3,13.754465828961592
+2563,"['margarine', 'soda']",2,19.177858027823
+2565,"['domestic_eggs', 'pastry']",2,9.148232323119185
+2566,"['condensed_milk', 'pastry', 'female_sanitary_products', 'shopping_bags']",4,37.42102106475141
+2568,"['tropical_fruit', 'whole_milk', 'beverages', 'rolls/buns']",4,26.323337362342745
+2569,"['root_vegetables', 'other_vegetables', 'specialty_chocolate']",3,19.434908065147358
+2570,"['citrus_fruit', 'soda', 'misc._beverages']",3,25.408733085817527
+2573,"['waffles', 'newspapers']",2,25.74656739663131
+2574,"['beverages', 'uht-milk', 'zwieback', 'misc._beverages']",4,22.217857560776228
+2576,"['salty_snack', 'chocolate']",2,17.166939230245056
+2578,"['white_bread', 'brown_bread']",2,21.295899072540937
+2580,"['whole_milk', 'frozen_vegetables', 'pastry', 'cleaner']",4,29.398198357089086
+2583,"['butter_milk', 'hard_cheese', 'instant_coffee']",3,21.017618651559754
+2584,"['sugar', 'coffee']",2,16.249381718854835
+2588,"['soups', 'canned_vegetables']",2,9.936849119746643
+2590,"['bottled_water', 'soda', 'female_sanitary_products']",3,19.116617127436463
+2591,"['other_vegetables', 'whole_milk', 'brown_bread']",3,29.068057230297903
+2592,"['frankfurter', 'other_vegetables']",2,22.509768847876607
+2593,"['domestic_eggs', 'pastry', 'hygiene_articles']",3,19.280778657866303
+2595,"['tropical_fruit', 'oil']",2,23.542933653880006
+2598,"['pastry', 'soda']",2,15.8089339657716
+2601,"['other_vegetables', 'condensed_milk', 'coffee', 'detergent']",4,33.451566179409916
+2602,"['whole_milk', 'pastry']",2,15.405216788134362
+2603,"['root_vegetables', 'onions', 'other_vegetables', 'whole_milk']",4,27.647671352593036
+2605,"['tropical_fruit', 'other_vegetables', 'yogurt', 'chewing_gum']",4,26.958485651742485
+2606,"['specialty_chocolate', 'photo/film']",2,10.79639036616511
+2608,"['other_vegetables', 'frozen_meals', 'domestic_eggs']",3,23.005150040319904
+2609,"['tropical_fruit', 'other_vegetables', 'newspapers']",3,33.63325038608559
+2610,"['tropical_fruit', 'other_vegetables', 'yogurt']",3,26.12916059130151
+2612,"['misc._beverages', 'waffles', 'candy']",3,30.484327481488197
+2614,"['other_vegetables', 'yogurt', 'white_bread']",3,24.110213527248607
+2616,"['other_vegetables', 'chocolate_marshmallow']",2,14.96695086252381
+2617,"['whole_milk', 'butter']",2,13.894333475890482
+2618,"['misc._beverages', 'napkins']",2,7.851712118630563
+2619,"['whole_milk', 'whipped/sour_cream', 'cream_cheese', 'soda']",4,24.067784652394224
+2620,"['chicken', 'other_vegetables']",2,12.96948409515619
+2621,"['dessert', 'long_life_bakery_product']",2,21.86161673504121
+2622,"['soda', 'soap']",2,8.214313155277116
+2623,"['root_vegetables', 'whipped/sour_cream']",2,6.3326266354184195
+2624,"['soda', 'misc._beverages']",2,12.908081091925087
+2625,"['chicken', 'root_vegetables']",2,3.7829978873059575
+2626,"['beverages', 'specialty_bar']",2,18.301709129932632
+2628,"['chicken', 'soda']",2,9.62510222783741
+2629,"['citrus_fruit', 'bottled_water', 'dishes']",3,25.745688980290858
+2631,"['tropical_fruit', 'yogurt', 'rolls/buns']",3,17.38289571431165
+2632,"['tropical_fruit', 'other_vegetables', 'pickled_vegetables']",3,34.50328230912587
+2634,"['cream_cheese', 'spread_cheese']",2,11.45298163404682
+2635,"['rolls/buns', 'specialty_bar']",2,14.295614936797953
+2636,"['meat', 'tropical_fruit', 'other_vegetables', 'candy']",4,45.30421777589804
+2637,"['brown_bread', 'sauces', 'pet_care']",3,26.61229320228413
+2639,"['uht-milk', 'brown_bread', 'coffee', 'shopping_bags']",4,37.905850591343295
+2641,"['whole_milk', 'butter_milk']",2,13.79324325940106
+2643,"['brown_bread', 'jam', 'fruit/vegetable_juice']",3,19.168639782780158
+2645,"['other_vegetables', 'baking_powder', 'napkins']",3,23.014764948070088
+2647,"['whole_milk', 'bottled_water']",2,10.185998640258289
+2649,"['pastry', 'jam']",2,10.241064410604963
+2650,"['beverages', 'bottled_water', 'long_life_bakery_product']",3,23.746984472901126
+2651,"['tropical_fruit', 'packaged_fruit/vegetables', 'sliced_cheese']",3,28.187511515217228
+2652,"['beef', 'root_vegetables', 'white_bread', 'soda']",4,29.932746086421226
+2654,"['rolls/buns', 'bottled_water', 'dental_care', 'shopping_bags']",4,18.391375581427774
+2655,"['domestic_eggs', 'salty_snack', 'popcorn', 'napkins']",4,15.373201174215676
+2656,"['whole_milk', 'jam', 'canned_fish', 'waffles']",4,24.816532492494886
+2659,"['whole_milk', 'cake_bar']",2,14.357137212076811
+2661,"['hard_cheese', 'rolls/buns', 'sugar', 'candy']",4,27.672709818657587
+2662,"['yogurt', 'margarine', 'fruit/vegetable_juice', 'shopping_bags']",4,31.722273711617163
+2663,"['whole_milk', 'yogurt']",2,10.658698842284023
+2664,"['citrus_fruit', 'newspapers']",2,23.799703254555787
+2666,"['whipped/sour_cream', 'frozen_vegetables', 'hygiene_articles']",3,22.194101501960926
+2667,"['yogurt', 'beverages', 'frozen_meals', 'long_life_bakery_product']",4,36.00624538249641
+2668,"['pastry', 'soda']",2,15.8089339657716
+2669,"['berries', 'pastry', 'seasonal_products', 'shopping_bags']",4,33.6239381984094
+2671,"['domestic_eggs', 'soda', 'cake_bar']",3,15.367607301103629
+2672,"['curd', 'rolls/buns', 'long_life_bakery_product']",3,20.208814577150733
+2674,"['spread_cheese', 'rolls/buns', 'canned_fish']",3,10.094930859624949
+2675,"['coffee', 'soda']",2,18.759726785279916
+2676,"['other_vegetables', 'whole_milk', 'rolls/buns']",3,19.341145342136453
+2678,"['dessert', 'fruit/vegetable_juice', 'long_life_bakery_product', 'waffles']",4,42.185704222381595
+2679,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+2682,"['frankfurter', 'whole_milk', 'mustard', 'chewing_gum']",4,24.03849751011637
+2683,"['berries', 'root_vegetables', 'whole_milk']",3,17.94822137718524
+2684,"['whole_milk', 'margarine']",2,18.774140850185766
+2686,"['frankfurter', 'rolls/buns', 'chocolate']",3,23.599548212056384
+2687,"['beef', 'butter']",2,18.567121778345843
+2689,"['whole_milk', 'soda']",2,14.131191930446754
+2690,"['pip_fruit', 'whole_milk']",2,19.813407215119803
+2692,"['frankfurter', 'rolls/buns', 'soda', 'specialty_bar']",4,33.46100191735577
+2694,"['soda', 'seasonal_products']",2,12.550442132867381
+2696,"['chewing_gum', 'specialty_chocolate']",2,8.227046490717017
+2698,"['flour', 'sugar']",2,6.654778438842651
+2699,"['tropical_fruit', 'pip_fruit', 'whole_milk', 'flower_soil/fertilizer']",4,38.30111899592028
+2700,"['pip_fruit', 'berries', 'yogurt']",3,26.40376509186425
+2701,"['yogurt', 'margarine']",2,15.70536493966027
+2704,"['whole_milk', 'cereals']",2,16.459715566590184
+2706,"['whole_milk', 'margarine']",2,18.774140850185766
+2708,"['pastry', 'soda']",2,15.8089339657716
+2709,"['frozen_meals', 'soda']",2,19.054015261611543
+2710,"['root_vegetables', 'whole_milk', 'curd']",3,12.07927315115312
+2712,"['dessert', 'frozen_meals', 'soda', 'seasonal_products']",4,31.645562103936147
+2713,"['soda', 'fruit/vegetable_juice']",2,13.144025905414424
+2714,"['beef', 'cat_food', 'newspapers']",3,30.600726178522237
+2715,"['citrus_fruit', 'whipped/sour_cream']",2,17.407928415800317
+2716,"['berries', 'whipped/sour_cream', 'domestic_eggs']",3,15.173163120567398
+2717,"['meat', 'chicken', 'other_vegetables', 'whole_milk']",4,32.40705531439959
+2719,"['yogurt', 'domestic_eggs']",2,4.401714377268845
+2722,"['citrus_fruit', 'root_vegetables', 'other_vegetables', 'ice_cream']",4,37.10560574899417
+2725,"['soda', 'nut_snack', 'flower_(seeds)']",3,20.412318137937685
+2726,"['fruit/vegetable_juice', 'hygiene_articles', 'napkins']",3,18.220203266867017
+2728,"['citrus_fruit', 'root_vegetables', 'whole_milk', 'curd']",4,24.57992514504556
+2729,"['whipped/sour_cream', 'frozen_vegetables', 'newspapers']",3,23.36060642787716
+2730,"['yogurt', 'sliced_cheese', 'frozen_meals']",3,18.108578646299847
+2731,"['chicken', 'other_vegetables']",2,12.96948409515619
+2733,"['tropical_fruit', 'mustard', 'sauces']",3,29.844285366076576
+2734,"['butter', 'curd']",2,10.820781660723544
+2738,"['candy', 'photo/film']",2,13.794853743526215
+2741,"['whipped/sour_cream', 'brown_bread']",2,16.49975985444025
+2742,"['tropical_fruit', 'whole_milk', 'candles']",3,25.115307411940066
+2743,"['rolls/buns', 'specialty_chocolate']",2,9.263292974646959
+2744,"['pastry', 'soda']",2,15.8089339657716
+2745,"['citrus_fruit', 'yogurt', 'canned_fruit']",3,21.167538752415915
+2747,"['soda', 'snack_products', 'detergent']",3,13.338980208141272
+2749,"['citrus_fruit', 'rolls/buns', 'specialty_bar']",3,26.796266930690393
+2750,"['soda', 'misc._beverages', 'candy']",3,23.304265899562232
+2751,"['pastry', 'long_life_bakery_product', 'waffles', 'napkins']",4,39.75313859998703
+2753,"['soda', 'fruit/vegetable_juice']",2,13.144025905414424
+2756,"['yogurt', 'specialty_bar']",2,16.2250048583063
+2757,"['frankfurter', 'onions', 'pickled_vegetables']",3,32.81376295153642
+2760,"['frankfurter', 'packaged_fruit/vegetables', 'soft_cheese', 'soda']",4,44.602012501473105
+2761,"['citrus_fruit', 'tropical_fruit', 'prosecco']",3,31.192280693777352
+2762,"['beef', 'whole_milk', 'white_bread']",3,28.103678695273445
+2764,"['tropical_fruit', 'pip_fruit']",2,24.672032542776513
+2766,"['chicken', 'tropical_fruit', 'yogurt']",3,17.874971843736148
+2767,"['root_vegetables', 'herbs']",2,4.672684920232685
+2771,"['meat', 'rolls/buns']",2,14.439405387209561
+2772,"['pastry', 'cake_bar']",2,16.03487924740166
+2773,"['yogurt', 'bottled_water', 'syrup', 'specialty_bar']",4,28.568112418736654
+2774,"['whole_milk', 'brown_bread', 'soda']",3,25.723675362979122
+2775,"['pip_fruit', 'other_vegetables', 'frozen_meals']",3,35.34806696764537
+2781,"['soda', 'specialty_bar']",2,19.697497946469028
+2784,"['yogurt', 'soft_cheese', 'rolls/buns', 'specialty_bar']",4,29.589109585287765
+2785,"['turkey', 'beef', 'root_vegetables', 'whole_milk']",4,25.944049764712943
+2787,"['chicken', 'bottled_water']",2,5.6799089376489444
+2788,"['tropical_fruit', 'other_vegetables', 'yogurt']",3,26.12916059130151
+2790,"['uht-milk', 'hygiene_articles', 'napkins', 'cling_film/bags']",4,25.632893253291627
+2792,"['coffee', 'shopping_bags']",2,21.632609651822385
+2793,"['citrus_fruit', 'other_vegetables', 'canned_fish', 'bottled_water']",4,28.240443660353552
+2795,"['whole_milk', 'yogurt', 'coffee']",3,22.150971073521944
+2796,"['whipped/sour_cream', 'rolls/buns']",2,6.772847966278795
+2797,"['butter_milk', 'salt', 'vinegar', 'cat_food']",4,29.311675657124372
+2798,"['frankfurter', 'butter_milk', 'rolls/buns', 'coffee']",4,32.185282085120974
+2801,"['chicken', 'other_vegetables', 'oil']",3,24.790055044974725
+2802,"['whole_milk', 'newspapers']",2,18.162788637068108
+2804,"['bottled_water', 'soda', 'misc._beverages', 'flower_soil/fertilizer']",4,22.99569143251762
+2806,"['beverages', 'rolls/buns']",2,7.737237281876517
+2809,"['other_vegetables', 'curd', 'yogurt', 'shopping_bags']",4,28.337320869062324
+2810,"['packaged_fruit/vegetables', 'frozen_fish', 'napkins']",3,28.015701951095195
+2811,"['soda', 'napkins']",2,9.478540134789467
+2812,"['liver_loaf', 'rolls/buns', 'soda']",3,22.720760848298617
+2814,"['meat', 'butter', 'pastry', 'soda']",4,35.41336390809597
+2815,"['beef', 'other_vegetables', 'whole_milk', 'yogurt']",4,32.80706094250492
+2817,"['chicken', 'whole_milk']",2,9.221385050200173
+2818,"['bottled_water', 'soda']",2,10.589715817895526
+2819,"['ice_cream', 'brown_bread', 'bottled_water', 'soda']",4,34.74996637065831
+2822,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+2824,"['root_vegetables', 'packaged_fruit/vegetables', 'pastry']",3,23.904921963544872
+2825,"['rolls/buns', 'soda']",2,9.133026098412913
+2826,"['herbs', 'packaged_fruit/vegetables']",2,17.18542704502687
+2830,"['other_vegetables', 'whole_milk']",2,17.475573797765534
+2833,"['ice_cream', 'frozen_dessert']",2,17.147833554549365
+2834,"['pastry', 'soda']",2,15.8089339657716
+2836,"['baking_powder', 'soda', 'shopping_bags']",3,27.5996349205883
+2837,"['berries', 'other_vegetables']",2,20.270970208630715
+2841,"['rolls/buns', 'soda']",2,9.133026098412913
+2842,"['fish', 'coffee']",2,20.069238440186457
+2843,"['tropical_fruit', 'onions']",2,20.46911004537843
+2844,"['other_vegetables', 'butter_milk', 'cream_cheese', 'rolls/buns']",4,24.436230148767592
+2845,"['margarine', 'flower_(seeds)']",2,19.52565489192156
+2846,"['other_vegetables', 'rolls/buns', 'soda']",3,19.74486251977369
+2847,"['soda', 'specialty_bar']",2,19.697497946469028
+2848,"['pip_fruit', 'soft_cheese']",2,24.448203021325593
+2849,"['tropical_fruit', 'margarine']",2,23.632766177842477
+2850,"['other_vegetables', 'butter_milk', 'rolls/buns', 'meat_spreads']",4,28.376334397962662
+2851,"['pastry', 'soda']",2,15.8089339657716
+2852,"['frankfurter', 'rolls/buns', 'soda']",3,21.030958524928742
+2853,"['domestic_eggs', 'rolls/buns']",2,2.472324455760498
+2854,"['rolls/buns', 'canned_fish']",2,3.6712655256177236
+2855,"['domestic_eggs', 'soda', 'hygiene_articles']",3,18.006753800178693
+2856,"['citrus_fruit', 'butter']",2,19.531248093378164
+2857,"['ice_cream', 'brown_bread']",2,24.160250552762786
+2858,"['pip_fruit', 'whole_milk', 'newspapers']",3,31.11245847578315
+2859,"['soda', 'soap']",2,8.214313155277116
+2860,"['other_vegetables', 'snack_products']",2,15.548207471545236
+2861,"['beef', 'root_vegetables']",2,12.96187589237066
+2865,"['pastry', 'canned_fish', 'salty_snack', 'waffles']",4,32.12558451801979
+2866,"['whipped/sour_cream', 'curd_cheese', 'specialty_chocolate', 'abrasive_cleaner']",4,28.87946223788701
+2869,"['salty_snack', 'newspapers', 'photo/film']",3,22.028615185627842
+2872,"['frozen_meals', 'soda']",2,19.054015261611543
+2873,"['citrus_fruit', 'dessert', 'seasonal_products']",3,25.092198836217044
+2874,"['domestic_eggs', 'brown_bread', 'fruit/vegetable_juice', 'waffles']",4,32.52332383126234
+2879,"['salty_snack', 'specialty_bar', 'napkins', 'newspapers']",4,33.271075222913275
+2880,"['citrus_fruit', 'specialty_bar']",2,24.930695386319474
+2881,"['ice_cream', 'soda']",2,19.83522167427241
+2882,"['yogurt', 'soda']",2,11.06241601992126
+2883,"['pastry', 'soda', 'specialty_bar']",3,28.238977358198632
+2884,"['whipped/sour_cream', 'frozen_vegetables']",2,12.061555167213807
+2886,"['fish', 'other_vegetables', 'white_bread', 'soda']",4,36.15967282435987
+2888,"['pot_plants', 'shopping_bags']",2,24.786861519317426
+2889,"['berries', 'salty_snack', 'nut_snack']",3,22.5196409421005
+2890,"['white_bread', 'semi-finished_bread', 'soda']",3,19.809310990037787
+2892,"['cream_cheese', 'rolls/buns', 'soda', 'chewing_gum']",4,14.991667458893486
+2893,"['berries', 'soda']",2,16.926588341311934
+2896,"['ice_cream', 'kitchen_towels']",2,23.499979981518997
+2897,"['frankfurter', 'rolls/buns', 'chocolate']",3,23.599548212056384
+2899,"['fruit/vegetable_juice', 'chocolate']",2,15.712615592542065
+2900,"['beverages', 'cream_cheese', 'rolls/buns']",3,12.766553581916114
+2902,"['tropical_fruit', 'soda']",2,18.989817258103464
+2906,"['specialty_chocolate', 'newspapers']",2,18.69677269093939
+2907,"['whole_milk', 'whipped/sour_cream', 'pot_plants']",3,26.417537897045598
+2909,"['grapes', 'berries', 'pet_care', 'pot_plants']",4,28.3882452754738
+2911,"['other_vegetables', 'whole_milk', 'curd']",3,21.265759359003354
+2912,"['root_vegetables', 'other_vegetables']",2,12.037186634871318
+2914,"['rolls/buns', 'misc._beverages']",2,7.506198082254009
+2915,"['citrus_fruit', 'coffee']",2,23.99292422513036
+2916,"['chicken', 'whole_milk']",2,9.221385050200173
+2919,"['soap', 'napkins']",2,3.1579441819825935
+2921,"['cereals', 'pet_care', 'salty_snack', 'shopping_bags']",4,28.41260035433677
+2924,"['tropical_fruit', 'yogurt', 'rolls/buns', 'waffles']",4,31.83041185027961
+2925,"['yogurt', 'long_life_bakery_product']",2,18.34801893742126
+2926,"['packaged_fruit/vegetables', 'soda', 'napkins']",3,23.416632473094193
+2927,"['cream_cheese', 'rolls/buns']",2,6.894887844410514
+2928,"['curd', 'rolls/buns']",2,5.655757105608737
+2929,"['whole_milk', 'beverages']",2,12.735403113910358
+2932,"['butter', 'white_bread']",2,16.734011739494292
+2933,"['cooking_chocolate', 'female_sanitary_products']",2,9.63030683053838
+2934,"['zwieback', 'long_life_bakery_product']",2,20.57786524994099
+2935,"['cream_cheese', 'specialty_chocolate']",2,12.427037730315636
+2938,"['whole_milk', 'cake_bar']",2,14.357137212076811
+2941,"['domestic_eggs', 'chocolate_marshmallow', 'newspapers']",3,16.260918613215964
+2942,"['butter_milk', 'coffee']",2,18.421778114234222
+2943,"['whole_milk', 'dessert', 'pastry', 'long_life_bakery_product']",4,37.26683352317557
+2944,"['beef', 'citrus_fruit', 'pip_fruit']",3,36.9868475114676
+2949,"['frozen_fish', 'chocolate_marshmallow', 'candy', 'male_cosmetics']",4,28.342265937371565
+2950,"['whole_milk', 'rolls/buns', 'pastry']",3,17.27078833250528
+2953,"['frankfurter', 'other_vegetables', 'dessert']",3,29.818328111375823
+2954,"['whole_milk', 'newspapers']",2,18.162788637068108
+2955,"['rolls/buns', 'soda']",2,9.133026098412913
+2957,"['whole_milk', 'ice_cream', 'soda']",3,26.698959050677168
+2958,"['yogurt', 'frozen_meals', 'soda']",3,22.848976727490808
+2959,"['tropical_fruit', 'pip_fruit', 'whole_milk']",3,31.53576991918127
+2960,"['whole_milk', 'pastry', 'newspapers']",3,26.70426804879771
+2961,"['pip_fruit', 'frozen_meals', 'soda', 'shopping_bags']",4,42.14402252091106
+2963,"['berries', 'newspapers']",2,20.95818504793329
+2964,"['brown_bread', 'meat_spreads', 'bottled_water', 'fruit/vegetable_juice']",4,29.760736596993
+2967,"['citrus_fruit', 'hygiene_articles', 'cling_film/bags']",3,31.241702159448053
+2969,"['soda', 'cake_bar', 'candy']",3,25.157039197351192
+2970,"['whole_milk', 'soda', 'seasonal_products']",3,19.41417950927214
+2973,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+2975,"['whole_milk', 'spices']",2,8.634661206488223
+2976,"['specialty_cheese', 'soda']",2,18.241665137690525
+2977,"['canned_vegetables', 'bottled_water']",2,6.243368602515236
+2978,"['spread_cheese', 'misc._beverages']",2,12.064291871890315
+2979,"['other_vegetables', 'domestic_eggs', 'napkins', 'dishes']",4,23.352450636042718
+2980,"['misc._beverages', 'specialty_chocolate', 'candy']",3,23.434532775796274
+2981,"['beef', 'root_vegetables', 'hygiene_articles']",3,23.09442222711778
+2982,"['yogurt', 'seasonal_products']",2,9.077949044704653
+2984,"['tropical_fruit', 'seasonal_products']",2,17.005350282886855
+2985,"['other_vegetables', 'sweet_spreads', 'long_life_bakery_product', 'detergent']",4,37.19495623962303
+2986,"['curd', 'salty_snack']",2,11.121080550313241
+2988,"['cat_food', 'female_sanitary_products']",2,16.29205054853971
+2989,"['frankfurter', 'tropical_fruit']",2,23.620295130577297
+2990,"['tropical_fruit', 'long_life_bakery_product']",2,26.275420175603465
+2991,"['bottled_water', 'specialty_chocolate']",2,10.71998269412957
+2993,"['bottled_water', 'male_cosmetics']",2,5.046703920381922
+2995,"['curd', 'specialty_cheese', 'flour', 'long_life_bakery_product']",4,31.215122567654085
+2996,"['whole_milk', 'cream_cheese', 'specialty_chocolate', 'candy']",4,29.686959914357537
+2997,"['pastry', 'ketchup', 'chocolate', 'napkins']",4,23.56220727743156
+2998,"['whipped/sour_cream', 'candy']",2,15.303461229545022
+3002,"['brown_bread', 'pastry', 'bottled_water']",3,23.456224108115503
+3003,"['chocolate', 'pot_plants', 'shopping_bags']",3,34.622905760487065
+3004,"['frankfurter', 'yogurt', 'margarine', 'bottled_water']",4,30.92555863002963
+3005,"['finished_products', 'pet_care', 'soda']",3,11.321369797874395
+3006,"['detergent', 'softener', 'shopping_bags']",3,12.106148154429896
+3007,"['citrus_fruit', 'whole_milk', 'pot_plants']",3,34.01091346903016
+3009,"['frankfurter', 'margarine', 'newspapers', 'shopping_bags']",4,45.24772458154465
+3013,"['curd', 'whipped/sour_cream', 'newspapers']",3,19.996513243809048
+3014,"['other_vegetables', 'whole_milk', 'white_bread']",3,27.1789894377741
+3016,"['frankfurter', 'whole_milk', 'bottled_water']",3,22.083931066774117
+3017,"['bottled_water', 'soda', 'pot_plants']",3,25.236239916628485
+3022,"['frankfurter', 'onions', 'whole_milk']",3,27.508417144237548
+3023,"['condensed_milk', 'rolls/buns', 'sugar', 'cat_food']",4,24.600133193883
+3024,"['soda', 'long_life_bakery_product', 'shopping_bags']",3,31.960849446168456
+3025,"['beef', 'rolls/buns', 'dog_food', 'soda']",4,23.05341360463737
+3027,"['butter', 'frozen_vegetables', 'margarine', 'cake_bar']",4,33.58867815424471
+3028,"['berries', 'beverages']",2,15.530799524775539
+3030,"['whole_milk', 'bottled_water', 'pot_plants']",3,24.83252273899125
+3031,"['frankfurter', 'root_vegetables', 'whole_milk', 'margarine']",4,32.09742349021214
+3032,"['coffee', 'bottled_water', 'cling_film/bags']",3,23.423037325899948
+3033,"['bottled_water', 'soda']",2,10.589715817895526
+3035,"['whole_milk', 'rolls/buns', 'brown_bread', 'margarine']",4,32.23219582708906
+3036,"['canned_vegetables', 'newspapers']",2,14.220158599325057
+3037,"['other_vegetables', 'frozen_potato_products', 'oil', 'shopping_bags']",4,46.02300105093564
+3038,"['meat', 'whole_milk', 'domestic_eggs', 'bottled_water']",4,23.366585394486513
+3039,"['chicken', 'rolls/buns']",2,4.223219218166333
+3040,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+3041,"['other_vegetables', 'packaged_fruit/vegetables', 'whole_milk', 'white_bread']",4,41.11708177607883
+3042,"['whole_milk', 'pot_plants']",2,21.510261475137717
+3044,"['whole_milk', 'rolls/buns', 'pot_plants', 'shopping_bags']",4,33.516170440093106
+3045,"['whole_milk', 'yogurt', 'coffee']",3,22.150971073521944
+3046,"['whipped/sour_cream', 'specialty_fat', 'waffles', 'specialty_chocolate']",4,33.86127019073923
+3048,"['long_life_bakery_product', 'newspapers']",2,25.852108732205345
+3049,"['root_vegetables', 'margarine', 'bottled_water', 'soda']",4,23.925469505187074
+3051,"['rolls/buns', 'roll_products', 'cat_food', 'shopping_bags']",4,32.6919653232936
+3052,"['root_vegetables', 'other_vegetables', 'butter']",3,19.067782734357042
+3053,"['citrus_fruit', 'onions', 'yogurt', 'rolls/buns']",4,26.907932345459585
+3054,"['chicken', 'whole_milk', 'salty_snack', 'long_life_bakery_product']",4,31.10533751081759
+3056,"['other_vegetables', 'butter_milk', 'frozen_fish', 'oil']",4,41.22843728621861
+3057,"['frankfurter', 'bottled_water', 'soda', 'newspapers']",4,33.7866995050747
+3058,"['butter_milk', 'cream_cheese', 'bottled_water']",3,15.281083446889427
+3059,"['onions', 'pastry', 'pot_plants']",3,31.934750851779526
+3060,"['berries', 'yogurt', 'domestic_eggs', 'newspapers']",4,25.359899425202137
+3061,"['ice_cream', 'cereals', 'chewing_gum']",3,22.993070370856817
+3062,"['whipped/sour_cream', 'ice_cream', 'pot_plants']",3,32.121567640871255
+3064,"['beef', 'soda', 'detergent', 'flower_(seeds)']",4,27.554386254957482
+3070,"['root_vegetables', 'domestic_eggs']",2,2.0321031249001225
+3071,"['whole_milk', 'dessert']",2,14.172296639903973
+3072,"['yogurt', 'soft_cheese']",2,15.293494648489812
+3073,"['citrus_fruit', 'pip_fruit', 'other_vegetables']",3,36.06215825396826
+3074,"['frankfurter', 'meat', 'white_bread', 'newspapers']",4,45.47423317002639
+3075,"['bottled_water', 'flower_(seeds)']",2,10.937512681994082
+3076,"['finished_products', 'dessert', 'pastry', 'shopping_bags']",4,28.698901585154225
+3078,"['dessert', 'misc._beverages', 'fruit/vegetable_juice']",3,18.825757152754733
+3079,"['curd', 'whipped/sour_cream', 'bottled_water']",3,12.019723246999227
+3080,"['whipped/sour_cream', 'newspapers']",2,16.206327682571228
+3083,"['specialty_cheese', 'soap']",2,11.92106918488365
+3084,"['misc._beverages', 'chocolate', 'shopping_bags']",3,25.617008199637194
+3086,"['soda', 'chewing_gum']",2,8.096779614482973
+3088,"['citrus_fruit', 'semi-finished_bread', 'newspapers']",3,26.638144050543012
+3089,"['pip_fruit', 'misc._beverages']",2,18.590296376598136
+3091,"['whole_milk', 'processed_cheese', 'pastry', 'soda']",4,33.07688116419195
+3092,"['beef', 'other_vegetables', 'packaged_fruit/vegetables', 'dog_food']",4,38.47031626588996
+3093,"['ice_cream', 'dishes']",2,22.490542842775305
+3094,"['beef', 'ice_cream']",2,24.104292799090533
+3096,"['berries', 'yogurt', 'whipped/sour_cream']",3,18.361371675057082
+3097,"['bottled_water', 'soda']",2,10.589715817895526
+3101,"['dessert', 'rolls/buns', 'waffles']",3,23.621646943838094
+3102,"['white_bread', 'soda', 'shopping_bags']",3,27.111207614635028
+3105,"['citrus_fruit', 'pip_fruit', 'other_vegetables', 'rolls/buns']",4,37.92772979833918
+3106,"['citrus_fruit', 'butter', 'frozen_vegetables', 'baking_powder']",4,36.877369784645936
+3107,"['frozen_potato_products', 'seasonal_products']",2,18.733243837997254
+3108,"['curd', 'beverages', 'pastry', 'pot_plants']",4,32.84985480920598
+3109,"['whipped/sour_cream', 'uht-milk', 'domestic_eggs']",3,10.194786840285996
+3110,"['whole_milk', 'soda', 'specialty_bar', 'newspapers']",4,37.86028658353714
+3111,"['oil', 'candy']",2,22.21675575745568
+3115,"['beef', 'whipped/sour_cream', 'roll_products']",3,29.364709220107443
+3116,"['canned_vegetables', 'female_sanitary_products', 'shopping_bags']",3,21.58834606878711
+3119,"['dessert', 'bottled_water', 'fruit/vegetable_juice']",3,16.507391878725173
+3120,"['chewing_gum', 'specialty_bar']",2,13.259368452868012
+3121,"['onions', 'whole_milk', 'curd', 'soda']",4,26.668124833001535
+3124,"['soda', 'misc._beverages', 'specialty_bar']",3,25.33812448435212
+3125,"['citrus_fruit', 'tropical_fruit', 'pip_fruit', 'shopping_bags']",4,47.31302195725342
+3126,"['coffee', 'seasonal_products', 'shopping_bags']",3,26.915597230647773
+3129,"['chicken', 'curd']",2,6.147833235033234
+3130,"['dessert', 'flower_soil/fertilizer', 'flower_(seeds)']",3,21.68915975837877
+3131,"['condensed_milk', 'pastry', 'chocolate']",3,28.58982657579564
+3132,"['brown_bread', 'soda']",2,18.859937986574366
+3135,"['whole_milk', 'frozen_vegetables', 'bottled_water']",3,17.340277385564217
+3137,"['whole_milk', 'yogurt', 'frozen_vegetables']",3,17.812977587589952
+3138,"['pastry', 'chocolate', 'specialty_bar']",3,30.807567045326277
+3140,"['whole_milk', 'dessert', 'yogurt', 'white_bread']",4,27.670673745791802
+3141,"['frankfurter', 'grapes']",2,14.635130061495273
+3142,"['citrus_fruit', 'oil', 'misc._beverages']",3,29.961849481594065
+3143,"['yogurt', 'bottled_water', 'soda', 'newspapers']",4,25.68372854443814
+3144,"['yogurt', 'waffles', 'hygiene_articles']",3,28.375023936594346
+3145,"['butter_milk', 'white_bread', 'pet_care', 'newspapers']",4,29.27736253815967
+3146,"['frozen_dessert', 'softener']",2,5.410722564249564
+3147,"['hard_cheese', 'pastry', 'popcorn', 'pot_plants']",4,39.06631518249838
+3149,"['onions', 'white_bread', 'hygiene_articles']",3,28.582709316072645
+3153,"['yogurt', 'frozen_meals', 'soda']",3,22.848976727490808
+3154,"['bottled_water', 'soda', 'chocolate', 'shopping_bags']",4,30.566097479649628
+3158,"['yogurt', 'margarine', 'bottled_water', 'chewing_gum']",4,19.856951263954777
+3159,"['sweet_spreads', 'waffles']",2,25.342423878773396
+3160,"['tropical_fruit', 'yogurt', 'spread_cheese', 'brown_bread']",4,33.53347293648033
+3161,"['whole_milk', 'brown_bread', 'newspapers']",3,29.75527206960048
+3162,"['citrus_fruit', 'soda']",2,19.768106547934437
+3163,"['yogurt', 'soda', 'fruit/vegetable_juice']",3,16.93898737129369
+3165,"['whipped/sour_cream', 'napkins']",2,7.118362002655349
+3166,"['other_vegetables', 'brown_bread']",2,22.204319853893146
+3168,"['packaged_fruit/vegetables', 'whole_milk', 'soda']",3,28.06928426875148
+3169,"['tropical_fruit', 'butter', 'whipped/sour_cream', 'rolls/buns']",4,25.52580676982599
+3170,"['whole_milk', 'ice_cream']",2,19.431504496635174
+3171,"['chewing_gum', 'hygiene_articles']",2,10.961871395188096
+3172,"['tropical_fruit', 'whole_milk', 'long_life_bakery_product', 'chocolate']",4,42.97520179317786
+3173,"['whole_milk', 'coffee']",2,18.35600960764268
+3174,"['sweet_spreads', 'hygiene_articles', 'house_keeping_products']",3,24.638931833435727
+3175,"['packaged_fruit/vegetables', 'fruit/vegetable_juice', 'salty_snack']",3,27.145558678752575
+3176,"['other_vegetables', 'whole_milk']",2,17.475573797765534
+3177,"['citrus_fruit', 'condensed_milk', 'flour']",3,24.610623868014578
+3179,"['bottled_water', 'soda']",2,10.589715817895526
+3180,"['white_bread', 'flour', 'fruit/vegetable_juice', 'hygiene_articles']",4,27.610202277353853
+3183,"['uht-milk', 'bottled_water']",2,8.00301877084207
+3184,"['nuts/prunes', 'canned_fish', 'soda', 'shopping_bags']",4,29.859239396129134
+3185,"['oil', 'pickled_vegetables', 'hygiene_articles']",3,34.122200468269284
+3187,"['berries', 'yogurt']",2,13.454095253149205
+3188,"['citrus_fruit', 'rolls/buns', 'chewing_gum', 'shopping_bags']",4,25.3358860192888
+3189,"['frankfurter', 'pastry', 'soda']",3,27.70686639228743
+3190,"['whole_milk', 'sliced_cheese', 'rolls/buns', 'shopping_bags']",4,21.396702814211174
+3191,"['beef', 'onions', 'other_vegetables', 'rolls/buns']",4,32.76068098590877
+3192,"['pip_fruit', 'dish_cleaner', 'napkins']",3,17.321441485734134
+3193,"['domestic_eggs', 'candy']",2,11.002937719026725
+3195,"['whole_milk', 'butter', 'sugar', 'coffee']",4,30.14371519474531
+3196,"['frankfurter', 'hygiene_articles']",2,22.03047876126295
+3197,"['curd', 'yogurt', 'bathroom_cleaner']",3,18.18179246574426
+3198,"['frankfurter', 'coffee']",2,23.39020465775375
+3199,"['pip_fruit', 'curd', 'margarine', 'baking_powder']",4,38.84210181969571
+3200,"['yogurt', 'light_bulbs']",2,16.09825704353677
+3203,"['rolls/buns', 'bottled_water']",2,5.187832808224448
+3204,"['pastry', 'soda']",2,15.8089339657716
+3208,"['other_vegetables', 'whole_milk', 'rolls/buns', 'flour']",4,21.238814293362193
+3209,"['meat', 'root_vegetables', 'pastry']",3,22.54066346807879
+3210,"['bottled_water', 'soda', 'salty_snack']",3,17.92061080697095
+3211,"['meat', 'root_vegetables', 'hard_cheese', 'brown_bread']",4,36.24551146791416
+3213,"['chicken', 'other_vegetables', 'whipped/sour_cream', 'pickled_vegetables']",4,30.045843700767694
+3215,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+3217,"['citrus_fruit', 'onions', 'soups']",3,28.263141116294335
+3218,"['pip_fruit', 'grapes', 'whole_milk', 'rolls/buns']",4,24.416176394470167
+3219,"['frankfurter', 'beef', 'whole_milk', 'chocolate_marshmallow']",4,34.653309922943734
+3220,"['butter', 'sliced_cheese', 'brown_bread']",3,21.150136004869125
+3222,"['root_vegetables', 'frozen_vegetables']",2,8.579628958816471
+3223,"['tropical_fruit', 'other_vegetables', 'whole_milk', 'margarine']",4,41.108339975608004
+3225,"['root_vegetables', 'whole_milk', 'beverages', 'salt']",4,24.885651317502756
+3230,"['yogurt', 'canned_fish']",2,5.60065544712607
+3232,"['zwieback', 'dishes']",2,15.947583500943885
+3234,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+3235,"['whole_milk', 'rolls/buns', 'bottled_water']",3,12.051570184629206
+3237,"['whole_milk', 'oil', 'candles']",3,25.213515657697137
+3239,"['coffee', 'female_sanitary_products', 'napkins']",3,22.23025912152633
+3241,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+3242,"['soda', 'salty_snack']",2,14.598349543117417
+3245,"['liver_loaf', 'pip_fruit', 'grapes', 'other_vegetables']",4,39.886438644940974
+3246,"['butter_milk', 'instant_coffee']",2,10.363774672527141
+3250,"['bottled_water', 'specialty_chocolate']",2,10.71998269412957
+3253,"['whole_milk', 'artif._sweetener']",2,13.256346867285782
+3255,"['chicken', 'whole_milk']",2,9.221385050200173
+3257,"['chicken', 'ice_cream']",2,14.92541479402583
+3258,"['rolls/buns', 'newspapers']",2,13.164622805034266
+3260,"['curd', 'instant_food_products', 'specialty_bar']",3,24.91615249764209
+3261,"['herbs', 'other_vegetables', 'hygiene_articles', 'napkins']",4,26.20280304357751
+3262,"['grapes', 'berries']",2,12.396331422249384
+3263,"['yogurt', 'spread_cheese', 'pastry', 'shopping_bags']",4,28.90044363220056
+3264,"['grapes', 'berries', 'soda']",3,19.66378597629138
+3265,"['grapes', 'other_vegetables', 'frozen_dessert']",3,17.92910049065917
+3266,"['citrus_fruit', 'semi-finished_bread']",2,15.339092789879665
+3267,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+3268,"['rolls/buns', 'snack_products']",2,6.8019425945553795
+3271,"['cream_cheese', 'coffee', 'bottled_water']",3,19.843849795131046
+3272,"['long_life_bakery_product', 'waffles', 'newspapers']",3,40.299624868173304
+3273,"['other_vegetables', 'butter_milk', 'yogurt']",3,21.33630377023634
+3276,"['berries', 'yogurt', 'cat_food', 'chocolate']",4,31.05528873331761
+3277,"['citrus_fruit', 'pickled_vegetables', 'meat_spreads', 'specialty_chocolate']",4,41.03687715710677
+3278,"['beef', 'whole_milk']",2,18.400263055264876
+3279,"['tropical_fruit', 'pickled_vegetables', 'fruit/vegetable_juice']",3,29.76801723913752
+3280,"['citrus_fruit', 'butter', 'sliced_cheese', 'domestic_eggs']",4,22.665057477618777
+3282,"['soda', 'chocolate']",2,17.10349879521163
+3283,"['root_vegetables', 'whole_milk']",2,8.289087589915301
+3285,"['whole_milk', 'mustard']",2,11.311240023159565
+3286,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+3287,"['ice_cream', 'rolls/buns']",2,14.433338664601333
+3288,"['ice_cream', 'chocolate']",2,22.403811361400052
+3289,"['tropical_fruit', 'whole_milk', 'bottled_water', 'soda']",4,29.175815898361755
+3290,"['long_life_bakery_product', 'newspapers']",2,25.852108732205345
+3291,"['whole_milk', 'rolls/buns', 'nut_snack']",3,14.258921086530814
+3292,"['rolls/buns', 'instant_food_products']",2,10.561495088348156
+3293,"['condensed_milk', 'coffee']",2,21.70457515413432
+3294,"['whole_milk', 'pickled_vegetables']",2,19.032820560108384
+3295,"['white_bread', 'coffee', 'seasonal_products']",3,26.478675450071876
+3296,"['whole_milk', 'house_keeping_products']",2,10.475215132287932
+3297,"['dessert', 'uht-milk', 'newspapers', 'shopping_bags']",4,33.42870545173557
+3298,"['whole_milk', 'soda', 'soap']",3,15.078050531681875
+3299,"['pastry', 'specialty_chocolate', 'female_sanitary_products']",3,24.466102151546583
+3300,"['other_vegetables', 'whole_milk', 'processed_cheese', 'soda']",4,35.14723817382312
+3302,"['other_vegetables', 'yogurt', 'specialty_cheese', 'bottled_water']",4,28.7032697347421
+3303,"['finished_products', 'rolls/buns']",2,4.57409703371186
+3305,"['berries', 'other_vegetables', 'yogurt']",3,24.06593167450998
+3308,"['whole_milk', 'specialty_chocolate', 'light_bulbs']",3,26.5647543843383
+3309,"['beverages', 'specialty_bar']",2,18.301709129932632
+3310,"['pastry', 'waffles', 'shopping_bags']",3,33.12933296828203
+3311,"['citrus_fruit', 'yogurt']",2,16.295613459771705
+3312,"['salty_snack', 'specialty_chocolate']",2,14.72861641935146
+3313,"['citrus_fruit', 'tropical_fruit', 'pastry', 'seasonal_products']",4,38.047481688508896
+3320,"['pip_fruit', 'rolls/buns']",2,14.815241383085965
+3323,"['whole_milk', 'brown_bread', 'fruit/vegetable_juice']",3,24.33279216030956
+3325,"['beef', 'whole_milk', 'yogurt', 'soft_cheese']",4,33.693757703754684
+3326,"['tropical_fruit', 'frozen_dessert']",2,16.30242913838042
+3327,"['frankfurter', 'coffee']",2,23.39020465775375
+3328,"['curd', 'ice_cream', 'pasta', 'cat_food']",4,38.65199304076305
+3329,"['yogurt', 'newspapers']",2,15.094012726542614
+3330,"['sliced_cheese', 'domestic_eggs', 'coffee', 'shopping_bags']",4,24.766419036063
+3331,"['chicken', 'whole_milk']",2,9.221385050200173
+3333,"['fish', 'whole_milk', 'white_bread', 'detergent']",4,26.27927382927668
+3334,"['detergent', 'hygiene_articles', 'napkins']",3,13.478786519409407
+3335,"['rolls/buns', 'margarine', 'canned_fish']",3,15.58166899939873
+3336,"['coffee', 'fruit/vegetable_juice']",2,17.36884358261035
+3337,"['frankfurter', 'whole_milk']",2,18.761669802920586
+3338,"['dessert', 'beverages']",2,13.180225001004814
+3339,"['salty_snack', 'specialty_chocolate']",2,14.72861641935146
+3343,"['frankfurter', 'cream_cheese', 'white_bread']",3,26.63066436656399
+3345,"['soups', 'male_cosmetics']",2,8.740184437613328
+3346,"['soda', 'syrup']",2,16.288300850618818
+3347,"['root_vegetables', 'yogurt', 'beverages']",3,11.091977416895407
+3349,"['whole_milk', 'curd', 'cream_cheese', 'shopping_bags']",4,25.82357665826664
+3350,"['soda', 'specialty_bar']",2,19.697497946469028
+3353,"['whipped/sour_cream', 'newspapers']",2,16.206327682571228
+3354,"['tropical_fruit', 'whole_milk', 'cream_cheese', 'brown_bread']",4,35.207899813038196
+3356,"['meat', 'brown_bread', 'seasonal_products', 'shopping_bags']",4,39.58964227478087
+3357,"['yogurt', 'specialty_bar']",2,16.2250048583063
+3358,"['organic_products', 'softener', 'hygiene_articles']",3,25.36231105667869
+3359,"['frozen_meals', 'frozen_potato_products', 'coffee']",3,36.729089197979334
+3365,"['frankfurter', 'whole_milk', 'frozen_vegetables']",3,25.915948548226517
+3366,"['grapes', 'brown_bread']",2,14.329681067511814
+3367,"['grapes', 'sugar', 'cling_film/bags']",3,16.102810953404852
+3368,"['rolls/buns', 'napkins', 'shopping_bags']",3,14.216994545702857
+3369,"['rolls/buns', 'bottled_water']",2,5.187832808224448
+3370,"['curd', 'yogurt', 'newspapers']",3,18.884198287780436
+3371,"['soft_cheese', 'coffee', 'candy']",3,33.38699022148562
+3374,"['root_vegetables', 'margarine', 'candles']",3,19.86496101876539
+3375,"['beef', 'root_vegetables', 'whole_milk', 'condensed_milk']",4,30.03791619167182
+3376,"['tropical_fruit', 'whole_milk', 'rolls/buns']",3,20.451671624837147
+3378,"['tropical_fruit', 'butter_milk', 'brown_bread', 'flour']",4,32.14202097081588
+3379,"['sugar', 'specialty_bar']",2,17.187152880043946
+3380,"['finished_products', 'whole_milk', 'softener']",3,10.402918995676313
+3381,"['uht-milk', 'soda']",2,11.948212061030535
+3382,"['other_vegetables', 'whole_milk', 'domestic_eggs', 'dishes']",4,28.005102431700003
+3383,"['whole_milk', 'butter', 'fruit/vegetable_juice', 'candy']",4,30.167089634900055
+3384,"['chicken', 'whole_milk', 'rolls/buns']",3,11.086956594571092
+3385,"['pip_fruit', 'pastry']",2,21.49114925044465
+3386,"['rolls/buns', 'newspapers']",2,13.164622805034266
+3387,"['whole_milk', 'whipped/sour_cream']",2,11.771013798312636
+3388,"['root_vegetables', 'whole_milk', 'whipped/sour_cream', 'soda']",4,20.463818565865175
+3390,"['uht-milk', 'domestic_eggs', 'oil', 'margarine']",4,29.01848484197766
+3391,"['citrus_fruit', 'other_vegetables', 'uht-milk', 'rolls/buns']",4,29.65881746661268
+3393,"['root_vegetables', 'margarine', 'pet_care']",3,14.681143441783005
+3394,"['tropical_fruit', 'rolls/buns', 'newspapers']",3,24.886985509095737
+3396,"['beef', 'whole_milk', 'rolls/buns', 'coffee']",4,31.758106830873714
+3397,"['frankfurter', 'domestic_eggs', 'mustard', 'seasonal_products']",4,22.235175563485605
+3398,"['beef', 'tropical_fruit', 'margarine', 'bottled_water']",4,38.49155312055612
+3400,"['pastry', 'soda']",2,15.8089339657716
+3401,"['other_vegetables', 'soda', 'shopping_bags']",3,28.019628395987237
+3402,"['frankfurter', 'rolls/buns', 'pastry']",3,22.304983382616353
+3403,"['grapes', 'pasta', 'dishes']",3,27.18886447782038
+3405,"['finished_products', 'other_vegetables', 'long_life_bakery_product']",3,27.87341938224371
+3411,"['beef', 'soda', 'newspapers']",3,30.10303149356546
+3413,"['pip_fruit', 'butter', 'yogurt']",3,23.775227404080034
+3415,"['rolls/buns', 'shopping_bags']",2,12.005908964955385
+3416,"['chicken', 'spread_cheese', 'frozen_meals', 'domestic_eggs']",4,21.174626626761768
+3419,"['root_vegetables', 'domestic_eggs', 'white_bread']",3,11.73551876490869
+3420,"['cream_cheese', 'rolls/buns', 'brown_bread']",3,18.487371276942884
+3421,"['citrus_fruit', 'yogurt', 'rolls/buns', 'pastry']",4,26.702664415872228
+3422,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+3424,"['processed_cheese', 'rolls/buns', 'specialty_chocolate']",3,19.66750279666255
+3425,"['chicken', 'other_vegetables', 'chewing_gum', 'shopping_bags']",4,23.939146576181635
+3426,"['cream_cheese', 'processed_cheese', 'specialty_bar']",3,27.863569514482222
+3427,"['other_vegetables', 'whole_milk', 'chocolate']",3,27.311618038935173
+3429,"['citrus_fruit', 'other_vegetables', 'whole_milk', 'soda']",4,37.24368034569997
+3430,"['whole_milk', 'cream_cheese', 'chewing_gum']",3,12.72237873688533
+3431,"['curd', 'fruit/vegetable_juice', 'specialty_chocolate']",3,17.06447834288629
+3433,"['beef', 'whole_milk', 'sliced_cheese']",3,20.92731952811591
+3434,"['yogurt', 'rolls/buns']",2,5.660533010250183
+3435,"['finished_products', 'butter', 'curd', 'soda']",4,20.79676170410648
+3438,"['tropical_fruit', 'whole_milk', 'pickled_vegetables', 'soda']",4,38.02263781821185
+3439,"['turkey', 'seasonal_products']",2,11.401424074762916
+3440,"['rolls/buns', 'brown_bread', 'specialty_bar']",3,25.888098369330322
+3443,"['other_vegetables', 'whole_milk', 'brown_bread', 'margarine']",4,40.97846070407891
+3444,"['yogurt', 'domestic_eggs', 'rolls/buns']",3,6.267285921639763
+3445,"['berries', 'yogurt', 'shopping_bags']",3,23.59443267373367
+3449,"['uht-milk', 'rolls/buns']",2,6.546329051359458
+3450,"['other_vegetables', 'butter', 'bottled_water', 'detergent']",4,22.099848388614845
+3451,"['onions', 'brown_bread']",2,20.33923077384933
+3453,"['beef', 'citrus_fruit', 'other_vegetables']",3,34.64901409411333
+3454,"['chicken', 'grapes']",2,5.094845308774858
+3458,"['chicken', 'root_vegetables']",2,3.7829978873059575
+3459,"['beef', 'instant_coffee']",2,14.970794468390958
+3461,"['citrus_fruit', 'root_vegetables', 'rolls/buns']",3,15.7915737517739
+3463,"['citrus_fruit', 'tropical_fruit', 'dessert', 'fruit/vegetable_juice']",4,37.40814531282555
+3467,"['citrus_fruit', 'yogurt', 'soda']",3,23.563068013813698
+3468,"['cat_food', 'soda', 'candy']",3,25.428788600677912
+3469,"['rolls/buns', 'pastry', 'candy']",3,20.803235763737668
+3470,"['cake_bar', 'specialty_chocolate']",2,14.891121265948094
+3471,"['yogurt', 'long_life_bakery_product']",2,18.34801893742126
+3472,"['frozen_meals', 'specialty_bar']",2,24.21660409999658
+3474,"['root_vegetables', 'other_vegetables', 'canned_fish', 'shopping_bags']",4,23.98321803670259
+3478,"['cream_cheese', 'brown_bread']",2,16.621799732571965
+3480,"['brown_bread', 'hair_spray']",2,14.118894444867362
+3481,"['turkey', 'roll_products', 'dishes']",3,28.96211933782186
+3482,"['other_vegetables', 'whole_milk', 'cake_bar', 'detergent']",4,26.104128237352406
+3484,"['dog_food', 'pet_care', 'shopping_bags']",3,13.86958900244026
+3486,"['pip_fruit', 'yogurt', 'brown_bread']",3,28.337114737126683
+3487,"['tropical_fruit', 'curd', 'yogurt', 'whipped/sour_cream']",4,24.214786153086433
+3488,"['frankfurter', 'frozen_potato_products', 'rolls/buns', 'specialty_fat']",4,34.322516432645976
+3493,"['root_vegetables', 'sliced_cheese']",2,3.9524066863615754
+3494,"['condensed_milk', 'coffee', 'shopping_bags']",3,31.844912574718787
+3495,"['citrus_fruit', 'other_vegetables', 'beverages', 'snack_products']",4,33.920525202943274
+3497,"['other_vegetables', 'ice_cream']",2,23.17960354159119
+3499,"['rolls/buns', 'dishes']",2,11.788347266915807
+3500,"['honey', 'flower_(seeds)']",2,19.464912213269702
+3501,"['whole_milk', 'pasta', 'long_life_bakery_product', 'chocolate']",4,45.78173020941244
+3502,"['other_vegetables', 'whole_milk', 'soda']",3,24.74302835180753
+3504,"['yogurt', 'napkins']",2,6.006047046626737
+3505,"['tropical_fruit', 'pip_fruit', 'grapes']",3,27.40923017775596
+3506,"['grapes', 'hard_cheese']",2,13.391041614012055
+3508,"['turkey', 'frozen_potato_products', 'soda']",3,26.836147309151393
+3509,"['whole_milk', 'cake_bar']",2,14.357137212076811
+3510,"['yogurt', 'specialty_chocolate']",2,11.192682896155304
+3511,"['curd', 'seasonal_products', 'female_sanitary_products']",3,17.600074449604143
+3514,"['tropical_fruit', 'whole_milk', 'salty_snack', 'kitchen_towels']",4,36.84920793083023
+3515,"['grapes', 'brown_bread']",2,14.329681067511814
+3516,"['berries', 'whole_milk']",2,16.5228711636747
+3519,"['whole_milk', 'ice_cream', 'soda']",3,26.698959050677168
+3520,"['beef', 'soft_cheese', 'chewing_gum']",3,23.864383921911642
+3521,"['other_vegetables', 'butter']",2,17.642432520846498
+3523,"['bottled_water', 'long_life_bakery_product']",2,17.875318735395524
+3524,"['berries', 'frozen_vegetables', 'frozen_meals']",3,28.599973240145417
+3525,"['frankfurter', 'other_vegetables']",2,22.509768847876607
+3526,"['frozen_meals', 'soda', 'napkins']",3,21.265100842359015
+3527,"['whole_milk', 'brown_bread', 'flower_(seeds)']",3,26.07147222707768
+3530,"['bottled_water', 'soda']",2,10.589715817895526
+3531,"['curd', 'whipped/sour_cream']",2,8.697461983145697
+3532,"['frankfurter', 'rolls/buns', 'ketchup', 'soda']",4,24.004556568713596
+3533,"['pip_fruit', 'bottled_water', 'candy']",3,26.66811591020572
+3534,"['soda', 'specialty_chocolate', 'male_cosmetics', 'shopping_bags']",4,26.52995606143089
+3537,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+3542,"['pip_fruit', 'uht-milk', 'curd_cheese', 'coffee']",4,43.6978209306676
+3543,"['yogurt', 'soda']",2,11.06241601992126
+3544,"['rolls/buns', 'soda']",2,9.133026098412913
+3546,"['domestic_eggs', 'pastry', 'margarine', 'cooking_chocolate']",4,22.162041317897632
+3548,"['butter_milk', 'brown_bread', 'pastry']",3,27.063468727258275
+3549,"['whole_milk', 'curd', 'semi-finished_bread']",3,13.492363733629805
+3550,"['citrus_fruit', 'whole_milk', 'domestic_eggs']",3,19.971142281686777
+3551,"['uht-milk', 'sugar', 'soda']",3,16.705321548647447
+3554,"['salt', 'detergent']",2,11.860052593996675
+3555,"['other_vegetables', 'whole_milk', 'frozen_vegetables']",3,24.629852543071465
+3558,"['curd', 'rolls/buns', 'pastry']",3,14.197236517338341
+3559,"['soda', 'fruit/vegetable_juice', 'long_life_bakery_product']",3,27.69708337695642
+3560,"['ice_cream', 'brown_bread', 'pastry', 'napkins']",4,34.91281554523986
+3561,"['berries', 'yogurt', 'domestic_eggs', 'rolls/buns']",4,15.926419708909705
+3562,"['beef', 'white_bread']",2,21.239941318868684
+3563,"['whole_milk', 'rolls/buns', 'white_bread', 'soap']",4,19.379583162019365
+3564,"['citrus_fruit', 'whole_milk', 'snack_products']",3,24.30076042048166
+3565,"['frankfurter', 'tropical_fruit', 'whole_milk']",3,30.484032506982054
+3568,"['beef', 'margarine']",2,23.446929152641125
+3569,"['whole_milk', 'specialty_bar']",2,19.293780768831795
+3570,"['whole_milk', 'pastry', 'cocoa_drinks', 'newspapers']",4,35.77254267527825
+3572,"['pip_fruit', 'coffee']",2,24.441942069952965
+3574,"['root_vegetables', 'whole_milk', 'curd', 'yogurt']",4,15.874234617032386
+3575,"['root_vegetables', 'yogurt', 'brown_bread', 'shopping_bags']",4,26.953132532506643
+3577,"['chicken', 'pastry']",2,10.89912708552502
+3579,"['whole_milk', 'dessert']",2,14.172296639903973
+3582,"['yogurt', 'syrup', 'chewing_gum', 'newspapers']",4,24.944184083560415
+3583,"['pet_care', 'soda', 'chocolate', 'candy']",4,28.845073357340233
+3584,"['beef', 'berries', 'yogurt', 'whipped/sour_cream']",4,29.8978973539172
+3585,"['yogurt', 'frozen_vegetables', 'shopping_bags']",3,21.08957763176966
+3588,"['hard_cheese', 'frozen_meals']",2,22.440404686602157
+3589,"['beef', 'root_vegetables', 'bottled_water']",3,16.28413715622419
+3590,"['beverages', 'domestic_eggs', 'misc._beverages']",3,12.11904518677827
+3593,"['citrus_fruit', 'grapes']",2,15.237849628871883
+3595,"['pastry', 'soda', 'chocolate']",3,25.644978206941236
+3596,"['citrus_fruit', 'yogurt', 'newspapers']",3,27.594664720435055
+3597,"['nuts/prunes', 'soda', 'chocolate']",3,27.7492522354675
+3599,"['pastry', 'soda', 'specialty_bar']",3,28.238977358198632
+3600,"['root_vegetables', 'spices', 'kitchen_towels']",3,14.128486904882589
+3602,"['curd_cheese', 'frozen_meals']",2,26.361682061295646
+3603,"['butter_milk', 'sliced_cheese']",2,9.456562355847336
+3604,"['sliced_cheese', 'rolls/buns', 'specialty_chocolate']",3,11.790349447497992
+3605,"['fruit/vegetable_juice', 'chocolate']",2,15.712615592542065
+3607,"['pip_fruit', 'butter_milk', 'cream_cheese', 'rolls/buns']",4,26.774063566121864
+3608,"['pip_fruit', 'butter', 'rolls/buns', 'chocolate']",4,31.681881723741327
+3609,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+3611,"['soda', 'specialty_chocolate']",2,14.665175984318035
+3613,"['packaged_fruit/vegetables', 'canned_fish']",2,15.743786319551532
+3615,"['berries', 'soda', 'waffles']",3,31.374104477279893
+3617,"['tropical_fruit', 'soda']",2,18.989817258103464
+3618,"['grapes', 'salty_snack']",2,10.068092624054865
+3619,"['margarine', 'long_life_bakery_product']",2,26.463460945323
+3620,"['beef', 'frozen_meals', 'dog_food']",3,25.706948213794004
+3621,"['butter', 'pastry', 'long_life_bakery_product', 'shopping_bags']",4,40.26547040334179
+3622,"['rolls/buns', 'bottled_water', 'specialty_chocolate']",3,12.585554238500487
+3623,"['brown_bread', 'salty_snack']",2,18.923378421607794
+3624,"['butter_milk', 'specialty_bar', 'napkins']",3,21.57063485617081
+3625,"['tropical_fruit', 'pastry', 'soda', 'chocolate']",4,37.36734091100271
+3627,"['tropical_fruit', 'ketchup', 'shopping_bags']",3,24.836298168430783
+3629,"['beef', 'root_vegetables', 'waffles', 'newspapers']",4,38.70844328900197
+3630,"['chewing_gum', 'seasonal_products']",2,6.112312639266364
+3633,"['tropical_fruit', 'rolls/buns']",2,13.587934248432386
+3635,"['whole_milk', 'cocoa_drinks', 'shopping_bags']",3,26.072349423469767
+3636,"['rolls/buns', 'margarine']",2,13.775975018151925
+3637,"['yogurt', 'dish_cleaner', 'candles']",3,12.484854863624719
+3639,"['pastry', 'chocolate', 'chocolate_marshmallow']",3,22.732638094062274
+3640,"['beverages', 'rolls/buns', 'fruit/vegetable_juice']",3,13.613808633248945
+3641,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+3643,"['ice_cream', 'specialty_bar']",2,24.997810512657452
+3645,"['packaged_fruit/vegetables', 'whipped/sour_cream']",2,18.8453687602126
+3646,"['yogurt', 'rolls/buns', 'specialty_bar']",3,18.09057640267722
+3647,"['tropical_fruit', 'pastry', 'fruit/vegetable_juice']",3,26.140413467163498
+3649,"['citrus_fruit', 'pastry']",2,21.042131405622044
+3650,"['whole_milk', 'pastry', 'semi-finished_bread']",3,18.24365758412159
+3651,"['whole_milk', 'specialty_chocolate']",2,14.261458806680798
+3653,"['other_vegetables', 'condensed_milk', 'soda', 'newspapers']",4,39.39064515896252
+3654,"['whole_milk', 'coffee', 'chocolate', 'shopping_bags']",4,38.33239126939678
+3655,"['male_cosmetics', 'napkins']",2,3.935528237275864
+3662,"['whole_milk', 'ice_cream', 'prosecco']",3,26.40077049245862
+3663,"['citrus_fruit', 'prosecco', 'specialty_bar', 'shopping_bags']",4,42.040298802727385
+3669,"['berries', 'yogurt', 'specialty_cheese']",3,24.428305836797733
+3671,"['whole_milk', 'yogurt', 'roll_products']",3,23.579605961623468
+3674,"['meat', 'frozen_vegetables', 'soda']",3,26.995567142186566
+3675,"['grapes', 'chocolate']",2,12.57324187614908
+3677,"['whole_milk', 'domestic_eggs']",2,7.470490287794338
+3678,"['tropical_fruit', 'pip_fruit']",2,24.672032542776513
+3679,"['whole_milk', 'butter_milk', 'cream_cheese', 'fruit/vegetable_juice']",4,24.699130910813082
+3680,"['chicken', 'butter']",2,9.38824377328114
+3681,"['other_vegetables', 'roll_products']",2,23.53274354070022
+3682,"['citrus_fruit', 'hard_cheese']",2,23.15449597292505
+3684,"['candy', 'hygiene_articles']",2,20.528731142384263
+3685,"['grapes', 'rolls/buns', 'long_life_bakery_product', 'candy']",4,29.552011458529503
+3692,"['white_bread', 'specialty_bar']",2,22.133459032435603
+3693,"['beverages', 'rolls/buns', 'bottled_water']",3,11.059498545730047
+3694,"['soda', 'specialty_chocolate', 'shopping_bags']",3,24.8055134049025
+3695,"['tropical_fruit', 'waffles', 'newspapers']",3,37.46893010069278
+3696,"['rolls/buns', 'soda']",2,9.133026098412913
+3698,"['other_vegetables', 'frozen_meals', 'soda']",3,29.665851682972317
+3699,"['root_vegetables', 'yogurt', 'uht-milk', 'rolls/buns']",4,11.766640730749266
+3700,"['whole_milk', 'napkins']",2,9.07482295715223
+3702,"['artif._sweetener', 'coffee']",2,17.884881722118944
+3704,"['coffee', 'syrup']",2,20.513118527814747
+3706,"['onions', 'fruit/vegetable_juice']",2,14.623318692689388
+3707,"['beef', 'other_vegetables', 'whole_milk', 'ice_cream']",4,41.579866596856064
+3708,"['chewing_gum', 'napkins']",2,3.040410641188449
+3709,"['rolls/buns', 'dishes']",2,11.788347266915807
+3710,"['whole_milk', 'frozen_vegetables']",2,14.018016121710687
+3712,"['uht-milk', 'specialty_bar']",2,17.110800899415572
+3713,"['beverages', 'cream_cheese']",2,10.900982037545194
+3715,"['root_vegetables', 'whole_milk', 'long_life_bakery_product', 'cling_film/bags']",4,31.45064889226579
+3717,"['tropical_fruit', 'yogurt', 'bottled_water', 'specialty_chocolate']",4,26.2373068640703
+3720,"['onions', 'whipped/sour_cream', 'newspapers']",3,24.953075023888186
+3722,"['whole_milk', 'soda', 'fruit/vegetable_juice', 'shopping_bags']",4,30.148100702403646
+3724,"['meat', 'whole_milk', 'domestic_eggs', 'pastry']",4,28.585803542362587
+3725,"['other_vegetables', 'condensed_milk', 'soda', 'misc._beverages']",4,33.73222043618227
+3727,"['whole_milk', 'brown_bread', 'salt', 'sugar']",4,33.938228286635905
+3728,"['whole_milk', 'butter']",2,13.894333475890482
+3730,"['herbs', 'butter', 'chocolate']",3,20.1139750473775
+3732,"['rolls/buns', 'soda', 'female_sanitary_products']",3,17.65992740795385
+3735,"['root_vegetables', 'yogurt', 'soda', 'popcorn']",4,17.712233926435005
+3738,"['yogurt', 'flour', 'sugar', 'baking_powder']",4,20.641582850683754
+3740,"['pip_fruit', 'processed_cheese', 'bottled_water']",3,26.676140924584168
+3741,"['tropical_fruit', 'pip_fruit', 'frozen_meals', 'softener']",4,37.28924938027668
+3742,"['chicken', 'root_vegetables', 'whole_milk']",3,10.646735263710717
+3743,"['whole_milk', 'yogurt', 'bottled_water']",3,13.980960106137553
+3744,"['pip_fruit', 'newspapers']",2,24.248721099378393
+3745,"['beef', 'citrus_fruit', 'curd', 'butter_milk']",4,34.75686911698668
+3746,"['whole_milk', 'butter']",2,13.894333475890482
+3747,"['citrus_fruit', 'rolls/buns']",2,14.366223538263359
+3748,"['pastry', 'soda']",2,15.8089339657716
+3750,"['whole_milk', 'rolls/buns', 'pastry']",3,17.27078833250528
+3751,"['beverages', 'cream_cheese']",2,10.900982037545194
+3752,"['citrus_fruit', 'yogurt', 'newspapers']",3,27.594664720435055
+3753,"['berries', 'yogurt', 'whipped/sour_cream', 'sugar']",4,23.118481162673994
+3754,"['rolls/buns', 'soda']",2,9.133026098412913
+3755,"['beverages', 'processed_cheese', 'coffee']",3,27.76814779075911
+3758,"['curd_cheese', 'rolls/buns']",2,16.440692898097016
+3759,"['grapes', 'uht-milk']",2,7.417955141967983
+3760,"['pip_fruit', 'other_vegetables', 'margarine', 'photo/film']",4,38.8705786697459
+3763,"['rolls/buns', 'bottled_water']",2,5.187832808224448
+3764,"['pip_fruit', 'rolls/buns', 'soda', 'skin_care']",4,31.008082462783683
+3766,"['whole_milk', 'pastry']",2,15.405216788134362
+3770,"['domestic_eggs', 'rolls/buns', 'flour']",3,4.369993406986238
+3771,"['dessert', 'specialty_bar', 'newspapers']",3,31.037653916589598
+3772,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+3773,"['citrus_fruit', 'tropical_fruit', 'whole_milk', 'yogurt']",4,34.881713540237925
+3774,"['liver_loaf', 'curd', 'rolls/buns', 'newspapers']",4,30.542543116157795
+3775,"['frankfurter', 'frozen_dessert', 'rolls/buns']",3,18.3435704052057
+3776,"['whole_milk', 'napkins']",2,9.07482295715223
+3777,"['whole_milk', 'shopping_bags']",2,17.004074796989222
+3780,"['grapes', 'pastry', 'coffee', 'hair_spray']",4,25.29736029028196
+3783,"['pip_fruit', 'cream_cheese', 'rolls/buns']",3,19.84455768312556
+3784,"['tropical_fruit', 'whole_milk', 'yogurt']",3,22.381061546345492
+3785,"['whipped/sour_cream', 'frozen_vegetables', 'flour', 'flower_(seeds)']",4,21.5744755365801
+3786,"['tropical_fruit', 'pasta', 'candy']",3,36.64743863199466
+3787,"['frankfurter', 'pip_fruit', 'other_vegetables', 'yogurt']",4,39.25440015247092
+3789,"['berries', 'whipped/sour_cream']",2,14.566410209177818
+3790,"['chicken', 'whole_milk', 'rolls/buns', 'pasta']",4,25.615847714867137
+3792,"['other_vegetables', 'chocolate']",2,20.447880662530412
+3793,"['frankfurter', 'yogurt', 'domestic_eggs']",3,16.299646803784675
+3795,"['soda', 'chocolate', 'candy']",3,27.499683602848776
+3797,"['tropical_fruit', 'beverages']",2,17.59402844156707
+3798,"['butter', 'rolls/buns', 'soda', 'specialty_bar']",4,28.593665590325674
+3799,"['other_vegetables', 'rolls/buns', 'canned_fish']",3,14.283101946978498
+3801,"['curd', 'zwieback']",2,9.814993339636816
+3802,"['whole_milk', 'shopping_bags']",2,17.004074796989222
+3803,"['frozen_meals', 'cereals', 'shopping_bags']",3,31.522876318339442
+3805,"['soda', 'chocolate']",2,17.10349879521163
+3807,"['frozen_vegetables', 'specialty_chocolate']",2,14.55200017558197
+3808,"['yogurt', 'frozen_vegetables', 'cat_food']",3,18.714389450183965
+3809,"['whole_milk', 'yogurt', 'pastry', 'waffles']",4,33.64769438998159
+3811,"['yogurt', 'dog_food', 'newspapers']",3,17.47787455390695
+3812,"['tropical_fruit', 'berries', 'whipped/sour_cream']",3,26.28877291323929
+3813,"['grapes', 'cream_cheese']",2,7.766513935019039
+3815,"['frankfurter', 'tropical_fruit']",2,23.620295130577297
+3817,"['baking_powder', 'misc._beverages', 'shopping_bags']",3,25.972806904429394
+3819,"['processed_cheese', 'soda']",2,17.671664376057585
+3820,"['jam', 'cocoa_drinks', 'soda']",3,18.035314179397897
+3821,"['pip_fruit', 'hygiene_articles']",2,23.082216173462164
+3823,"['whole_milk', 'canned_fish', 'cat_food', 'pet_care']",4,17.77997035114179
+3824,"['chewing_gum', 'shopping_bags']",2,10.969662481025443
+3825,"['chicken', 'other_vegetables', 'whole_milk', 'pastry']",4,28.37470088329055
+3828,"['yogurt', 'tea', 'fruit/vegetable_juice', 'hygiene_articles']",4,28.594135911451904
+3829,"['whole_milk', 'beverages']",2,12.735403113910358
+3830,"['beverages', 'rolls/buns', 'chewing_gum']",3,8.566562342317495
+3832,"['pastry', 'oil']",2,20.36205036154814
+3833,"['processed_cheese', 'bottled_water', 'soda']",3,20.99392563991112
+3835,"['beef', 'other_vegetables', 'waffles', 'pot_plants']",4,51.24240233492181
+3837,"['soda', 'misc._beverages', 'salty_snack', 'chewing_gum']",4,21.068301141441484
+3839,"['beef', 'tropical_fruit', 'yogurt']",3,27.05384984880085
+3841,"['soda', 'specialty_chocolate']",2,14.665175984318035
+3843,"['tropical_fruit', 'root_vegetables', 'other_vegetables', 'napkins']",4,25.970634919680258
+3847,"['rolls/buns', 'soda']",2,9.133026098412913
+3848,"['rolls/buns', 'soda', 'detergent']",3,10.26818070232773
+3849,"['chicken', 'other_vegetables', 'rolls/buns', 'shopping_bags']",4,24.975393060111575
+3853,"['whole_milk', 'salty_snack']",2,14.19463236548018
+3855,"['whole_milk', 'soda', 'cleaner']",3,20.96989475409555
+3856,"['processed_cheese', 'brown_bread']",2,21.996693254547964
+3857,"['curd', 'dishes']",2,13.71296128378271
+3858,"['chicken', 'other_vegetables']",2,12.96948409515619
+3859,"['finished_products', 'pip_fruit', 'yogurt', 'chocolate']",4,29.289201035104888
+3860,"['rolls/buns', 'soda', 'cleaner']",3,15.971728922061708
+3861,"['fruit/vegetable_juice', 'pot_plants', 'shopping_bags']",3,30.663432870689853
+3862,"['other_vegetables', 'dessert', 'white_bread']",3,27.623811324868555
+3863,"['frozen_vegetables', 'frozen_fish']",2,19.020802777348926
+3864,"['frozen_vegetables', 'seasonal_products', 'hygiene_articles', 'newspapers']",4,33.86886391954178
+3865,"['yogurt', 'rolls/buns']",2,5.660533010250183
+3866,"['other_vegetables', 'yogurt', 'whipped/sour_cream', 'waffles']",4,33.76159044511588
+3867,"['rolls/buns', 'soda']",2,9.133026098412913
+3868,"['chicken', 'long_life_bakery_product', 'chocolate']",3,26.746749386507048
+3871,"['tropical_fruit', 'pip_fruit']",2,24.672032542776513
+3872,"['frozen_dessert', 'soda']",2,11.847520988360944
+3873,"['yogurt', 'frozen_fish', 'rolls/buns']",3,17.52705704229318
+3874,"['ice_cream', 'white_bread', 'candles']",3,28.80039009171282
+3875,"['tropical_fruit', 'dishes']",2,21.64513842660636
+3876,"['pasta', 'soda', 'long_life_bakery_product']",3,36.34940314588004
+3877,"['soda', 'misc._beverages', 'waffles', 'shopping_bags']",4,37.495934648477515
+3879,"['chewing_gum', 'chocolate', 'specialty_chocolate']",3,18.063090731886653
+3881,"['waffles', 'chocolate']",2,24.283560377137597
+3884,"['long_life_bakery_product', 'detergent']",2,15.688212075456812
+3885,"['pastry', 'margarine', 'candy']",3,30.848067693147755
+3887,"['coffee', 'shopping_bags']",2,21.632609651822385
+3890,"['whole_milk', 'condensed_milk']",2,17.07604029930116
+3891,"['tropical_fruit', 'whole_milk', 'chocolate', 'newspapers']",4,39.72119558229921
+3892,"['curd', 'chewing_gum', 'specialty_chocolate', 'newspapers']",4,23.316283312618182
+3893,"['whole_milk', 'frozen_meals', 'ice_cream']",3,31.21806520420472
+3894,"['other_vegetables', 'frozen_vegetables', 'ice_cream']",3,30.333882286897122
+3895,"['frankfurter', 'curd', 'soda']",3,22.955572541795647
+3896,"['cat_food', 'soda', 'specialty_chocolate']",3,22.430325223316807
+3897,"['whole_milk', 'bottled_water']",2,10.185998640258289
+3900,"['yogurt', 'cake_bar']",2,11.28836130155132
+3901,"['butter_milk', 'rolls/buns']",2,8.79507742736722
+3902,"['coffee', 'soda', 'chocolate_marshmallow']",3,23.114841226442948
+3903,"['frozen_meals', 'ice_cream', 'brown_bread']",3,35.94681126033233
+3905,"['tropical_fruit', 'bottled_water']",2,15.044623967915
+3910,"['other_vegetables', 'uht-milk', 'sugar', 'soda']",4,27.317157970008225
+3911,"['meat', 'yogurt', 'napkins']",3,18.57988088946538
+3912,"['tropical_fruit', 'white_bread', 'spices', 'instant_food_products']",4,31.892625718130738
+3915,"['rolls/buns', 'soda']",2,9.133026098412913
+3916,"['pastry', 'soda', 'waffles']",3,30.25645010173956
+3921,"['whole_milk', 'baking_powder', 'bottled_water', 'newspapers']",4,31.676892846883476
+3922,"['whole_milk', 'dessert']",2,14.172296639903973
+3923,"['margarine', 'candles', 'newspapers']",3,29.73866206591819
+3924,"['chicken', 'root_vegetables', 'uht-milk', 'specialty_chocolate']",4,15.861476824570538
+3925,"['root_vegetables', 'other_vegetables', 'whole_milk', 'flour']",4,20.798592962501814
+3927,"['whipped/sour_cream', 'rolls/buns', 'pastry', 'bottled_water']",4,18.63658864186193
+3928,"['cream_cheese', 'zwieback']",2,11.05412407843859
+3929,"['citrus_fruit', 'root_vegetables', 'butter_milk', 'oil']",4,32.676079040217815
+3932,"['curd', 'yogurt']",2,7.585147027117085
+3934,"['beverages', 'rolls/buns']",2,7.737237281876517
+3935,"['soda', 'fruit/vegetable_juice', 'long_life_bakery_product']",3,27.69708337695642
+3937,"['chicken', 'tropical_fruit', 'other_vegetables', 'shopping_bags']",4,34.83218421980212
+3938,"['rolls/buns', 'canned_fish', 'soda', 'newspapers']",4,22.237771340323068
+3939,"['semi-finished_bread', 'fruit/vegetable_juice', 'newspapers']",3,20.014063408023006
+3941,"['condensed_milk', 'coffee']",2,21.70457515413432
+3943,"['whole_milk', 'pastry']",2,15.405216788134362
+3944,"['citrus_fruit', 'newspapers']",2,23.799703254555787
+3945,"['grapes', 'berries', 'waffles']",3,26.843847558217345
+3947,"['chicken', 'citrus_fruit', 'root_vegetables']",3,16.283649881198397
+3948,"['root_vegetables', 'sugar', 'cat_food']",3,13.947608940126226
+3950,"['tropical_fruit', 'butter_milk']",2,18.65186858705777
+3951,"['spread_cheese', 'rolls/buns']",2,8.289236878378142
+3953,"['pip_fruit', 'semi-finished_bread', 'soups']",3,22.803852415787205
+3955,"['yogurt', 'pet_care']",2,5.140351220370722
+3957,"['other_vegetables', 'butter', 'margarine', 'specialty_fat']",4,36.661592197214866
+3958,"['beverages', 'cake_bar']",2,13.365065573177652
+3959,"['pip_fruit', 'whole_milk', 'domestic_eggs']",3,20.420160126509384
+3960,"['frozen_meals', 'frozen_fish']",2,23.653084739612545
+3962,"['butter', 'uht-milk', 'domestic_eggs', 'waffles']",4,26.765622653831805
+3963,"['pip_fruit', 'brown_bread']",2,24.542153271247415
+3964,"['other_vegetables', 'yogurt', 'whipped/sour_cream', 'white_bread']",4,29.017489949156484
+3965,"['beef', 'root_vegetables', 'other_vegetables', 'whole_milk']",4,30.43744969013619
+3967,"['rolls/buns', 'soda', 'waffles', 'newspapers']",4,34.87959349504422
+3969,"['beef', 'rolls/buns']",2,13.402097223231035
+3971,"['soda', 'chocolate']",2,17.10349879521163
+3972,"['whole_milk', 'bottled_water']",2,10.185998640258289
+3973,"['brown_bread', 'pastry', 'long_life_bakery_product']",3,34.68702031580397
+3975,"['chicken', 'citrus_fruit', 'other_vegetables']",3,25.47013608904863
+3977,"['curd', 'yogurt']",2,7.585147027117085
+3978,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+3980,"['beef', 'other_vegetables', 'newspapers']",3,33.44741336088424
+3982,"['chocolate', 'candy']",2,20.23222904880678
+3983,"['uht-milk', 'candy', 'napkins']",3,17.288027895373155
+3985,"['rolls/buns', 'fruit/vegetable_juice', 'specialty_chocolate', 'newspapers']",4,26.438915586682732
+3987,"['grapes', 'root_vegetables', 'other_vegetables', 'domestic_eggs']",4,15.38113718124034
+3989,"['beef', 'yogurt', 'margarine']",3,27.241890618520387
+3990,"['canned_fish', 'fruit/vegetable_juice', 'make_up_remover']",3,12.99001579408624
+3991,"['whole_milk', 'pastry', 'sugar', 'newspapers']",4,31.461377536414624
+3992,"['rolls/buns', 'soda']",2,9.133026098412913
+3993,"['liver_loaf', 'root_vegetables', 'other_vegetables']",3,25.624921384757023
+3997,"['whole_milk', 'curd', 'hard_cheese', 'bottled_water']",4,24.630028180528722
+3998,"['soda', 'chocolate', 'specialty_bar', 'napkins']",4,31.744627768386138
+4001,"['frankfurter', 'chicken', 'citrus_fruit', 'root_vegetables']",4,28.181582307714226
+4004,"['rolls/buns', 'house_keeping_products', 'light_bulbs']",3,17.780344877911595
+4005,"['beef', 'packaged_fruit/vegetables', 'pot_plants']",3,40.121142115897804
+4006,"['semi-finished_bread', 'instant_coffee']",2,6.272709585518065
+4007,"['chicken', 'beef', 'rolls/buns', 'instant_coffee']",4,19.19401368655729
+4008,"['pastry', 'soda', 'shopping_bags']",3,25.949271386356067
+4010,"['beverages', 'popcorn']",2,11.096133430508802
+4011,"['other_vegetables', 'whole_milk', 'rice', 'fruit/vegetable_juice']",4,37.450628746275214
+4012,"['tropical_fruit', 'shopping_bags']",2,21.862700124645933
+4014,"['pastry', 'coffee', 'waffles']",3,34.48126777893548
+4016,"['chicken', 'beef', 'flour', 'salty_snack']",4,23.122737292956693
+4017,"['pip_fruit', 'grapes']",2,15.68686747369449
+4019,"['citrus_fruit', 'other_vegetables', 'domestic_eggs', 'shopping_bags']",4,33.85957874722726
+4022,"['frozen_meals', 'cat_food', 'hair_spray']",3,22.078120958903312
+4024,"['ice_cream', 'bottled_water', 'soda']",3,23.15748293812594
+4025,"['processed_cheese', 'soda', 'shopping_bags']",3,27.81200179664205
+4027,"['grapes', 'popcorn']",2,7.961665327982646
+4029,"['tropical_fruit', 'yogurt', 'cream_cheese', 'long_life_bakery_product']",4,35.09969794152232
+4030,"['citrus_fruit', 'margarine']",2,24.411055467673446
+4031,"['whipped/sour_cream', 'salt']",2,15.632174411989736
+4032,"['bottled_water', 'napkins']",2,5.533346844601002
+4033,"['grapes', 'misc._beverages', 'fruit/vegetable_juice']",3,14.254395524234964
+4034,"['frankfurter', 'processed_cheese']",2,22.30214224853142
+4036,"['root_vegetables', 'other_vegetables']",2,12.037186634871318
+4039,"['other_vegetables', 'whole_milk', 'napkins']",3,19.686659378513006
+4040,"['beef', 'whipped/sour_cream']",2,16.443802100767996
+4042,"['other_vegetables', 'cream_cheese']",2,15.64115272140037
+4043,"['curd', 'yogurt']",2,7.585147027117085
+4044,"['citrus_fruit', 'domestic_eggs', 'bottled_water', 'soda']",4,23.697120723177548
+4045,"['whole_milk', 'newspapers']",2,18.162788637068108
+4046,"['frozen_dessert', 'semi-finished_bread']",2,7.418507230306176
+4048,"['fruit/vegetable_juice', 'cake_bar', 'newspapers']",3,24.66902244770783
+4051,"['soda', 'salty_snack', 'specialty_chocolate']",3,21.996070973393458
+4053,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+4055,"['other_vegetables', 'butter', 'rolls/buns', 'flower_(seeds)']",4,27.12325548335797
+4057,"['whole_milk', 'waffles']",2,21.31125351237272
+4058,"['salty_snack', 'candy']",2,17.727079796712566
+4059,"['pip_fruit', 'chocolate_marshmallow']",2,17.304784279878078
+4061,"['whole_milk', 'butter', 'domestic_eggs', 'baking_powder']",4,24.6929293332419
+4063,"['pip_fruit', 'specialty_bar']",2,25.37971323114208
+4064,"['root_vegetables', 'yogurt']",2,5.220311679389807
+4071,"['chocolate', 'candy', 'shopping_bags']",3,30.372566469391245
+4072,"['other_vegetables', 'fruit/vegetable_juice', 'chewing_gum']",3,17.31773283317418
+4074,"['frankfurter', 'whole_milk', 'frozen_vegetables', 'fruit/vegetable_juice']",4,31.792519899598943
+4075,"['citrus_fruit', 'other_vegetables', 'spread_cheese']",3,29.536153749260443
+4076,"['whipped/sour_cream', 'cream_cheese']",2,9.936592721947473
+4077,"['butter_milk', 'yogurt', 'salty_snack', 'specialty_chocolate']",4,25.453083768227028
+4078,"['pastry', 'soda']",2,15.8089339657716
+4080,"['whole_milk', 'domestic_eggs', 'brown_bread', 'pastry']",4,27.604453132056314
+4081,"['yogurt', 'cereals', 'specialty_bar']",3,25.820983048491726
+4082,"['cream_cheese', 'chocolate_marshmallow']",2,9.384430741202628
+4085,"['frankfurter', 'whole_milk', 'yogurt', 'napkins']",4,24.767716849547323
+4088,"['cereals', 'salty_snack']",2,16.92687317926085
+4089,"['tropical_fruit', 'yogurt', 'soda']",3,22.78477872398273
+4090,"['whole_milk', 'brown_bread', 'margarine']",3,30.366624282718135
+4092,"['tropical_fruit', 'whole_milk']",2,18.586100080466228
+4095,"['rolls/buns', 'sugar']",2,6.62268103198783
+4097,"['grapes', 'other_vegetables', 'butter', 'newspapers']",4,31.67868141648929
+4100,"['root_vegetables', 'whole_milk', 'brown_bread', 'margarine']",4,31.79197449622868
+4101,"['whole_milk', 'domestic_eggs']",2,7.470490287794338
+4102,"['meat', 'citrus_fruit', 'whole_milk']",3,31.938223213135842
+4103,"['grapes', 'other_vegetables', 'pastry', 'dish_cleaner']",4,24.05119953434144
+4106,"['frozen_vegetables', 'pasta', 'bottled_water', 'soda']",4,32.2728856834975
+4108,"['baking_powder', 'newspapers', 'flower_(seeds)']",3,29.106145624765738
+4109,"['curd', 'bottled_water', 'soda']",3,14.379901379133344
+4111,"['meat', 'dessert', 'uht-milk', 'fruit/vegetable_juice']",4,30.439721964698826
+4114,"['pet_care', 'bottled_water', 'misc._beverages', 'shopping_bags']",4,20.448614976812543
+4115,"['rolls/buns', 'photo/film']",2,5.264240480259989
+4119,"['berries', 'root_vegetables', 'whipped/sour_cream', 'soda']",4,23.259214976730355
+4121,"['yogurt', 'abrasive_cleaner']",2,5.794304497856263
+4122,"['rolls/buns', 'pickled_vegetables', 'chewing_gum', 'specialty_chocolate']",4,22.261701218791565
+4124,"['frankfurter', 'other_vegetables', 'whole_milk', 'whipped/sour_cream']",4,34.28078264618924
+4125,"['meat', 'citrus_fruit', 'hard_cheese', 'soda']",4,42.99578436980569
+4126,"['berries', 'other_vegetables', 'semi-finished_bread']",3,23.10941100461794
+4127,"['meat', 'specialty_chocolate']",2,19.97155527311468
+4128,"['pastry', 'fruit/vegetable_juice']",2,14.418050763102032
+4130,"['pip_fruit', 'coffee']",2,24.441942069952965
+4131,"['root_vegetables', 'white_bread', 'chewing_gum']",3,11.958090913960087
+4132,"['yogurt', 'long_life_bakery_product', 'photo/film', 'pot_plants']",4,36.39321197204329
+4133,"['berries', 'herbs', 'pot_plants']",3,27.552992592725044
+4134,"['citrus_fruit', 'cream_cheese']",2,17.529968293932036
+4135,"['frankfurter', 'rolls/buns']",2,13.763503970886749
+4139,"['cleaner', 'female_sanitary_products']",2,15.365604133189734
+4140,"['beef', 'root_vegetables', 'yogurt', 'whipped/sour_cream']",4,21.664113780157802
+4141,"['bottled_water', 'napkins']",2,5.533346844601002
+4144,"['other_vegetables', 'whole_milk', 'soda', 'shopping_bags']",4,34.883365772392
+4147,"['root_vegetables', 'herbs', 'whipped/sour_cream', 'domestic_eggs']",4,10.186714253530141
+4148,"['butter', 'bottled_water', 'detergent', 'soap']",4,12.434870568489192
+4149,"['root_vegetables', 'whole_milk', 'long_life_bakery_product']",3,22.842145061457295
+4150,"['citrus_fruit', 'whipped/sour_cream', 'pastry']",3,25.94940782752992
+4154,"['pastry', 'oil', 'margarine']",3,32.272453835329145
+4155,"['citrus_fruit', 'domestic_eggs']",2,13.10740490528202
+4156,"['soda', 'specialty_chocolate']",2,14.665175984318035
+4157,"['roll_products', 'newspapers']",2,24.219958380002794
+4158,"['other_vegetables', 'zwieback', 'soda', 'chewing_gum']",4,24.733423814242744
+4159,"['chicken', 'root_vegetables', 'long_life_bakery_product']",3,18.336055358847954
+4160,"['chicken', 'coffee']",2,13.849919905033335
+4162,"['specialty_cheese', 'baking_powder', 'waffles', 'chocolate']",4,45.44961390674796
+4163,"['seasonal_products', 'shopping_bags']",2,15.423324999409854
+4165,"['rolls/buns', 'newspapers']",2,13.164622805034266
+4166,"['whole_milk', 'soda']",2,14.131191930446754
+4167,"['ice_cream', 'bottled_water', 'soda']",3,23.15748293812594
+4169,"['chicken', 'newspapers']",2,13.656698934458763
+4172,"['berries', 'waffles', 'specialty_chocolate']",3,31.504371353513942
+4173,"['yogurt', 'whipped/sour_cream']",2,8.702237887787142
+4178,"['uht-milk', 'pastry', 'margarine']",3,25.132640392499148
+4179,"['other_vegetables', 'yogurt']",2,14.40679788724004
+4180,"['liver_loaf', 'rolls/buns']",2,15.453306294256624
+4181,"['butter_milk', 'hard_cheese', 'instant_coffee']",3,21.017618651559754
+4183,"['rolls/buns', 'pickled_vegetables', 'specialty_bar', 'dental_care']",4,29.52790347312044
+4184,"['frankfurter', 'whole_milk', 'pastry', 'potato_products']",4,37.40093867819017
+4185,"['frankfurter', 'root_vegetables', 'other_vegetables', 'hard_cheese']",4,34.588963040419756
+4186,"['whole_milk', 'zwieback', 'soda']",3,20.155999708845748
+4187,"['frankfurter', 'whole_milk']",2,18.761669802920586
+4188,"['dessert', 'rolls/buns', 'soda']",3,16.44158536191213
+4189,"['other_vegetables', 'whole_milk']",2,17.475573797765534
+4190,"['oil', 'hygiene_articles']",2,21.953117284565653
+4192,"['tropical_fruit', 'curd']",2,15.512548265299289
+4195,"['domestic_eggs', 'rolls/buns', 'margarine']",3,14.382727929541504
+4196,"['tropical_fruit', 'other_vegetables', 'soda']",3,29.601653679464242
+4197,"['root_vegetables', 'butter_milk', 'cream_cheese', 'spread_cheese']",4,19.807837730553665
+4200,"['other_vegetables', 'dessert', 'sugar']",3,22.677505172476902
+4202,"['other_vegetables', 'rolls/buns', 'fruit/vegetable_juice', 'cooking_chocolate']",4,19.45738483810156
+4203,"['citrus_fruit', 'pip_fruit', 'ice_cream', 'bottled_water']",4,41.34035021669143
+4204,"['tropical_fruit', 'rolls/buns', 'bottled_water']",3,16.910195512285917
+4205,"['napkins', 'candles']",2,8.740292912221312
+4206,"['whole_milk', 'yogurt', 'chocolate']",3,20.49474308345366
+4208,"['citrus_fruit', 'whole_milk', 'flour']",3,21.262058321522936
+4211,"['beef', 'other_vegetables', 'pastry']",3,30.689841511950497
+4213,"['meat', 'soda']",2,19.841288396880636
+4214,"['other_vegetables', 'whole_milk', 'white_bread', 'soda']",4,34.446443991816096
+4215,"['pip_fruit', 'frozen_vegetables', 'bottled_water']",3,23.426209847874507
+4216,"['brown_bread', 'oil', 'dishes']",3,33.3358301048958
+4221,"['other_vegetables', 'whipped/sour_cream', 'rolls/buns']",3,17.38468438763957
+4224,"['uht-milk', 'soda']",2,11.948212061030535
+4225,"['citrus_fruit', 'whole_milk', 'pastry']",3,27.9058687820268
+4226,"['uht-milk', 'bottled_water']",2,8.00301877084207
+4227,"['whole_milk', 'domestic_eggs', 'specialty_chocolate']",3,14.868211718070377
+4228,"['beef', 'other_vegetables', 'pasta', 'instant_food_products']",4,45.373176764494175
+4229,"['berries', 'other_vegetables', 'yogurt', 'whipped/sour_cream']",4,28.973208096417856
+4232,"['chicken', 'whole_milk', 'white_bread']",3,18.92480069020874
+4233,"['napkins', 'dishes']",2,12.133861303292361
+4234,"['coffee', 'dish_cleaner']",2,13.652958297509535
+4236,"['soap', 'dishes']",2,10.86963432378001
+4237,"['yogurt', 'soda']",2,11.06241601992126
+4240,"['whole_milk', 'pastry', 'soda', 'specialty_bar']",4,35.102714734603396
+4241,"['detergent', 'flower_(seeds)']",2,8.75040602205537
+4243,"['tropical_fruit', 'curd', 'newspapers']",3,26.811599525962638
+4244,"['meat', 'other_vegetables']",2,23.185670264199416
+4246,"['beverages', 'chocolate']",2,15.707709978675236
+4248,"['whole_milk', 'newspapers']",2,18.162788637068108
+4250,"['liver_loaf', 'whole_milk', 'curd', 'frozen_meals']",4,36.02821839509783
+4254,"['frankfurter', 'light_bulbs']",2,24.20122800417333
+4255,"['yogurt', 'frozen_vegetables']",2,10.949240211185195
+4258,"['other_vegetables', 'uht-milk']",2,15.292593928349316
+4261,"['tropical_fruit', 'root_vegetables', 'rolls/buns']",3,15.01328446194293
+4266,"['whole_milk', 'soda']",2,14.131191930446754
+4267,"['onions', 'whole_milk', 'coffee']",3,27.102756948959637
+4271,"['other_vegetables', 'whole_milk', 'soda', 'specialty_bar']",4,37.17307174423456
+4272,"['cream_cheese', 'white_bread', 'instant_food_products', 'fruit/vegetable_juice']",4,29.305226835397825
+4274,"['curd', 'specialty_chocolate']",2,11.18790699151386
+4275,"['curd', 'yogurt']",2,7.585147027117085
+4276,"['other_vegetables', 'butter_milk', 'yogurt', 'fruit/vegetable_juice']",4,27.212875121608768
+4278,"['soda', 'fruit/vegetable_juice', 'chewing_gum']",3,13.973350965855401
+4279,"['other_vegetables', 'soda', 'specialty_bar']",3,30.309334367829806
+4280,"['root_vegetables', 'herbs', 'whole_milk']",3,11.536422296637443
+4281,"['bottled_water', 'soda', 'fruit/vegetable_juice']",3,16.466287169267954
+4283,"['pastry', 'margarine', 'specialty_bar', 'candy']",4,43.27811108557479
+4284,"['curd', 'soda']",2,11.057640115279815
+4285,"['whole_milk', 'brown_bread']",2,18.45622080893713
+4286,"['root_vegetables', 'butter_milk', 'specialty_cheese', 'specialty_bar']",4,31.759110072582406
+4287,"['whole_milk', 'cream_cheese', 'newspapers']",3,23.1921049371077
+4288,"['hygiene_articles', 'shopping_bags']",2,20.272883755331584
+4289,"['other_vegetables', 'specialty_cheese', 'bottled_water', 'chocolate']",4,34.74435251003247
+4290,"['other_vegetables', 'frozen_meals', 'specialty_chocolate']",3,29.796118559206363
+4292,"['tropical_fruit', 'misc._beverages']",2,17.36298924194456
+4293,"['other_vegetables', 'whole_milk', 'brown_bread', 'napkins']",4,31.279142811045375
+4294,"['whipped/sour_cream', 'canned_fish']",2,6.712970403154682
+4296,"['dessert', 'yogurt', 'soft_cheese', 'soda']",4,29.86950846603102
+4297,"['yogurt', 'artif._sweetener', 'fruit/vegetable_juice', 'shopping_bags']",4,26.204479728717182
+4298,"['tropical_fruit', 'curd', 'bottled_water', 'napkins']",4,21.04589510990029
+4299,"['meat', 'whole_milk', 'rolls/buns']",3,21.30314276361432
+4302,"['fish', 'whole_milk']",2,15.440703585353294
+4304,"['coffee', 'bottled_water', 'chocolate_marshmallow']",3,19.169647936254485
+4305,"['pastry', 'semi-finished_bread', 'sugar']",3,16.13702969533374
+4308,"['citrus_fruit', 'pastry']",2,21.042131405622044
+4310,"['rolls/buns', 'margarine']",2,13.775975018151925
+4311,"['butter', 'salt', 'margarine', 'sugar']",4,34.4230070509655
+4312,"['whole_milk', 'cream_cheese']",2,11.893053676444353
+4317,"['root_vegetables', 'ice_cream']",2,13.993117333740958
+4318,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+4319,"['butter', 'butter_milk', 'domestic_eggs']",3,14.566854893871607
+4320,"['citrus_fruit', 'other_vegetables', 'brown_bread']",3,34.704971847785586
+4323,"['tropical_fruit', 'pip_fruit', 'other_vegetables', 'misc._beverages']",4,40.924495502020385
+4325,"['beef', 'yogurt', 'margarine']",3,27.241890618520387
+4327,"['bottled_water', 'soda', 'napkins']",3,12.800801398642998
+4328,"['citrus_fruit', 'pip_fruit', 'berries', 'house_keeping_products']",4,38.720933375760595
+4329,"['other_vegetables', 'oil']",2,22.43240737117931
+4330,"['dessert', 'soda', 'cake_bar', 'shopping_bags']",4,32.20975107379773
+4331,"['oil', 'ketchup', 'coffee']",3,26.286441224841305
+4333,"['root_vegetables', 'other_vegetables', 'butter', 'chocolate']",4,28.903826975526677
+4336,"['cream_cheese', 'rolls/buns', 'fruit/vegetable_juice']",3,12.771459195782942
+4340,"['whole_milk', 'coffee']",2,18.35600960764268
+4341,"['nuts/prunes', 'yogurt', 'fruit/vegetable_juice', 'specialty_chocolate']",4,27.7150076877836
+4342,"['chicken', 'frozen_meals', 'margarine', 'soda']",4,33.32206640918796
+4343,"['tropical_fruit', 'frozen_vegetables']",2,18.876641449367398
+4344,"['yogurt', 'vinegar']",2,7.687084010926705
+4345,"['waffles', 'candy']",2,24.843700943605107
+4346,"['chicken', 'cream_cheese', 'rice']",3,21.485447570972262
+4348,"['rolls/buns', 'brown_bread']",2,13.458054976903288
+4351,"['whole_milk', 'brown_bread', 'sugar']",3,23.21333029655404
+4352,"['whole_milk', 'rolls/buns']",2,8.729308920775676
+4353,"['whole_milk', 'yogurt']",2,10.658698842284023
+4355,"['soda', 'chewing_gum', 'specialty_bar']",3,20.526823006910007
+4356,"['frankfurter', 'canned_fish', 'napkins', 'newspapers']",4,27.213763249173454
+4357,"['cat_food', 'bottled_water', 'hygiene_articles']",3,21.21995683759942
+4358,"['grapes', 'soft_cheese', 'bottled_water']",3,17.55799208144352
+4359,"['frankfurter', 'herbs']",2,15.145267133237972
+4364,"['oil', 'soda', 'newspapers']",3,30.387076764523876
+4365,"['finished_products', 'onions', 'salty_snack']",3,18.786167819733322
+4366,"['curd', 'cat_food']",2,11.55533480023659
+4368,"['whole_milk', 'specialty_cheese', 'frozen_vegetables']",3,24.99222670535922
+4369,"['frozen_meals', 'shopping_bags']",2,21.926898128154015
+4371,"['jam', 'hygiene_articles']",2,11.832131333622478
+4374,"['chewing_gum', 'chocolate']",2,10.665369301610614
+4376,"['frankfurter', 'yogurt', 'rolls/buns']",3,17.558465436766014
+4377,"['other_vegetables', 'whole_milk', 'curd']",3,21.265759359003354
+4378,"['pastry', 'soda']",2,15.8089339657716
+4379,"['specialty_bar', 'hygiene_articles']",2,22.562589727174153
+4380,"['butter_milk', 'frozen_dessert', 'soda', 'shopping_bags']",4,28.917364291941713
+4381,"['tropical_fruit', 'pip_fruit', 'yogurt']",3,28.466994008655778
+4382,"['chicken', 'pip_fruit', 'soda']",3,22.574772066552455
+4384,"['uht-milk', 'coffee']",2,16.17302973822646
+4387,"['root_vegetables', 'onions', 'shopping_bags']",3,20.312434975411968
+4389,"['whole_milk', 'pastry']",2,15.405216788134362
+4391,"['semi-finished_bread', 'seasonal_products']",2,8.121428374812613
+4392,"['condensed_milk', 'frozen_dessert']",2,14.79236935721535
+4395,"['butter_milk', 'photo/film']",2,10.328174818885373
+4396,"['beef', 'whole_milk', 'yogurt', 'pastry']",4,30.736703932873745
+4397,"['curd', 'brown_bread', 'canned_fruit', 'shopping_bags']",4,30.394931706998864
+4399,"['other_vegetables', 'domestic_eggs']",2,11.218589332750355
+4401,"['waffles', 'shopping_bags']",2,24.587853556552425
+4402,"['pastry', 'house_keeping_products']",2,12.152957167612778
+4403,"['waffles', 'detergent']",2,15.582670739882778
+4404,"['pip_fruit', 'other_vegetables', 'coffee']",3,35.05377849131374
+4406,"['yogurt', 'domestic_eggs', 'pastry']",3,12.94319378899845
+4407,"['cream', 'cake_bar']",2,21.407641552135612
+4408,"['yogurt', 'rolls/buns', 'chewing_gum']",3,6.4898580706911595
+4411,"['dessert', 'cream_cheese', 'waffles']",3,26.78539169950677
+4412,"['whole_milk', 'ice_cream', 'shopping_bags']",3,29.57184191721964
+4414,"['brown_bread', 'vinegar']",2,15.484605977579811
+4417,"['other_vegetables', 'rolls/buns']",2,12.477407965731693
+4419,"['whole_milk', 'margarine']",2,18.774140850185766
+4420,"['yogurt', 'brown_bread', 'coffee']",3,26.879717129649556
+4423,"['ice_cream', 'pastry', 'soda', 'salty_snack']",4,35.70759607507743
+4424,"['chocolate_marshmallow', 'candy']",2,14.751299248800178
+4427,"['hygiene_articles', 'napkins']",2,12.34363191549459
+4429,"['finished_products', 'yogurt', 'pasta']",3,21.032378075516252
+4430,"['tropical_fruit', 'long_life_bakery_product', 'chocolate']",3,36.1114644167731
+4432,"['coffee', 'photo/film']",2,14.890941167126991
+4433,"['frankfurter', 'rolls/buns', 'fruit/vegetable_juice']",3,19.64007532225918
+4435,"['frankfurter', 'soda']",2,19.165386980557827
+4437,"['citrus_fruit', 'tropical_fruit', 'oil']",3,36.043585647772446
+4438,"['root_vegetables', 'other_vegetables', 'pastry', 'pickled_vegetables']",4,32.74774923030455
+4439,"['other_vegetables', 'rolls/buns', 'soda', 'chocolate']",4,29.58090676094333
+4440,"['meat', 'specialty_chocolate']",2,19.97155527311468
+4441,"['whole_milk', 'brown_bread', 'flower_(seeds)']",3,26.07147222707768
+4442,"['rolls/buns', 'pastry', 'soda']",3,17.674505510142517
+4443,"['soda', 'waffles']",2,21.714970690009956
+4445,"['condensed_milk', 'rolls/buns', 'coffee', 'newspapers']",4,34.86919795916859
+4446,"['whole_milk', 'beverages', 'pastry', 'newspapers']",4,32.57593378630331
+4450,"['chicken', 'citrus_fruit', 'softener']",3,15.688955797618469
+4451,"['frozen_vegetables', 'frozen_meals', 'shopping_bags']",3,29.081176873459942
+4452,"['whole_milk', 'rolls/buns', 'specialty_bar']",3,21.15935231320271
+4454,"['yogurt', 'pastry']",2,12.336440877608869
+4455,"['uht-milk', 'cream_cheese', 'soda', 'waffles']",4,31.425044497038087
+4457,"['oil', 'detergent']",2,12.955725553733352
+4459,"['uht-milk', 'cream_cheese', 'coffee', 'bottled_water']",4,24.524607302119588
+4460,"['citrus_fruit', 'curd_cheese', 'abrasive_cleaner', 'house_keeping_products']",4,32.68659413547871
+4461,"['beverages', 'pastry', 'newspapers']",3,25.712196409898553
+4462,"['pastry', 'newspapers']",2,19.84053067239295
+4463,"['whole_milk', 'curd', 'bottled_water']",3,13.976184201496109
+4465,"['whole_milk', 'yogurt', 'frozen_meals', 'bottled_water']",4,25.7675208137071
+4468,"['yogurt', 'long_life_bakery_product']",2,18.34801893742126
+4469,"['ice_cream', 'long_life_bakery_product', 'specialty_chocolate', 'specialty_bar']",4,46.94858941447549
